@@ -27,8 +27,6 @@ python extract_alignment.py \
     --data_path="./dataset_korean_json" \
     --output_path="./db_utils"
 
-
-
 python ./db_utils/combine_translations.py \
     --value_alignment_path="./db_utils/preliminary_bilingual_alignment.json" \
     --src_canonical_path="./db_utils/en2canonical.json" \

@@ -277,5 +277,5 @@ if __name__ == "__main__":
                 file_to_id=new_dialogue_file_to_id,
                 converted_id=converted_id,
             )
-            csv_anno.to_csv(os.path.join(args.annotation_path, f"./new/{file}"), sep="\t", index=False)
-            csv_diff.to_csv(os.path.join(args.annotation_path, f"./diff/{file}"), sep="\t", index=False)
+            # csv_anno.to_csv(os.path.join(args.annotation_path, f"./new/{file}"), sep="\t", index=False)
+            # csv_diff.to_csv(os.path.join(args.annotation_path, f"./diff/{file}"), sep="\t", index=False)
