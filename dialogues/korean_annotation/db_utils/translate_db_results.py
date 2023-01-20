@@ -3,6 +3,7 @@ import argparse
 import json
 import pprint
 from pathlib import Path
+
 from tqdm import trange
 
 
@@ -124,9 +125,7 @@ if __name__ == "__main__":
                                     if src_db_item.items() == src_db_result.items():
                                         # match
                                         match_flag = True
-                                        tgt_db_results.append(
-                                            {k.replace(" ", "_"): v for k, v in tgt_db[d][item_idx].items()}
-                                        )
+                                        tgt_db_results.append({k.replace(" ", "_"): v for k, v in tgt_db[d][item_idx].items()})
                                         match_set.add(str(src_db_result))
                                         break
                             if not match_flag:

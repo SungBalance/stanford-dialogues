@@ -2,7 +2,6 @@ import argparse
 import json
 import os
 
-
 """
 NOTE: Please run this script BEFORE building "en2{tgt}_alignment.json" and "{tgt}2canonical.json", where {tgt} is the target language!
 This script is used to combine all translations of source language entities which share the same canonicalized forms.
@@ -26,9 +25,7 @@ parser = argparse.ArgumentParser(
 )
 
 parser.add_argument("--value_alignment_path", type=str, help="path of (preliminary) bilingual value alignment file")
-parser.add_argument(
-    "--src_canonical_path", type=str, help="path of canonical value mapping file in the source language"
-)
+parser.add_argument("--src_canonical_path", type=str, help="path of canonical value mapping file in the source language")
 parser.add_argument("--output_path", type=str, help="output path of organized bilingual alignment file")
 
 args = parser.parse_args()
@@ -41,11 +38,12 @@ organized_value_alignment = {}
 for d in value_alignment.keys():
     organized_value_alignment[d] = {}
     for s in value_alignment[d].keys():
-        organized_value_alignment[d][s] = {}
+        organized_value_alignment[d][s.lower()] = {}
         for src_val, tgt_val_list in value_alignment[d][s].items():
-            src_val, tgt_val_list = tgt_val_list, [src_val]
+            # src_val, tgt_val_list = tgt_val_list, [src_val]
             print(f"src_val: {src_val}")
             print(f"(d, s): {d} | {s}")
+            s = s.lower()
             if src_val in src_canonical[d][s].keys():
                 canonical_src_val = src_val
             elif any([src_val in src_canonical[d][s][v] for v in src_canonical[d][s].keys()]):

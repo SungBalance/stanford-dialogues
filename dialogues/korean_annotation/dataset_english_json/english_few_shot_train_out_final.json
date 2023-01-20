@@ -26934,7 +26934,7 @@
                                 ]
                             ]
                         },
-                        "Car-seat": {
+                        "Car-number of seats": {
                             "6": [
                                 [
                                     13,
@@ -26951,11 +26951,11 @@
                 "belief_state": {
                     "inform slot-values": {
                         "Car-classification": "SUV",
-                        "Car-seats": "6"
+                        "Car-number of seats": "6"
                     },
                     "turn_inform": {
                         "Car-classification": "SUV",
-                        "Car-seats": "6"
+                        "Car-number of seats": "6"
                     },
                     "turn request": []
                 },

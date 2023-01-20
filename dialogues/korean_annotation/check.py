@@ -1,11 +1,12 @@
 import argparse
-import logging
 import json
+import logging
 import os
+from collections import OrderedDict
+from typing import Optional, Tuple
+
 import pandas as pd
 from tqdm import tqdm
-from typing import Optional, Tuple
-from collections import OrderedDict
 
 """
 What does this script do?
@@ -101,9 +102,9 @@ def del_value(df, idx, dial_id, turn_id, role):
                     (df["dialogue_id"] == dial_id) & (df["turn_id"] == turn_id) & (df["utterance_type"] == role), field
                 ].values[0]
             )
-            df.loc[
-                (df["dialogue_id"] == dial_id) & (df["turn_id"] == turn_id) & (df["utterance_type"] == role), field
-            ] = str([orig_field_v[item_idx] for item_idx in range(len(orig_field_v)) if item_idx not in idx])
+            df.loc[(df["dialogue_id"] == dial_id) & (df["turn_id"] == turn_id) & (df["utterance_type"] == role), field] = str(
+                [orig_field_v[item_idx] for item_idx in range(len(orig_field_v)) if item_idx not in idx]
+            )
     # refresh the selection
     df_item = df.loc[(df["dialogue_id"] == dial_id) & (df["turn_id"] == turn_id) & (df["utterance_type"] == role)]
     return df, df_item
@@ -158,9 +159,7 @@ def get_diff(new_data, csv_path, csv_file, id_to_file, file_to_id, converted_id)
         if csv_dial_id_list in split_dial_ids:
             dial_id_diff = set(split_dial_ids) - set(csv_dial_id_list)
             if dial_id_diff:
-                logging.warning(
-                    f"Missing dialogue ids in {csv_file}: {list(dial_id_diff)}, please annotate these dialogues!"
-                )
+                logging.warning(f"Missing dialogue ids in {csv_file}: {list(dial_id_diff)}, please annotate these dialogues!")
     for dial_id, new_dial in tqdm(new_data.items()):
         for new_turn in new_dial["dialogue"]:
             turn_id = new_turn["turn_id"]
@@ -198,8 +197,7 @@ def get_diff(new_data, csv_path, csv_file, id_to_file, file_to_id, converted_id)
                                 )
                                 logging.debug(f"csv_v: {csv_v}, turn_v: {turn_v}")
                             if not (
-                                find_value(turn_v_span, csv_v_char_span)[0]
-                                or find_value(turn_v_span, csv_v_word_span)[0]
+                                find_value(turn_v_span, csv_v_char_span)[0] or find_value(turn_v_span, csv_v_word_span)[0]
                             ):
                                 # delete old values in the csv annotations if their spans are not in the new file
                                 idx_to_del.append(csv_v_idx)
@@ -221,9 +219,7 @@ def get_diff(new_data, csv_path, csv_file, id_to_file, file_to_id, converted_id)
                                     logging.warning(
                                         f'Please annotate missing target entity for source entity "{v}" at {v_span} (char span: {convert_span(utt, v_span)}) in {id_to_file[dial_id]}->{anno_id} (#{converted_id[anno_id]}) in annotation tool.'
                                     )
-                                    logging.debug(
-                                        f"v: {v}, source_entity: {eval(csv_anno_item['source_entity'].values[0])}"
-                                    )
+                                    logging.debug(f"v: {v}, source_entity: {eval(csv_anno_item['source_entity'].values[0])}")
                                 else:
                                     # new value is in the csv file, but the span is different
                                     if not check_nested_type(v_span, list):
@@ -234,9 +230,7 @@ def get_diff(new_data, csv_path, csv_file, id_to_file, file_to_id, converted_id)
                                             or find_value(eval(csv_anno_item["source_word_span"].values[0]), span)[0]
                                         ):
                                             # delete the old span
-                                            idx_to_del += find_value(eval(csv_anno_item["source_entity"].values[0]), v)[
-                                                1
-                                            ]
+                                            idx_to_del += find_value(eval(csv_anno_item["source_entity"].values[0]), v)[1]
                                             logging.debug(
                                                 f"v: {v}, source_entity: {eval(csv_anno_item['source_entity'].values[0])}, idx_to_del: {idx_to_del}"
                                             )

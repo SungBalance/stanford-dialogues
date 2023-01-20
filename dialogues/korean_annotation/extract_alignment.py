@@ -1,9 +1,9 @@
 import argparse
+import collections
 import json
 import os
-from pathlib import Path
 from contextlib import ExitStack
-import collections
+from pathlib import Path
 
 
 def read_json_files_in_folder(path, exclude_list=None):

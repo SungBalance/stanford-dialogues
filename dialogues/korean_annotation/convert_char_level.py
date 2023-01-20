@@ -3,11 +3,11 @@ import collections
 import copy
 import json
 import os
-import pandas as pd
-
-from tqdm import tqdm
 from contextlib import ExitStack
 from pathlib import Path
+
+import pandas as pd
+from tqdm import tqdm
 
 # TODO: goal translation
 
@@ -56,7 +56,7 @@ slot_alignment = {
     "colour": "colour",
     "computer type": "computer type",
     "consumption": "consumption",
-    "cruise control system": " cruise control system",
+    "cruise control system": "cruise control system",
     "cuisine": "cuisine",
     "date": "date",
     "day": "day",
@@ -199,8 +199,7 @@ def build_utterance_from_annotation(annotation, source_turn, dialogue_id, role, 
             ), f'Missing entity alignment detected. Please have a check! Location: \n dialogue {dialogue_id} \n -> turn #{source_turn["turn_id"]} \n -> {role} utterance'
             # add alignments
             value_alignment = {
-                normalize_entity(source_entity[i]): normalize_entity(target_entity[i])
-                for i in range(len(source_entity))
+                normalize_entity(source_entity[i]): normalize_entity(target_entity[i]) for i in range(len(source_entity))
             }
         except IndexError:
             # Catch Exception: list index out of range

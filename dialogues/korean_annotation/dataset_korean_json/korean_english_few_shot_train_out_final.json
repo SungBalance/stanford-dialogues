@@ -1236,7 +1236,7 @@
                 "system_utterance": [
                     "물론이죠.",
                     {
-                        "Car- cruise control system": {
+                        "Car-cruise control system": {
                             "물론이죠": [
                                 [
                                     0,
@@ -1248,7 +1248,7 @@
                 ],
                 "belief_state": {
                     "turn request": [
-                        " cruise control system"
+                        "cruise control system"
                     ]
                 },
                 "user_actions": [
@@ -1261,7 +1261,7 @@
                     [
                         "Request",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         ""
                     ]
                 ],
@@ -1269,7 +1269,7 @@
                     [
                         "Inform",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         "물론이죠"
                     ]
                 ],
@@ -15999,7 +15999,7 @@
                 "system_utterance": [
                     "네, 있습니다.",
                     {
-                        "Car- cruise control system": {
+                        "Car-cruise control system": {
                             "네": [
                                 [
                                     0,
@@ -16011,14 +16011,14 @@
                 ],
                 "belief_state": {
                     "turn request": [
-                        " cruise control system"
+                        "cruise control system"
                     ]
                 },
                 "user_actions": [
                     [
                         "Request",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         ""
                     ]
                 ],
@@ -16026,7 +16026,7 @@
                     [
                         "Inform",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         "네"
                     ]
                 ],
@@ -23212,7 +23212,7 @@
                 "system_utterance": [
                     "네, 크루즈 컨트롤도 있습니다.",
                     {
-                        "Car- cruise control system": {
+                        "Car-cruise control system": {
                             "네": [
                                 [
                                     0,
@@ -23224,14 +23224,14 @@
                 ],
                 "belief_state": {
                     "turn request": [
-                        " cruise control system"
+                        "cruise control system"
                     ]
                 },
                 "user_actions": [
                     [
                         "Request",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         ""
                     ]
                 ],
@@ -23239,7 +23239,7 @@
                     [
                         "Inform",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         "네"
                     ]
                 ],
@@ -24617,10 +24617,10 @@
                 ],
                 "belief_state": {
                     "inform slot-values": {
-                        "Car-seats": "6"
+                        "Car-number of seats": "6"
                     },
                     "turn_inform": {
-                        "Car-seats": "6"
+                        "Car-number of seats": "6"
                     },
                     "turn request": []
                 },
@@ -24761,7 +24761,7 @@
                 "system_utterance": [
                     "네, 크루즈 컨트롤이 있습니다.",
                     {
-                        "Car- cruise control system": {
+                        "Car-cruise control system": {
                             "네": [
                                 [
                                     0,
@@ -24773,7 +24773,7 @@
                 ],
                 "belief_state": {
                     "turn request": [
-                        " cruise control system"
+                        "cruise control system"
                     ]
                 },
                 "user_actions": [
@@ -24786,7 +24786,7 @@
                     [
                         "Request",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         ""
                     ]
                 ],
@@ -24794,7 +24794,7 @@
                     [
                         "Inform",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         "네"
                     ]
                 ],
@@ -25015,7 +25015,7 @@
                 "system_utterance": [
                     "네, 크루즈 컨트롤은 있습니다.",
                     {
-                        "Car- cruise control system": {
+                        "Car-cruise control system": {
                             "네": [
                                 [
                                     0,
@@ -25027,14 +25027,14 @@
                 ],
                 "belief_state": {
                     "turn request": [
-                        " cruise control system"
+                        "cruise control system"
                     ]
                 },
                 "user_actions": [
                     [
                         "Request",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         ""
                     ]
                 ],
@@ -25042,7 +25042,7 @@
                     [
                         "Inform",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         "네"
                     ]
                 ],
@@ -32773,7 +32773,7 @@
                 "system_utterance": [
                     "죄송하지만, 그 기능이 장착되어 있지 않습니다. 하지만 보조할 후방 카메라는 있습니다.",
                     {
-                        "Car- cruise control system": {
+                        "Car-cruise control system": {
                             "장착되어 있지 않습니다": [
                                 [
                                     13,
@@ -32793,14 +32793,14 @@
                 ],
                 "belief_state": {
                     "turn request": [
-                        " cruise control system"
+                        "cruise control system"
                     ]
                 },
                 "user_actions": [
                     [
                         "Request",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         ""
                     ]
                 ],
@@ -32808,7 +32808,7 @@
                     [
                         "Inform",
                         "Car",
-                        " cruise control system",
+                        "cruise control system",
                         "장착되어 있지 않습니다"
                     ],
                     [

@@ -1,6 +1,6 @@
 # Translate databases to target languages
-import json
 import argparse
+import json
 from pathlib import Path
 
 parser = argparse.ArgumentParser(description="Translate databases from a source language to a target language.")
@@ -33,7 +33,7 @@ domain_list = [
 na_translation = (
     # (source language, target language)
     "N/A",
-    ""
+    "",
 )
 
 # Read bilingual slot name and value alignment (standard translation)
