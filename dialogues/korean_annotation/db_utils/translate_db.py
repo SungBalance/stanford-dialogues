@@ -44,13 +44,22 @@ with open(f"{args.slot_alignment_path}") as f:
 with open(f"{args.value_alignment_path}") as f:
     value_alignment = json.load(f)
 
+# BDSL
+for domain in domain_list:
+    slot_list = list(value_alignment[domain].keys())
+    for src_slot in slot_list:
+        tgt_slot = slot_alignment[src_slot]
+        value_alignment[domain][tgt_slot] = value_alignment[domain].pop(src_slot)
+
+
+
 for domain in domain_list:
     tgt_db = []
     # Read the source language db
     with open(f"{args.src_db_path}/{domain}_{args.src_lang}.json", "r") as f:
         src_db = json.load(f)
         print(f"Load {len(src_db)} items in {domain} domain from {args.src_lang} database")
-
+    
     # Map the corresponding slot and value to the target language
     for src_db_item in src_db:
         tgt_db_item = {}
