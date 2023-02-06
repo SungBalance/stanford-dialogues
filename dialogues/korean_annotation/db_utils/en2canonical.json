@@ -1,5 +1,5 @@
 {
-    "TV": {
+    "tv": {
         "production country or area": {
             "Taiwan, China": [
                 "Taiwan",
@@ -789,7 +789,7 @@
             "36 minutes": "36 minutes"
         }
     },
-    "Movie": {
+    "movie": {
         "decade": {
             "2010s": [
                 "2010s",
@@ -1539,7 +1539,7 @@
             "Tsui Hark": "Tsui Hark"
         }
     },
-    "Attraction": {
+    "attraction": {
         "area": {
             "Gusu District": "Gusu District",
             "Suzhou Industrial Park": [
@@ -1985,7 +1985,7 @@
             "Walk around the well-preserved ancient blocks, watch the bridges and flowing water, visit the literary and artistic shops, and eat delicious food.": "Walk around the well-preserved ancient blocks, watch the bridges and flowing water, visit the literary and artistic shops, and eat delicious food."
         }
     },
-    "Restaurant": {
+    "restaurant": {
         "name": {
             "Tangpalace Seafood Restaurant": "Tangpalace Seafood Restaurant",
             "Banyuan Private Home Cuisine": "Banyuan Private Home Cuisine",
@@ -2519,7 +2519,7 @@
             "60 yuan": "60 yuan"
         }
     },
-    "Other": {
+    "other": {
         "localized": {
             "Suzhou": "Suzhou",
             "Peking opera": "Peking opera",
@@ -2530,7 +2530,7 @@
             "seven": "seven"
         }
     },
-    "Hotel": {
+    "hotel": {
         "area": {
             "Gusu District": "Gusu District",
             "Suzhou Industrial Park": "Suzhou Industrial Park",
@@ -2860,7 +2860,7 @@
             ]
         }
     },
-    "Hospital": {
+    "hospital": {
         "area": {
             "Gusu District": "Gusu District",
             "Suzhou Industrial Park": "Suzhou Industrial Park",
@@ -3179,7 +3179,7 @@
             "secondary": "secondary"
         }
     },
-    "Weather": {
+    "weather": {
         "city": {
             "Suzhou": "Suzhou",
             "Xiamen": "Xiamen",
@@ -3420,7 +3420,7 @@
             "The maximum temperature will be 15 degrees Celsius, and the minimum temperature will be 4 degrees Celsius.": "The maximum temperature will be 15 degrees Celsius, and the minimum temperature will be 4 degrees Celsius."
         }
     },
-    "Class": {
+    "class": {
         "area": {
             "Gusu District": "Gusu District",
             "Suzhou Industrial Park": "Suzhou Industrial Park",
@@ -3891,7 +3891,7 @@
             "face-to-face & livestreaming": "face-to-face & livestreaming"
         }
     },
-    "Car": {
+    "car": {
         "classification": {
             "SUV": "SUV",
             "notchback": "notchback",
@@ -4169,7 +4169,7 @@
             "relatively strong": "relatively strong"
         }
     },
-    "Flight": {
+    "flight": {
         "departure": {
             "Xiamen": "Xiamen",
             "Hangzhou": "Hangzhou",
@@ -4723,7 +4723,7 @@
             "470 yuan": "470 yuan"
         }
     },
-    "Train": {
+    "train": {
         "destination": {
             "Xiamen": "Xiamen",
             "Hangzhou": "Hangzhou",
@@ -5740,7 +5740,7 @@
             "7 hours and 25 minutes": "7 hours and 25 minutes"
         }
     },
-    "PC": {
+    "pc": {
         "brand": {
             "Lenovo": "Lenovo",
             "Dell": "Dell",
