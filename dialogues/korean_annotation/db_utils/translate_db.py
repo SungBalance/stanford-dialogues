@@ -48,7 +48,7 @@ with open(f"{args.value_alignment_path}") as f:
 for domain in domain_list:
     slot_list = list(value_alignment[domain].keys())
     for src_slot in slot_list:
-        tgt_slot = slot_alignment[src_slot]
+        tgt_slot = slot_alignment[src_slot.replace(" ", "_")]
         value_alignment[domain][tgt_slot] = value_alignment[domain].pop(src_slot)
 
 
