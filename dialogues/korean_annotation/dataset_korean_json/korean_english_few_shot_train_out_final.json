@@ -20745,7 +20745,7 @@
                 "user_utterance": [
                     "인텔 코어 i7 CPU를 선호합니다.",
                     {
-                        "PC-CPU model": {
+                        "PC-CPU": {
                             "인텔 코어 i7": [
                                 [
                                     0,
@@ -20761,10 +20761,10 @@
                 ],
                 "belief_state": {
                     "inform slot-values": {
-                        "PC-CPU model": "인텔 코어 i7"
+                        "PC-CPU": "인텔 코어 i7"
                     },
                     "turn_inform": {
-                        "PC-CPU model": "인텔 코어 i7"
+                        "PC-CPU": "인텔 코어 i7"
                     },
                     "turn request": []
                 },
@@ -20772,7 +20772,7 @@
                     [
                         "Inform",
                         "PC",
-                        "CPU model",
+                        "CPU",
                         "인텔 코어 i7"
                     ]
                 ],
