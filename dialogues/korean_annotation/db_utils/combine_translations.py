@@ -40,10 +40,7 @@ for d in value_alignment.keys():
     for s in value_alignment[d].keys():
         organized_value_alignment[d][s.lower()] = {}
         for src_val, tgt_val_list in value_alignment[d][s].items():
-            # src_val, tgt_val_list = tgt_val_list, [src_val]
-            print(f"src_val: {src_val}")
-            print(f"(d, s): {d} | {s}")
-            s = s.lower()
+            d, s = d.lower(), s.lower()
             if src_val in src_canonical[d][s].keys():
                 canonical_src_val = src_val
             elif any([src_val in src_canonical[d][s][v] for v in src_canonical[d][s].keys()]):
