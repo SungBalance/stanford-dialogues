@@ -36,6 +36,7 @@ if __name__ == "__main__":
                 for role in ["user", "system"]:
                     for ds in turn[f"{role}_utterance"][1].keys():
                         d, s = ds.split("-")
+                        d, s = d.lower(), s.lower()
                         if d not in alignment.keys():
                             alignment[d] = {}
                         if s not in alignment[d].keys():

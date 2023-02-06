@@ -8,6 +8,7 @@ from pathlib import Path
 
 import pandas as pd
 from tqdm import tqdm
+from mergedeep import merge
 
 # TODO: goal translation
 
@@ -261,9 +262,18 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     annotation = pd.read_csv(args.csv_path, sep="\t")
-    split = Path(args.csv_path).stem.strip("_output")
+    split = None
     continue_flag = False
     data = read_json_files_in_folder(args.data_folder)
+    if "_output" in Path(args.csv_path).stem:
+        for item in ["few_shot", "fewshot", "dev", "valid", "test"]:
+            data = {(item if item in k else k): v for k, v in data.items()}
+            if item in args.csv_path:
+                split = item.replace("_", "").replace("dev", "valid")
+    if split is None:
+        raise ValueError(
+            f'Cannot find split name in {args.csv_path}. Should contain one of "fewshot", "valid", or "test"'
+        )
     target_data = []
     for source_dialog in tqdm(data[split]):
         target_dialog = copy.deepcopy(source_dialog)
@@ -271,9 +281,11 @@ if __name__ == "__main__":
         target_dialog["domains"] = [align(domain, domain_alignment) for domain in source_dialog["domains"]]
         # translate dialogue
         target_dialog["dialogue"] = []
+        value_alignment = {}
         for turn_idx in range(len(source_dialog["dialogue"])):
             source_turn = source_dialog["dialogue"][turn_idx]
             target_turn = copy.deepcopy(source_turn)
+            target_turn.pop("db_results")
             # translate turn domain
             target_turn["turn_domain"] = [align(domain, domain_alignment) for domain in source_turn["turn_domain"]]
             # build user utterance and system utterance from csv annotation
@@ -285,11 +297,12 @@ if __name__ == "__main__":
             )
             if target_turn["user_utterance"] is not None and target_turn["system_utterance"] is not None:
                 # translate belief state
-                target_turn["belief_state"] = collections.OrderedDict()
-                value_alignment = {**user_value_alignment, **system_value_alignment}
+                target_turn["belief_state"] = copy.deepcopy(source_turn["belief_state"])
+                for k in target_turn["belief_state"].keys():
+                    target_turn["belief_state"][k].clear()
+                value_alignment = {**value_alignment, **user_value_alignment, **system_value_alignment}
                 for source_value in value_alignment.keys():
                     for k, d, s in find_value_in_belief_states(source_turn["belief_state"], source_value):
-                        target_turn["belief_state"][k] = {}
                         target_d, target_s, target_v = (
                             align(d, domain_alignment),
                             align(s, slot_alignment),
@@ -299,6 +312,18 @@ if __name__ == "__main__":
                 target_turn["belief_state"]["turn request"] = [
                     align(slot, slot_alignment) for slot in source_turn["belief_state"]["turn request"]
                 ]
+                # for k in source_turn["belief_state"].keys():
+                #     if k not in target_turn["belief_state"].keys():
+                #         target_turn["belief_state"][k] = {}
+                # combine former belief states
+                if turn_idx > 0:
+                    target_turn["belief_state"]["inform slot-values"] = merge(
+                        {},
+                        target_dialog["dialogue"][turn_idx-1]["belief_state"]["inform slot-values"],
+                        target_dialog["dialogue"][turn_idx-1]["belief_state"]["turn_inform"],
+                        target_turn["belief_state"]["inform slot-values"],
+                        target_turn["belief_state"]["turn_inform"]
+                    )
                 # translate actions
                 for role in ["user", "system"]:
                     target_turn[f"{role}_actions"] = []
@@ -311,7 +336,8 @@ if __name__ == "__main__":
                                 align(action[3], value_alignment),
                             ]
                         )
-                target_turn["alignment"] = reverse_dict(value_alignment)
+                turn_alignment = reverse_dict({**user_value_alignment, **system_value_alignment})
+                target_turn["alignment"] = {k: v for k, v in reverse_dict(value_alignment).items() if k in turn_alignment.keys()}
                 target_dialog["dialogue"].append(target_turn)
             else:
                 continue_flag = True
