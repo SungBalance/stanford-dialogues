@@ -17,11 +17,11 @@
             "landscape scenic spots": "풍경이 좋은 곳",
             "historic site in Gusu District": "구수구에 있는 유적지",
             "campus": "캠퍼스",
-            "historic site in Suzhou": "쑤저우의 유적지",
-            "historic site": "유적지",
+            "historic site in Suzhou": "쑤저우 유적지",
             "garden": "정원",
             "Suzhou garden": "쑤저우 정원",
             "ancient town": "고대 마을",
+            "historic site": "유적지",
             "historical sites": "유적지"
         },
         "name": {
@@ -33,9 +33,9 @@
             "Stone Lake": "석호",
             "Xishan Island Scenic Area": "서산도 풍경구",
             "Xi’an Jiaotong-Liverpool University": "시안 교통 리버풀 대학교",
-            "Guanqian Street": "관첸제",
+            "Guanqian Street": "관첸로",
             "Mudu Town": "무두 마을",
-            "Harmony Times Square": "하모니 타임스퀘어",
+            "Harmony Times Square": "하모니 타임 스퀘어",
             "Stone Road Pedestrian Street": "스톤 로드 보행자 거리",
             "Tianping Mountain Scenic Area": "천평산 풍경구",
             "The Humble Administrator's Garden": "졸정원",
@@ -51,11 +51,11 @@
             "Hanshan Temple": "한산사",
             "Luzhi Ancient Town": "루즈구전",
             "Dushu Lake Church": "두슈호 성당",
-            "Tongli Ancient Town": "통리구전",
+            "Tongli Ancient Town": "통리마을",
             "Canglang Pavilion": "창랑정",
             "Huayi Brothers Movie World": "화이브라더스 무비 월드",
             "the Gate of the Orient": "동방지문",
-            "Humble Administrator's Garden": "졸정원",
+            "Humble Administrator's Garden": "저우좡 마을의",
             "Dongting Dongshan": "둥팅둥산",
             "Suzhou Aquarium": "쑤저우 아쿠아리움",
             "Master of the Nets Garden": "망사원",
@@ -88,8 +88,7 @@
             "more expensive": "더 비싼",
             "not that expensive": "그렇게 비싸지 않은",
             "affordable": "적당한",
-            "moderately priced": "적당한 가격의",
-            "expensive": "비싼"
+            "moderately priced": "적당한 가격의"
         },
         "phone number": {
             "0512-65314467": "0512-65314467",
@@ -142,34 +141,6 @@
             "enjoy a variety of marine creatures, watch wonderful animal performances, and experience the colorful ocean world": "다양한 해양 생물을 보실 수 있고, 멋진 동물 공연을 감상하실 수 있고, 또 다채로운 해양 세계를 경험",
             "It's a great place to shop, eat, or watch a movie. You can also various brands in the mall": "쇼핑하거나 외식하고 영화를 보기에 좋은 곳입니다. 쇼핑몰 안에 다양한 브랜드가 입점해 있어요",
             "watch tall buildings like the Gate of the Orient, ride the Ferris wheel, take a night cruise, feeling the modern side of Suzhou": "동방지문과 같은 높은 건물들을 보거나, 관람차나 야간 유람선을 타면서 쑤저우의 현대적인 면을 느낄"
-        },
-        "the most suitable people": {
-            "friend": "친구",
-            "girlfriend": "여자친구",
-            "couples": "연인들",
-            "friends": "친구들",
-            "friends to have an outing": "친구들끼리 나들이하기",
-            "for couples": "연인들에게",
-            "friends and I could have some fun": "친구들과 제가 재미있는 시간을 보낼만한",
-            "family-friendly": "가족 친화적인",
-            "date": "데이트",
-            "boyfriend": "남자친구",
-            "partner": "애인",
-            "for friends to have some fun": "친구들이 놀만한",
-            "go with my friends": "친구들과 갈",
-            "for friends": "친구들이",
-            "for a group of friends": "여러 친구들과 가기에",
-            "family": "가족",
-            "a family trip": "가족 여행",
-            "travel with friends": "친구들과 여행",
-            "go with friends": "친구들과 갈",
-            "besties": "친한 친구들",
-            "go with kids": "아이들과 가기",
-            "family trip": "가족여행",
-            "dating": "데이트",
-            "traveling with family": "가족과 여행",
-            "kids": "아이들",
-            "families": "가족들"
         },
         "metro station": {
             "no": "아니요",
@@ -231,8 +202,33 @@
             "Wujiang": "우장",
             "Kunshan": "쿤산시",
             "Changshu": "창수",
-            "Suzhou": "쑤저우",
             "Industrial Park": "공업원구"
+        },
+        "the most suitable people": {
+            "girlfriend": "여자친구",
+            "couples": "연인들",
+            "friends": "친구들",
+            "friend": "친구",
+            "friends to have an outing": "친구들끼리 나들이하기",
+            "friends and I could have some fun": "친구들과 제가 재미있는 시간을 보낼만한",
+            "family-friendly": "가족 친화적인",
+            "date": "데이트",
+            "boyfriend": "남자친구",
+            "partner": "애인",
+            "for friends to have some fun": "친구들이 놀만한",
+            "go with my friends": "친구들과 갈",
+            "for friends": "친구들이",
+            "for a group of friends": "여러 친구들과 가기에",
+            "family": "가족",
+            "a family trip": "가족 여행",
+            "travel with friends": "친구들과 여행",
+            "go with friends": "친구들과 갈",
+            "go with kids": "아이들과 가기",
+            "family trip": "가족여행",
+            "dating": "데이트",
+            "traveling with family": "가족과 여행",
+            "kids": "아이들",
+            "families": "가족들"
         },
         "address": {
             "No. 1, Shangshu Road, Qiandeng Town, Kunshan City, Suzhou City": "쑤저우시 쿤산시 천등 마을 샹슈로 1호입니다",
@@ -299,22 +295,12 @@
             "cheap": "저렴한",
             "a bit more expensive": "조금 더 비싼",
             "cheaper": "더 저렴한",
-            "expensive": "비싼",
             "more expensive": "더 비싼",
             "moderately priced": "적당한 가격대의",
             "fair": "적당합니다",
             "a slightly more expensive": "조금 더 비싼",
             "low-priced": "저렴한 가격대인",
             "high-priced": "비싼 가격대의"
-        },
-        "area": {
-            "Gusu District": "구수구",
-            "Suzhou Industrial Park": "쑤저우 공업원구",
-            "Suzhou New District": "쑤저우 신구",
-            "Suzhou New district": "쑤저우 신구",
-            "Wujiang": "우장",
-            "Kunshan": "쿤산시",
-            "Wuzhong District": "우중구"
         },
         "metro station": {
             "get to directly by subway": "지하철로 바로 갈 수 있는",
@@ -380,7 +366,6 @@
             "QingHeGu": "칭허구",
             "Chongqing De Zhuang Hot Pot": "충칭 더 주앙 훠궈",
             "Yangguanguren Restaurant": "양광구런 식당",
-            "Suzhou": "쑤저우",
             "One Plus Conveyor Belt Sushi": "원 플러스 회전 초밥",
             "L'Arome": "라롬",
             "Laotianqiao Walu Hotpot": "라오티안차오 와루 훠궈",
@@ -520,6 +505,15 @@
             "Big Cow Bone": "큰 소뼈",
             "Steamed Chicken Paws with Fermented Soybean Juice": "된장 닭발찜"
         },
+        "area": {
+            "Suzhou Industrial Park": "쑤저우 공업원구",
+            "Gusu District": "구수구",
+            "Suzhou New District": "쑤저우 신구",
+            "Suzhou New district": "쑤저우 신구",
+            "Wujiang": "우장",
+            "Kunshan": "쿤산시",
+            "Wuzhong District": "우중구"
+        },
         "score": {
             "4.5": "4.5점",
             "4.6": "4.6점",
@@ -630,7 +624,6 @@
             "Korean food": "한국 음식",
             "Korean Cuisine": "한식당",
             "Hotpot": "훠궈",
-            "Sushi": "초밥",
             "western food": "양식",
             "Jiangsu Zhejiang dishes": "장쑤성과 저장성 요리",
             "Northeastern Chinese cuisine": "북동부 중국요리",
@@ -638,8 +631,7 @@
             "Jiangsu and Zhejiang cuisine": "장쑤성과 저장성 요리",
             "South Korean cuisine": "한국 요리",
             "Cantonese cuisine": "광둥 요리",
-            "bread": "빵",
-            "dessert": "디저트"
+            "bread": "빵"
         }
     },
     "hotel": {
@@ -876,7 +868,6 @@
         },
         "pricerange": {
             "cheaper": "더 저렴한",
-            "expensive": "비싼",
             "slightly more expensive": "조금 더 비싼",
             "cheap": "저렴한",
             "a slightly more expensive": "조금 더 비싼",
@@ -897,8 +888,7 @@
             "Nanjing": "난징",
             "Chengdu": "청두",
             "Shenzhen": "선전",
-            "Xiamen": "샤먼",
-            "Futian": "푸티안"
+            "Xiamen": "샤먼"
         },
         "destination": {
             "Chengdu": "청두",
@@ -910,8 +900,7 @@
             "Shanghai": "상하이",
             "Hangzhou": "항저우",
             "Xiamen": "샤먼",
-            "Changlong, Guangzhou": "광저우 창룽",
-            "Shanghai Hongqiao": "상하이 홍차오"
+            "Changlong, Guangzhou": "광저우 창룽"
         },
         "date": {
             "next Tuesday morning": "다음 주 화요일 아침",
@@ -929,21 +918,17 @@
             "next Tuesday afternoon": "다음 주 화요일 오후",
             "next Wednesday morning": "다음 주 수요일 아침",
             "next Friday morning": "다음 주 금요일 아침",
-            "Friday": "금요일",
+            "next Thursday": "다음 주 목요일",
             "next Monday": "다음 주 월요일",
             "morning": "아침",
-            "that day afternoon": "그날 오후",
-            "that day morning": "그날 아침",
-            "afternoon": "오후",
-            "next Sunday": "다음 주 일요일",
-            "in the morning of the same day": "같은 날 아침",
-            "Next Thursday": "다음 주 목요일"
+            "afternoon": "오후"
         },
         "classification": {
+            "afternoon": "오후",
             "high-speed": "고속",
+            "high-speed trains": "고속 열차",
             "high-speed train": "고속 열차",
             "bullet trains": "초고속 열차",
-            "high-speed trains": "고속 열차",
             "bullet train": "초고속 열차"
         },
         "seat type": {
@@ -1307,12 +1292,14 @@
             "19:17": "오후 7시 17분",
             "06:27 the next day": "다음 날 오전 6시 27분",
             "21:20 that day": "같은 날 21시 20분",
+            "20:57 that day": "같은 날 20시 57분",
             "19:40 that day": "그날 19시 40분",
             "22:52 that day": "그날 22시 52분",
             "17:30": "17시 30분",
             "20:47 that day": "그날 20시 47분",
             "20:27 that day": "같은 날 20시 27분",
             "15:49 that day": "그날 15시 49분",
+            "20:33 that day": "같은 날 20시 33분",
             "22:52": "22시 52분",
             "14:39": "14시 39분",
             "14:28": "14시 28분",
@@ -1391,16 +1378,7 @@
             "Chengdu": "청두",
             "Xiamen": "샤먼",
             "Terminal 2 of Baiyun International Airport": "바이윈 국제공항 제2터미널",
-            "Terminal 3 of Xiaoshan International Airport": "샤오산 국제공항 제3터미널",
-            "Nanjing": "난징",
-            "Beijing Capital International Airport": "베이징 수도 국제공항",
-            "Gaoqi International Airport": "가오치 국제공항",
-            "Shuangliu International Airport Terminal 1": "솽류 국제공항 제1터미널",
-            "Baiyun International Airport Terminal 1": "바이윈 국제공항 제1터미널",
-            "Lukou International Airport Terminal 2": "루커우 국제공항 제2터미널",
-            "Shuangliu International Airport": "솽류 국제공항",
-            "Terminal 3 of Gaoqi International Airport": "가오치 국제공항 제3터미널",
-            "T2, Baiyun International Airport": "바이윈 국제공항 제2터미널"
+            "Nanjing": "난징"
         },
         "destination": {
             "Shanghai": "상하이",
@@ -1411,14 +1389,7 @@
             "Beijing": "베이징",
             "Shenzhen": "선전",
             "Xiamen": "샤먼",
-            "Terminal 1 of Shuangliu International Airport": "솽류 국제공항 제1터미널",
-            "Terminal 2 of Beijing Capital International Airport": "베이징 수도 국제공항 제2터미널",
-            "Terminal 3 of Gaoqi International Airport": "가오치 국제공항 제3터미널",
-            "Beijing Capital International Airport": "베이징 수도 국제공항",
-            "Beijing Capital International Airport Terminal 3": "베이징 수도 국제공항 제3터미널",
-            "Beijing Capital International Airport Terminal 2": "베이징 수도 국제공항 제2터미널",
-            "T1, Shuangliu International Airport": "솽류 국제공항 제1터미널",
-            "Hongqiao International Airport T2": "홍차오 국제공항 제2터미널"
+            "Terminal 1 of Shuangliu International Airport": "솽류 국제공항 제1터미널"
         },
         "date": {
             "next Sunday": "다음 주 일요일",
@@ -1430,9 +1401,7 @@
             "next Friday": "다음 주 금요일",
             "Tuesday": "다음 주 화요일",
             "Wednesday": "수요일",
-            "that day": "그날",
-            "Next Thursday": "다음 주 목요일",
-            "the next day": "다음 날"
+            "Next Thursday": "다음 주 목요일"
         },
         "class cabin": {
             "economy": "이코노미",
@@ -1698,7 +1667,6 @@
             "17:35 that day": "날 오후 5시 35분",
             "10:15 that day": "그날 10시 15분",
             "13:20 that day": "그날 오후 1시 20분",
-            "1 pm": "오후 1시",
             "1:30 pm": "오후 1시 30분",
             "2 pm that day": "그날 오후 2시",
             "11:05 that day": "그날 11시 5분",
@@ -1757,7 +1725,6 @@
             "next Monday": "다음 주 월요일",
             "next Saturday": "다음 주 토요일",
             "Next Thursday": "다음 주 목요일",
-            "the next day": "다음 날",
             "that day": "그날"
         },
         "weather condition": {
@@ -2581,7 +2548,6 @@
             "Japanese shows": "일본 프로그램",
             "American series": "미국 시리즈",
             "in America": "미국에서",
-            "Korean series": "한국 시리즈",
             "domestic TV shows": "국내 TV 프로그램",
             "Korean drama": "한국 드라마",
             "in South Korea": "한국에서",
@@ -2708,7 +2674,6 @@
             "Donnie Yen": "견자단",
             "Bosco Wong": "황종택",
             "Fenqiang Ouyang": "구양분강",
-            "Sam Worthington": "샘 워싱턴",
             "Barbie Hsu": "서희원",
             "Haoran Liu": "류호연",
             "Shatrughan Sinha": "샤트루간 신하",
@@ -2782,7 +2747,7 @@
             "No": "아니요"
         },
         "ct": {
-            "No": "없습니다",
+            "No": "아니오",
             "no": "없습니다"
         },
         "dsa": {
@@ -2809,6 +2774,7 @@
             "Wuzhong West Road": "우중서로"
         },
         "registration time": {
+            "from 7:00 to 11:00 and from 12:00 to 16:30": "오전 7시부터 11시 그리고 오후 12시부터 4시 반까지",
             "from 7:00 to 11:00, and from 12:00 to 16:30": "오전 7시부터 11시, 그리고 오후 12시부터 4시 반까지",
             "7:15 to 11:20 and 13:00 to 16:45": "오전 7시 15분부터 11시 20분 그리고 오후 1시부터 4시 45분까지",
             "opens earlier in the morning. It is open from 7 am to 11:30 am and then from 12 pm to 4:30 pm": "오전 더 일찍 열어요. 오전 7시부터 오전 11시 반 그리고 나서 오후 12시부터 오후 4시 반까지입니다",
@@ -2949,7 +2915,6 @@
             "Flame 7000": "플레임 7000",
             "Xiaoxin Air": "샤오신 에어",
             "HP Zhan 99 Pro G1 MT": "HP 잔 99 프로 G1 MT",
-            "MacBook Air": "맥북 에어",
             "MacBook Air 13.3 of Apple 2019": "애플 맥북 에어 13.3 2019",
             "HP Zhan 66 Pro 14 G3": "HP 잔 66 프로 14 G3",
             "Dell Vostro Flame 5000 (5590)": "델 보스트로 플레임 5000 (5590)",
@@ -3012,22 +2977,13 @@
             "Mi laptop": "미 노트북",
             "Lenovo Legion": "레노버 리전",
             "HP Zhan series": "HP 잔 시리즈",
-            "Dell OptiPlex": "델 옵티플렉스",
             "Lenovo Xiaoxin Air": "레노버 샤오신 에어",
             "Lenovo Xiaoxin Chao": "레노버 샤오신 차오",
             "Inspiron series of Dell": "델 인스피론 시리즈",
             "GeekPro series of Lenovo": "레노버의 긱프로 시리즈",
-            "Acer Shadow Knight": "에이서 쉐도우 나이트",
             "Lenovo GeekPro": "레노버 긱프로",
-            "Mi Notebook Air": "미 노트북 에어",
             "HP Pavilion": "HP 파빌리온",
-            "Acer Veriton": "에이서 베리톤",
-            "Acer Extensa": "에이서 익스텐자",
-            "Lenovo Tianyi series": "레노버 티안이 시리즈",
-            "MacBook Air": "맥북 에어",
-            "Mi Notebook": "미 노트북",
-            "Dell Vostro": "델 보스트로",
-            "Dell Flame 7000": "델 플레임 7000"
+            "MacBook Air": "맥북 에어"
         },
         "usage": {
             "gaming laptop": "게이밍 노트북",
@@ -3064,7 +3020,6 @@
             "i5-8250U": "i5-8250U",
             "i5-9400F": "i5-9400F",
             "i7-9700F": "i7-9700F",
-            "i7-10710u": "i7-10710u",
             "Intel Core i7-9700": "인텔 코어 i7-9700",
             "Intel Core i7-9700F": "인텔 코어 i7-9700F",
             "i5-10210U": "i5-10210U",
@@ -3091,7 +3046,6 @@
             "desktops": "데스크톱",
             "desktop": "데스크톱",
             "laptops": "노트북",
-            "Desktop": "데스크톱",
             "Notebook": "노트북"
         },
         "screen size": {
@@ -3137,6 +3091,14 @@
             "discrete graphics card": "개별 그래픽 카드",
             "discrete graphics": "별도의 그래픽 카드"
         },
+        "cpu": {
+            "Intel Core i7": "인텔 코어 i7",
+            "i7": "i7",
+            "Intel Core i9": "인텔 코어 i9",
+            "Intel Core i5": "인텔 코어 i5",
+            "Intel Core i3": "인텔 코어 i3",
+            "Inter Core i5": "인텔 코어 i5"
+        },
         "weight": {
             "5.58kg": "5.58kg",
             "1.5-2kg": "1.5-2kg",
@@ -3160,10 +3122,10 @@
             "Bora": "보라",
             "Lavida": "라비다",
             "FAW-Volkswagen CC": "FAW-폭스바겐 CC",
+            "Tiguan-L": "티구안-L",
             "FAW-Volkswagen TACQUA": "FAW-폭스바겐 타쿠아",
             "Teramont": "테라몬트",
             "Teramont X": "테라몬트 X",
-            "Tiguan-L": "티구안-L",
             "Volkswagen T-Cross": "폭스바겐 T-크로스",
             "FAW-Volkswagen": "FAW-폭스바겐",
             "Volkswagen Touran L": "폭스바겐 투란 L",
@@ -3490,7 +3452,6 @@
             "Pingjiang New Town Learning Center, Gusu District": "구수구 핑장 뉴타운 학습 센터",
             "Double Lake Plaza Learning Center, Wuzhong District": "우중구 더블 레이크 플라자 학습 센터",
             "Fangzhou Neighborhood Center, Suzhou Industrial Park": "쑤저우 공업원구 팡저우 인근 센터",
-            "Jinhe International Building": "진허 국제 빌딩",
             "Xijin Commercial Square": "시진 상업 광장"
         },
         "start date": {
@@ -3526,8 +3487,8 @@
             "10": "10시",
             "15:20": "오후 3시 20분",
             "17:50": "오후 5시 50분",
-            "12:20": "12시 20분",
             "12": "12시 20분",
+            "12:20": "12시 20분",
             "17:30": "오후 5시 30분",
             "20:00": "오후 8시",
             "20:30": "오후 8시 30분",

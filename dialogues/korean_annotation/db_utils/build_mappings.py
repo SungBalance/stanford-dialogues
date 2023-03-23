@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 from collections import OrderedDict
+from pprint import pprint
 
 
 def build_alignment(value, translation, canonical_mark):
@@ -39,6 +40,8 @@ if __name__ == "__main__":
             for value, translation in alignment[domain][slot].items():
                 if len(translation) > 1 and args.incorrect_mark not in value:
                     if len([True for item in translation if args.canonical_mark in item]) != 1:
+                        print("-----")
+                        # pprint(alignment[domain][slot])
                         print(f"found multiple or no standard translation for {domain} => {slot} => {value}, please fix first!")
 
     # get filtered alignment

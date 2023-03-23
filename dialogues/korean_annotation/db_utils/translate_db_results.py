@@ -110,8 +110,8 @@ if __name__ == "__main__":
                             tgt_db_results.append(src_db_result.replace(db_result_prefix[0], db_result_prefix[1]))
                         else:
                             # turn dict string into dict
-                            total_set.add(src_db_result)
-                            src_db_result = eval(src_db_result.replace("true", "True").replace("false", "False"))
+                            total_set.add(str(src_db_result))
+                            src_db_result = eval(str(src_db_result).replace("true", "True").replace("false", "False"))
                             # convert True/False to 'true'/'false'
                             for k, v in src_db_result.items():
                                 if isinstance(v, (bool, float, int, list)):

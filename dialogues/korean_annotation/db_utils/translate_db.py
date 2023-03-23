@@ -44,11 +44,24 @@ with open(f"{args.slot_alignment_path}") as f:
 with open(f"{args.value_alignment_path}") as f:
     value_alignment = json.load(f)
 
+TGT_SLOT_TRANS = False
+TGT_SLOT_UNDERBAR = True
+def get_tgt_slot(src_slot):
+    if TGT_SLOT_TRANS:
+        tgt_slot = slot_alignment[src_slot]
+    else:
+        tgt_slot = src_slot
+
+    if TGT_SLOT_UNDERBAR:
+        return tgt_slot.replace("_", " ")
+    else:
+        return tgt_slot.replace(" ", "_")
+
 # BDSL
 for domain in domain_list:
     slot_list = list(value_alignment[domain].keys())
     for src_slot in slot_list:
-        tgt_slot = slot_alignment[src_slot.replace(" ", "_")]
+        tgt_slot = get_tgt_slot(src_slot)
         value_alignment[domain][tgt_slot] = value_alignment[domain].pop(src_slot)
 
 
@@ -64,24 +77,35 @@ for domain in domain_list:
     for src_db_item in src_db:
         tgt_db_item = {}
         for src_slot, src_value in src_db_item.items():
-            tgt_slot = slot_alignment[src_slot]
+            
+            tgt_slot = get_tgt_slot(src_slot)
+            # print(f"\nsrc: {src_slot} - {src_value} | tgt: {tgt_slot}")
             if isinstance(src_value, list):
-                tgt_db_item[tgt_slot] = [value_alignment[domain][tgt_slot][option] for option in src_value]
+                try:
+                    tgt_db_item[tgt_slot] = [value_alignment[domain][tgt_slot][option] for option in src_value]
+                except KeyError as e:
+                    print(f"\nKeyError: {e}")
+                    print(f"src: {src_slot} - {src_value} | tgt: {tgt_slot}")
+                    input()
             else:
                 src_value = str(src_value)
-                if src_value in value_alignment[domain][tgt_slot].keys():
-                    tgt_db_item[tgt_slot] = value_alignment[domain][tgt_slot][src_value]
-                elif not src_value:
-                    tgt_db_item[tgt_slot] = na_translation[1]
-                else:
-                    print(
-                        f"Warning: missing value {src_value} of slot {src_slot} in source language {args.src_lang} not found in the bilingual value alignment file! Please add the corresponding translation to the alignment file and try again."
-                    )
+                try:
+                    if src_value in value_alignment[domain][tgt_slot].keys():
+                        tgt_db_item[tgt_slot] = value_alignment[domain][tgt_slot][src_value]
+                    elif not src_value:
+                        tgt_db_item[tgt_slot] = na_translation[1]
+                    else:
+                        print(
+                            f"Warning: missing value '{src_value}' of slot '{src_slot}' in source language {args.src_lang} not found in the bilingual value alignment file! Please add the corresponding translation to the alignment file and try again."
+                        )
+                except KeyError as e:
+                    print(f"\nKeyError: {e}")
+
         # Check integrity of translated db item
         if len(src_db_item) == len(tgt_db_item):
             tgt_db.append({k.replace(" ", "_"): v for k, v in tgt_db_item.items()})
     print(f"Finished translation from {args.src_lang} to {args.tgt_lang} in {domain} domain!")
-    print(f"successful: {len(tgt_db)}, failed: {len(src_db) - len(tgt_db)}")
+    print(f"successful: {len(tgt_db)}, failed: {len(src_db) - len(tgt_db)}\n\n\n")
 
     # Write the target language db
     tgt_db_path = Path(f"{args.tgt_db_path}")
