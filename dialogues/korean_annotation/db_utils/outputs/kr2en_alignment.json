@@ -116,7 +116,49 @@
             "0512-66892763": "0512-66892763",
             "0512-66514042": "0512-66514042",
             "0512-65336634": "0512-65336634",
-            "0512-69888888": "0512-69888888"
+            "0512-69888888": "0512-69888888",
+            "0512-67773263": [
+                "0512-67773263"
+            ],
+            "0512-65337903": [
+                "0512-65337903"
+            ],
+            "0512-69163907": [
+                "0512-69163907"
+            ],
+            "N/A": [
+                "N/A"
+            ],
+            "0512-65260004": [
+                "0512-65260004"
+            ],
+            "0512-65293190": [
+                "0512-65293190"
+            ],
+            "0512-66310058": [
+                "0512-66310058"
+            ],
+            "0512-66191668": [
+                "0512-66191668"
+            ],
+            "0512-66261310": [
+                "0512-66261310"
+            ],
+            "0512-62986008": [
+                "0512-62986008"
+            ],
+            "0512-62802222": [
+                "0512-62802222"
+            ],
+            "0512-67886788": [
+                "0512-67886788"
+            ],
+            "0512-69566001": [
+                "0512-69566001"
+            ],
+            "0512-66658111": [
+                "0512-66658111"
+            ]
         },
         "score": {
             "4.5": "4.5점",
@@ -125,7 +167,13 @@
             "4.6": "4.6점",
             "4.7": "4.7점",
             "4.2": "4.2점",
-            "4.1": "4.1점"
+            "4.1": "4.1점",
+            "4.8": [
+                "4.8"
+            ],
+            "3.5": [
+                "3.5"
+            ]
         },
         "features": {
             "enjoy the scenery of old Suzhou, visit the old guild hall and other historical sites, take a cruise on the river and take photos of the beautiful night scenery": "옛 쑤저우의 풍경을 감상할 수 있고, 옛 길드 홀을 비롯한 다른 유적지를 방문할 수 있으며, 강을 따라 유람선을 타고 아름다운 야경 사진을 찍을 수 있습니다",
@@ -153,7 +201,13 @@
             "could get to by subway": "지하철을 타고 바로 가실 수 있습니다",
             "get there directly by subway": "지하철로 바로 가실",
             "there is": "있습니다",
-            "with a subway station nearby": "근처에 지하철 역이 있는"
+            "with a subway station nearby": "근처에 지하철 역이 있는",
+            "FALSE": [
+                "FALSE"
+            ],
+            "TRUE": [
+                "TRUE"
+            ]
         },
         "opening hours": {
             "07:30-18:50": "오전 7시 반부터 오후 6시 50분까지",
@@ -191,7 +245,10 @@
             "110 yuan": "110위안",
             "120 yuan": "120위안",
             "299 yuan": "299위안",
-            "55 yuan": "55위안"
+            "55 yuan": "55위안",
+            "50 yuan": [
+                "50위안"
+            ]
         },
         "area": {
             "Suzhou Industrial Park": "쑤저우 공업원구",
@@ -317,7 +374,13 @@
             "is": "입니다",
             "No": "아니요",
             "with a subway station nearby": "근처에 지하철 역이 있는",
-            "could": "수 있는"
+            "could": "수 있는",
+            "TRUE": [
+                "TRUE"
+            ],
+            "FALSE": [
+                "FALSE"
+            ]
         },
         "name": {
             "Nongleyuan Charcoal Fire Barbecue": "농러유안 숯불 바비큐",
@@ -522,7 +585,10 @@
             "4.2": "4.2점",
             "4.4": "4.4점",
             "3.5": "3.5점",
-            "5.0": "5.0점"
+            "5.0": "5.0점",
+            "4.8": [
+                "4.8"
+            ]
         },
         "phone number": {
             "0512-62919949": "0512-62919949",
@@ -561,7 +627,49 @@
             "0512-67634656": "0512-67634656",
             "0512-68783880": "0512-68783880",
             "0512-62567071": "0512-62567071",
-            "0512-69168288": "0512-69168288"
+            "0512-69168288": "0512-69168288",
+            "0512-68210779": [
+                "0512-68210779"
+            ],
+            "0512-67274512": [
+                "0512-67274512"
+            ],
+            "0512-67557020": [
+                "0512-67557020"
+            ],
+            "180-1350-3488": [
+                "180-1350-3488"
+            ],
+            "0512-83989318": [
+                "0512-83989318"
+            ],
+            "0512-66277557": [
+                "0512-66277557"
+            ],
+            "0512-65074650": [
+                "0512-65074650"
+            ],
+            "0512-66310773": [
+                "0512-66310773"
+            ],
+            "0512-66655909": [
+                "0512-66655909"
+            ],
+            "0512-68788933": [
+                "0512-68788933"
+            ],
+            "0512-62917283": [
+                "0512-62917283"
+            ],
+            "0512-63339777": [
+                "0512-63339777"
+            ],
+            "0512-63263679": [
+                "0512-63263679"
+            ],
+            "0512-52507977": [
+                "0512-52507977"
+            ]
         },
         "per capita consumption": {
             "88 yuan": "88위안",
@@ -599,7 +707,43 @@
             "73 yuan": "73위안",
             "99 yuan": "99위안",
             "135 yuan": "135위안",
-            "85 yuan": "85위안"
+            "85 yuan": "85위안",
+            "38 yuan": [
+                "38위안"
+            ],
+            "23 yuan": [
+                "23위안"
+            ],
+            "29 yuan": [
+                "29위안"
+            ],
+            "176 yuan": [
+                "176위안"
+            ],
+            "154 yuan": [
+                "154위안"
+            ],
+            "24 yuan": [
+                "24위안"
+            ],
+            "94 yuan": [
+                "94위안"
+            ],
+            "87 yuan": [
+                "87위안"
+            ],
+            "31 yuan": [
+                "31위안"
+            ],
+            "179 yuan": [
+                "179위안"
+            ],
+            "98 yuan": [
+                "98위안"
+            ],
+            "60 yuan": [
+                "60위안"
+            ]
         },
         "cuisine": {
             "hot pot": "훠궈",
@@ -656,7 +800,13 @@
             "2-star": "2성급",
             "2": "2성급",
             "5-star": "5성급",
-            "4-star": "4성급"
+            "4-star": "4성급",
+            "5": [
+                "5"
+            ],
+            "4": [
+                "4"
+            ]
         },
         "name": {
             "Suzhou Yongshun Express Hotel": "쑤저우 융순 익스프레스 호텔",
@@ -801,7 +951,31 @@
             "486 yuan": "486위안",
             "171 yuan": "171위안",
             "346 yuan": "346위안",
-            "279 yuan": "279위안"
+            "279 yuan": "279위안",
+            "278 yuan": [
+                "278위안"
+            ],
+            "446 yuan": [
+                "446위안"
+            ],
+            "1399 yuan": [
+                "1399위안"
+            ],
+            "1246 yuan": [
+                "1246위안"
+            ],
+            "1286 yuan": [
+                "1286위안"
+            ],
+            "1300 yuan": [
+                "1300위안"
+            ],
+            "1336 yuan": [
+                "1336위안"
+            ],
+            "322 yuan": [
+                "322위안"
+            ]
         },
         "area": {
             "Changshu": "창수",
@@ -824,7 +998,10 @@
             "4.9": "4.9점",
             "4.4": "4.4점",
             "4.5": "4.5점",
-            "4.2": "4.2점"
+            "4.2": "4.2점",
+            "5": [
+                "5"
+            ]
         },
         "phone number": {
             "0512-52018188": "0512-52018188",
@@ -864,7 +1041,10 @@
             "0512-57119999": "0512-57119999",
             "151-5149-7911": "151-5149-7911",
             "0512-88168888": "0512-88168888",
-            "0512-81561588": "0512-81561588"
+            "0512-81561588": "0512-81561588",
+            "0512-57205581": [
+                "0512-57205581"
+            ]
         },
         "pricerange": {
             "cheaper": "더 저렴한",
@@ -1040,7 +1220,238 @@
             "982 yuan": "982위안",
             "835.0 yuan": "835위안",
             "467.0 yuan": "467위안",
-            "842.0 yuan": "842위안"
+            "842.0 yuan": "842위안",
+            "111.0 yuan": [
+                "111.0위안"
+            ],
+            "1302.5 yuan": [
+                "1302.5위안"
+            ],
+            "1210.0 yuan": [
+                "1210.0위안"
+            ],
+            "962.0 yuan": [
+                "962.0위안"
+            ],
+            "1402.0 yuan": [
+                "1402.0위안"
+            ],
+            "867.5 yuan": [
+                "867.5위안"
+            ],
+            "1516.0 yuan": [
+                "1516.0위안"
+            ],
+            "932.5 yuan": [
+                "932.5위안"
+            ],
+            "1104.0 yuan": [
+                "1104.0위안"
+            ],
+            "1655.0 yuan": [
+                "1655.0위안"
+            ],
+            "999.5 yuan": [
+                "999.5위안"
+            ],
+            "94.0 yuan": [
+                "94.0위안"
+            ],
+            "74.0 yuan": [
+                "74.0위안"
+            ],
+            "471.0 yuan": [
+                "471.0위안"
+            ],
+            "476.0 yuan": [
+                "476.0위안"
+            ],
+            "347.0 yuan": [
+                "347.0위안"
+            ],
+            "1055.0 yuan": [
+                "1055.0위안"
+            ],
+            "1168.0 yuan": [
+                "1168.0위안"
+            ],
+            "1140.0 yuan": [
+                "1140.0위안"
+            ],
+            "712.0 yuan": [
+                "712.0위안"
+            ],
+            "1019.0 yuan": [
+                "1019.0위안"
+            ],
+            "637.0 yuan": [
+                "637.0위안"
+            ],
+            "1297.5 yuan": [
+                "1297.5위안"
+            ],
+            "803.0 yuan": [
+                "803.0위안"
+            ],
+            "575.0 yuan": [
+                "575.0위안"
+            ],
+            "345.0 yuan": [
+                "345.0위안"
+            ],
+            "208.5 yuan": [
+                "208.5위안"
+            ],
+            "198.0 yuan": [
+                "198.0위안"
+            ],
+            "117.5 yuan": [
+                "117.5위안"
+            ],
+            "684.0 yuan": [
+                "684.0위안"
+            ],
+            "428.0 yuan": [
+                "428.0위안"
+            ],
+            "715.0 yuan": [
+                "715.0위안"
+            ],
+            "447.0 yuan": [
+                "447.0위안"
+            ],
+            "516.0 yuan": [
+                "516.0위안"
+            ],
+            "1380.0 yuan": [
+                "1380.0위안"
+            ],
+            "1150.0 yuan": [
+                "1150.0위안"
+            ],
+            "1000.0 yuan": [
+                "1000.0위안"
+            ],
+            "1479.5 yuan": [
+                "1479.5위안"
+            ],
+            "756.0 yuan": [
+                "756.0위안"
+            ],
+            "1488.0 yuan": [
+                "1488.0위안"
+            ],
+            "1246.0 yuan": [
+                "1246.0위안"
+            ],
+            "1347.5 yuan": [
+                "1347.5위안"
+            ],
+            "803.5 yuan": [
+                "803.5위안"
+            ],
+            "811.0 yuan": [
+                "811.0위안"
+            ],
+            "489.0 yuan": [
+                "489.0위안"
+            ],
+            "1375.5 yuan": [
+                "1375.5위안"
+            ],
+            "970.0 yuan": [
+                "970.0위안"
+            ],
+            "606.0 yuan": [
+                "606.0위안"
+            ],
+            "958.0 yuan": [
+                "958.0위안"
+            ],
+            "1185.5 yuan": [
+                "1185.5위안"
+            ],
+            "1100.0 yuan": [
+                "1100.0위안"
+            ],
+            "650.0 yuan": [
+                "650.0위안"
+            ],
+            "387.5 yuan": [
+                "387.5위안"
+            ],
+            "264.0 yuan": [
+                "264.0위안"
+            ],
+            "630.0 yuan": [
+                "630.0위안"
+            ],
+            "305.0 yuan": [
+                "305.0위안"
+            ],
+            "190.0 yuan": [
+                "190.0위안"
+            ],
+            "193.5 yuan": [
+                "193.5위안"
+            ],
+            "293.0 yuan": [
+                "293.0위안"
+            ],
+            "183.5 yuan": [
+                "183.5위안"
+            ],
+            "1646.5 yuan": [
+                "1646.5위안"
+            ],
+            "995.0 yuan": [
+                "995.0위안"
+            ],
+            "1072.0 yuan": [
+                "1072.0위안"
+            ],
+            "1559.0 yuan": [
+                "1559.0위안"
+            ],
+            "939.5 yuan": [
+                "939.5위안"
+            ],
+            "1688.0 yuan": [
+                "1688.0위안"
+            ],
+            "1032.0 yuan": [
+                "1032.0위안"
+            ],
+            "1709.0 yuan": [
+                "1709.0위안"
+            ],
+            "1045.0 yuan": [
+                "1045.0위안"
+            ],
+            "720.5 yuan": [
+                "720.5위안"
+            ],
+            "440.0 yuan": [
+                "440.0위안"
+            ],
+            "394.0 yuan": [
+                "394.0위안"
+            ],
+            "563.0 yuan": [
+                "563.0위안"
+            ],
+            "352.0 yuan": [
+                "352.0위안"
+            ],
+            "670.5 yuan": [
+                "670.5위안"
+            ],
+            "577.0 yuan": [
+                "577.0위안"
+            ],
+            "361.0 yuan": [
+                "361.0위안"
+            ]
         },
         "train number": {
             "D2262, from Hangzhoudong to Chengdudong": "항저우동에서 청두동으로 가는 D2262",
@@ -1163,7 +1574,370 @@
             "G355 from Beijingnan to Xiamenbei": "베이징난에서 샤먼베이로 가는 G355",
             "G1603, from Hangzhoudong to Shenzhenbei": "항저우동에서 선전베이로 가는 G1603",
             "D3211, from Hangzhoudong to Xiamenbei": "항저우동에서 샤먼베이로 가는 D3211",
-            "D2294, from Shenzhenbei to Nanjingnan": "선전베이에서 난징난으로 가는 D2294"
+            "D2294, from Shenzhenbei to Nanjingnan": "선전베이에서 난징난으로 가는 D2294",
+            "D1970, from Shanghai Hongqiao to Nanjingnan": [
+                "상하이 홍차오에서 난징난으로 가는 D1970"
+            ],
+            "D952, from Shanghai to Nanjingnan": [
+                "상하이에서 난징난으로 가는 D952"
+            ],
+            "G7016, from Shanghai to Nanjing": [
+                "상하이에서 난징으로 가는 G7016"
+            ],
+            "D3136, from Shanghai Hongqiao to Nanjing": [
+                "상하이 홍차오에서 난징으로 가는 D3136"
+            ],
+            "G7185, from Nanjingnan to Shanghai Hongqiao": [
+                "난징난에서 상하이 홍차오으로 가는 G7185"
+            ],
+            "D3135, from Nanjing to Shanghai Hongqiao": [
+                "난징에서 상하이 홍차오으로 가는 D3135"
+            ],
+            "G7019, from Nanjing to Shanghai": [
+                "난징에서 상하이으로 가는 G7019"
+            ],
+            "D951, from Nanjingnan to Shanghai": [
+                "난징난에서 상하이으로 가는 D951"
+            ],
+            "G2, from Shanghai Hongqiao to Beijingnan": [
+                "상하이 홍차오에서 베이징난으로 가는 G2"
+            ],
+            "G14, from Shanghai Hongqiao to Beijingnan": [
+                "상하이 홍차오에서 베이징난으로 가는 G14"
+            ],
+            "D710, from Shanghai to Beijingnan": [
+                "상하이에서 베이징난으로 가는 D710"
+            ],
+            "G105, from Beijingnan to Shanghai Hongqiao": [
+                "베이징난에서 상하이 홍차오으로 가는 G105"
+            ],
+            "G137, from Beijingnan to Shanghai Hongqiao": [
+                "베이징난에서 상하이 홍차오으로 가는 G137"
+            ],
+            "D709, from Beijingnan to Shanghai": [
+                "베이징난에서 상하이으로 가는 D709"
+            ],
+            "G85, from Shanghai Hongqiao to Guangzhounan": [
+                "상하이 홍차오에서 광저우난으로 가는 G85"
+            ],
+            "G1305, from Shanghai Hongqiao to Guangzhounan": [
+                "상하이 홍차오에서 광저우난으로 가는 G1305"
+            ],
+            "D941, from Shanghai Hongqiao to Guangzhounan": [
+                "상하이 홍차오에서 광저우난으로 가는 D941"
+            ],
+            "G86, from Guangzhounan to Shanghai Hongqiao": [
+                "광저우난에서 상하이 홍차오으로 가는 G86"
+            ],
+            "G1304, from Guangzhounan to Shanghai Hongqiao": [
+                "광저우난에서 상하이 홍차오으로 가는 G1304"
+            ],
+            "D943, from Guangzhounan to Shanghai Hongqiao": [
+                "광저우난에서 상하이 홍차오으로 가는 D943"
+            ],
+            "D2287, from Shanghai Hongqiao to Shenzhenbei": [
+                "상하이 홍차오에서 선전베이으로 가는 D2287"
+            ],
+            "G99, from Shanghai Hongqiao to Shenzhenbei": [
+                "상하이 홍차오에서 선전베이으로 가는 G99"
+            ],
+            "D941, from Shanghai Hongqiao to Shenzhenbei": [
+                "상하이 홍차오에서 선전베이으로 가는 D941"
+            ],
+            "D3126, from Shenzhenbei to Shanghai Hongqiao": [
+                "선전베이에서 상하이 홍차오으로 가는 D3126"
+            ],
+            "D942, from Shenzhenbei to Shanghai Hongqiao": [
+                "선전베이에서 상하이 홍차오으로 가는 D942"
+            ],
+            "G1974, from Shanghai Hongqiao to Chengdudong": [
+                "상하이 홍차오에서 청두동으로 가는 G1974"
+            ],
+            "D2206, from Shanghai Hongqiao to Chengdudong": [
+                "상하이 홍차오에서 청두동으로 가는 D2206"
+            ],
+            "G2195, from Chengdudong to Shanghai Hongqiao": [
+                "청두동에서 상하이 홍차오으로 가는 G2195"
+            ],
+            "D954, from Chengdudong to Shanghai": [
+                "청두동에서 상하이으로 가는 D954"
+            ],
+            "D2285, from Shanghai Hongqiao to Hangzhoudong": [
+                "상하이 홍차오에서 항저우동으로 가는 D2285"
+            ],
+            "G7323, from Shanghai Hongqiao to Hangzhoudong": [
+                "상하이 홍차오에서 항저우동으로 가는 G7323"
+            ],
+            "D381, from Shanghai Hongqiao to Hangzhoudong": [
+                "상하이 홍차오에서 항저우동으로 가는 D381"
+            ],
+            "G7572, from Hangzhoudong to Shanghai Hongqiao": [
+                "항저우동에서 상하이 홍차오으로 가는 G7572"
+            ],
+            "D3324, from Hangzhoudong to Shanghai Hongqiao": [
+                "항저우동에서 상하이 홍차오으로 가는 D3324"
+            ],
+            "G7320, from Hangzhoudong to Shanghai Hongqiao": [
+                "항저우동에서 상하이 홍차오으로 가는 G7320"
+            ],
+            "D5482, from Hangzhoudong to Shanghainan": [
+                "항저우동에서 상하이난으로 가는 D5482"
+            ],
+            "G1659, from Shanghai Hongqiao to Xiamen": [
+                "상하이 홍차오에서 샤먼으로 가는 G1659"
+            ],
+            "G1656, from Xiamenbei to Shanghai Hongqiao": [
+                "샤먼베이에서 상하이 홍차오으로 가는 G1656"
+            ],
+            "D2282, from Xiamen to Shanghai Hongqiao": [
+                "샤먼에서 상하이 홍차오으로 가는 D2282"
+            ],
+            "G204, from Nanjingnan to Beijingnan": [
+                "난징난에서 베이징난으로 가는 G204"
+            ],
+            "G38, from Nanjingnan to Beijingnan": [
+                "난징난에서 베이징난으로 가는 G38"
+            ],
+            "D716, from Nanjing to Beijingnan": [
+                "난징에서 베이징난으로 가는 D716"
+            ],
+            "G19, from Beijingnan to Nanjingnan": [
+                "베이징난에서 난징난으로 가는 G19"
+            ],
+            "G1113, from Nanjingnan to Guangzhounan": [
+                "난징난에서 광저우난으로 가는 G1113"
+            ],
+            "G1743, from Nanjingnan to Guangzhounan": [
+                "난징난에서 광저우난으로 가는 G1743"
+            ],
+            "G1744, from Guangzhounan to Nanjingnan": [
+                "광저우난에서 난징난으로 가는 G1744"
+            ],
+            "G1128, from Guangzhounan to Nanjingnan": [
+                "광저우난에서 난징난으로 가는 G1128"
+            ],
+            "G1603, from Nanjingnan to Shenzhenbei": [
+                "난징난에서 선전베이으로 가는 G1603"
+            ],
+            "D3125, from Nanjing to Shenzhenbei": [
+                "난징에서 선전베이으로 가는 D3125"
+            ],
+            "G1604, from Shenzhenbei to Nanjingnan": [
+                "선전베이에서 난징난으로 가는 G1604"
+            ],
+            "G1886, from Nanjingnan to Chengdudong": [
+                "난징난에서 청두동으로 가는 G1886"
+            ],
+            "D353, from Nanjingnan to Chengdudong": [
+                "난징난에서 청두동으로 가는 D353"
+            ],
+            "G1976, from Chengdudong to Nanjingnan": [
+                "청두동에서 난징난으로 가는 G1976"
+            ],
+            "D638, from Chengdudong to Nanjingnan": [
+                "청두동에서 난징난으로 가는 D638"
+            ],
+            "G1509, from Nanjingnan to Hangzhoudong": [
+                "난징난에서 항저우동으로 가는 G1509"
+            ],
+            "D3295, from Nanjingnan to Hangzhoudong": [
+                "난징난에서 항저우동으로 가는 D3295"
+            ],
+            "G2807, from Nanjingnan to Hangzhoudong": [
+                "난징난에서 항저우동으로 가는 G2807"
+            ],
+            "D3235, from Nanjingnan to Hangzhoudong": [
+                "난징난에서 항저우동으로 가는 D3235"
+            ],
+            "G20, from Hangzhoudong to Nanjingnan": [
+                "항저우동에서 난징난으로 가는 G20"
+            ],
+            "G7662, from Hangzhoudong to Nanjingnan": [
+                "항저우동에서 난징난으로 가는 G7662"
+            ],
+            "D3296, from Hangzhoudong to Nanjingnan": [
+                "항저우동에서 난징난으로 가는 D3296"
+            ],
+            "G1667, from Nanjingnan to Xiamenbei": [
+                "난징난에서 샤먼베이으로 가는 G1667"
+            ],
+            "D3295, from Nanjingnan to Xiamenbei": [
+                "난징난에서 샤먼베이으로 가는 D3295"
+            ],
+            "G1675, from Nanjingnan to Xiamenbei": [
+                "난징난에서 샤먼베이으로 가는 G1675"
+            ],
+            "G1676, from Xiamen to Nanjingnan": [
+                "샤먼에서 난징난으로 가는 G1676"
+            ],
+            "D3296, from Xiamenbei to Nanjingnan": [
+                "샤먼베이에서 난징난으로 가는 D3296"
+            ],
+            "D2282, from Xiamenbei to Nanjing": [
+                "샤먼베이에서 난징으로 가는 D2282"
+            ],
+            "G71, from Beijingxi to Guangzhounan": [
+                "베이징씨에서 광저우난으로 가는 G71"
+            ],
+            "G69, from Beijingxi to Guangzhounan": [
+                "베이징씨에서 광저우난으로 가는 G69"
+            ],
+            "D901, from Beijingxi to Guangzhounan": [
+                "베이징씨에서 광저우난으로 가는 D901"
+            ],
+            "G66, from Guangzhounan to Beijingxi": [
+                "광저우난에서 베이징씨으로 가는 G66"
+            ],
+            "G70, from Guangzhounan to Beijingxi": [
+                "광저우난에서 베이징씨으로 가는 G70"
+            ],
+            "D922, from Guangzhounan to Beijingxi": [
+                "광저우난에서 베이징씨으로 가는 D922"
+            ],
+            "D903, from Beijingxi to Shenzhenbei": [
+                "베이징씨에서 선전베이으로 가는 D903"
+            ],
+            "D902, from Shenzhenbei to Beijingxi": [
+                "선전베이에서 베이징씨으로 가는 D902"
+            ],
+            "G571, from Beijingxi to Chengdudong": [
+                "베이징씨에서 청두동으로 가는 G571"
+            ],
+            "G349, from Beijingxi to Chengdudong": [
+                "베이징씨에서 청두동으로 가는 G349"
+            ],
+            "G308, from Chengdudong to Beijingxi": [
+                "청두동에서 베이징씨으로 가는 G308"
+            ],
+            "G90, from Chengdudong to Beijingxi": [
+                "청두동에서 베이징씨으로 가는 G90"
+            ],
+            "G19, from Beijingnan to Hangzhoudong": [
+                "베이징난에서 항저우동으로 가는 G19"
+            ],
+            "G59, from Beijingnan to Hangzhoudong": [
+                "베이징난에서 항저우동으로 가는 G59"
+            ],
+            "D711, from Beijing to Hangzhou": [
+                "베이징에서 항저으로 가는 D711"
+            ],
+            "G20, from Hangzhoudong to Beijingnan": [
+                "항저우동에서 베이징난으로 가는 G20"
+            ],
+            "G32, from Hangzhoudong to Beijingnan": [
+                "항저우동에서 베이징난으로 가는 G32"
+            ],
+            "D712, from Hangzhou to Beijing": [
+                "항저에서 베이징으로 가는 D712"
+            ],
+            "G355, from Beijingnan to Xiamenbei": [
+                "베이징난에서 샤먼베이으로 가는 G355"
+            ],
+            "D745, from Beijingxi to Xiamenbei": [
+                "베이징씨에서 샤먼베이으로 가는 D745"
+            ],
+            "D746, from Xiamenbei to Beijingxi": [
+                "샤먼베이에서 베이징씨으로 가는 D746"
+            ],
+            "G6209, from Guangzhounan to Shenzhenbei": [
+                "광저우난에서 선전베이으로 가는 G6209"
+            ],
+            "G9759, from Guangzhounan to Shenzhenbei": [
+                "광저우난에서 선전베이으로 가는 G9759"
+            ],
+            "D7553, from Guangzhou to Shenzhen": [
+                "광저에서 선전으로 가는 D7553"
+            ],
+            "G822, from Shenzhenbei to Guangzhounan": [
+                "선전베이에서 광저우난으로 가는 G822"
+            ],
+            "D7554, from Shenzhen to Guangzhou": [
+                "선전에서 광저으로 가는 D7554"
+            ],
+            "G6154, from Shenzhenbei to Guangzhounan": [
+                "선전베이에서 광저우난으로 가는 G6154"
+            ],
+            "D1752, from Guangzhounan to Chengdudong": [
+                "광저우난에서 청두동으로 가는 D1752"
+            ],
+            "D1859, from Chengdudong to Guangzhou": [
+                "청두동에서 광저으로 가는 D1859"
+            ],
+            "D1765, from Chengdudong to Guangzhounan": [
+                "청두동에서 광저우난으로 가는 D1765"
+            ],
+            "D933, from Guangzhounan to Hangzhoudong": [
+                "광저우난에서 항저우동으로 가는 D933"
+            ],
+            "G85, from Hangzhoudong to Guangzhounan": [
+                "항저우동에서 광저우난으로 가는 G85"
+            ],
+            "G99, from Hangzhoudong to Guangzhounan": [
+                "항저우동에서 광저우난으로 가는 G99"
+            ],
+            "D941, from Hangzhoudong to Guangzhounan": [
+                "항저우동에서 광저우난으로 가는 D941"
+            ],
+            "G1607, from Guangzhounan to Xiamenbei": [
+                "광저우난에서 샤먼베이으로 가는 G1607"
+            ],
+            "D2381, from Guangzhoudong to Xiamen": [
+                "광저동에서 샤먼으로 가는 D2381"
+            ],
+            "D936, from Shenzhenbei to Hangzhoudong": [
+                "선전베이에서 항저우동으로 가는 D936"
+            ],
+            "D3111, from Hangzhoudong to Shenzhenbei": [
+                "항저우동에서 선전베이으로 가는 D3111"
+            ],
+            "D941, from Hangzhoudong to Shenzhenbei": [
+                "항저우동에서 선전베이으로 가는 D941"
+            ],
+            "G1602, from Shenzhenbei to Xiamenbei": [
+                "선전베이에서 샤먼베이으로 가는 G1602"
+            ],
+            "D3336, from Shenzhenbei to Xiamenbei": [
+                "선전베이에서 샤먼베이으로 가는 D3336"
+            ],
+            "D2339, from Xiamen to Shenzhenbei": [
+                "샤먼에서 선전베이으로 가는 D2339"
+            ],
+            "G3007, from Xiamen to Shenzhenbei": [
+                "샤먼에서 선전베이으로 가는 G3007"
+            ],
+            "G2187, from Chengdudong to Hangzhoudong": [
+                "청두동에서 항저우동으로 가는 G2187"
+            ],
+            "D2264, from Chengdudong to Hangzhoudong": [
+                "청두동에서 항저우동으로 가는 D2264"
+            ],
+            "G2189, from Hangzhoudong to Chengdudong": [
+                "항저우동에서 청두동으로 가는 G2189"
+            ],
+            "G2278, from Xiamenbei to Chengdudong": [
+                "샤먼베이에서 청두동으로 가는 G2278"
+            ],
+            "G2277, from Chengdudong to Xiamenbei": [
+                "청두동에서 샤먼베이으로 가는 G2277"
+            ],
+            "G2385, from Hangzhoudong to Xiamenbei": [
+                "항저우동에서 샤먼베이으로 가는 G2385"
+            ],
+            "G1675, from Hangzhoudong to Xiamenbei": [
+                "항저우동에서 샤먼베이으로 가는 G1675"
+            ],
+            "D3141, from Hangzhoudong to Xiamenbei": [
+                "항저우동에서 샤먼베이으로 가는 D3141"
+            ],
+            "G1652, from Xiamen to Hangzhoudong": [
+                "샤먼에서 항저우동으로 가는 G1652"
+            ],
+            "D3218, from Xiamen to Hangzhoudong": [
+                "샤먼에서 항저우동으로 가는 D3218"
+            ],
+            "D2282, from Xiamenbei to Hangzhoudong": [
+                "샤먼베이에서 항저우동으로 가는 D2282"
+            ]
         },
         "departure time": {
             "08:44 that day": "그날 오전 8시 44분",
@@ -1244,7 +2018,181 @@
             "10:09 that day": "그날 10시 9분",
             "06:57 that day": "그날 6시 57분",
             "07:50 that day": "그날 7시 50분",
-            "08:02 that day": "그날 8시 2분"
+            "08:02 that day": "그날 8시 2분",
+            "14:00 that day": [
+                "그날 오후 2시"
+            ],
+            "09:32 that day": [
+                "그날 오전 9시 32분"
+            ],
+            "08:09 that day": [
+                "그날 오전 8시 9분"
+            ],
+            "16:00 that day": [
+                "그날 오후 4시"
+            ],
+            "21:24 that day": [
+                "그날 오후 9시 24분"
+            ],
+            "07:20 that day": [
+                "그날 오전 7시 20분"
+            ],
+            "13:35 that day": [
+                "그날 오후 1시 35분"
+            ],
+            "19:46 that day": [
+                "그날 오후 7시 46분"
+            ],
+            "19:39 that day": [
+                "그날 오후 7시 39분"
+            ],
+            "06:50 that day": [
+                "그날 오전 6시 50분"
+            ],
+            "20:24 that day": [
+                "그날 오후 8시 24분"
+            ],
+            "07:17 that day": [
+                "그날 오전 7시 17분"
+            ],
+            "06:58 that day": [
+                "그날 오전 6시 58분"
+            ],
+            "06:13 that day": [
+                "그날 오전 6시 13분"
+            ],
+            "14:45 that day": [
+                "그날 오후 2시 45분"
+            ],
+            "09:57 that day": [
+                "그날 오전 9시 57분"
+            ],
+            "07:16 that day": [
+                "그날 오전 7시 16분"
+            ],
+            "21:29 that day": [
+                "그날 오후 9시 29분"
+            ],
+            "15:52 that day": [
+                "그날 오후 3시 52분"
+            ],
+            "06:37 that day": [
+                "그날 오전 6시 37분"
+            ],
+            "08:07 that day": [
+                "그날 오전 8시 7분"
+            ],
+            "10:57 that day": [
+                "그날 오전 10시 57분"
+            ],
+            "07:05 that day": [
+                "그날 오전 7시 5분"
+            ],
+            "07:00 that day": [
+                "그날 오전 7시"
+            ],
+            "10:05 that day": [
+                "그날 오전 10시 5분"
+            ],
+            "14:56 that day": [
+                "그날 오후 2시 56분"
+            ],
+            "13:14 that day": [
+                "그날 오후 1시 14분"
+            ],
+            "09:50 that day": [
+                "그날 오전 9시 50분"
+            ],
+            "07:26 that day": [
+                "그날 오전 7시 26분"
+            ],
+            "20:10 that day": [
+                "그날 오후 8시 10분"
+            ],
+            "20:05 that day": [
+                "그날 오후 8시 5분"
+            ],
+            "20:15 that day": [
+                "그날 오후 8시 15분"
+            ],
+            "19:34 that day": [
+                "그날 오후 7시 34분"
+            ],
+            "09:22 that day": [
+                "그날 오전 9시 22분"
+            ],
+            "10:42 that day": [
+                "그날 오전 10시 42분"
+            ],
+            "21:15 that day": [
+                "그날 오후 9시 15분"
+            ],
+            "13:00 that day": [
+                "그날 오후 1시"
+            ],
+            "16:17 that day": [
+                "그날 오후 4시 17분"
+            ],
+            "17:48 that day": [
+                "그날 오후 5시 48분"
+            ],
+            "13:21 that day": [
+                "그날 오후 1시 21분"
+            ],
+            "12:58 that day": [
+                "그날 오전 12시 58분"
+            ],
+            "09:55 that day": [
+                "그날 오전 9시 55분"
+            ],
+            "13:46 that day": [
+                "그날 오후 1시 46분"
+            ],
+            "19:24 that day": [
+                "그날 오후 7시 24분"
+            ],
+            "08:47 that day": [
+                "그날 오전 8시 47분"
+            ],
+            "15:01 that day": [
+                "그날 오후 3시 1분"
+            ],
+            "20:54 that day": [
+                "그날 오후 8시 54분"
+            ],
+            "12:38 that day": [
+                "그날 오전 12시 38분"
+            ],
+            "08:54 that day": [
+                "그날 오전 8시 54분"
+            ],
+            "14:26 that day": [
+                "그날 오후 2시 26분"
+            ],
+            "07:35 that day": [
+                "그날 오전 7시 35분"
+            ],
+            "14:53 that day": [
+                "그날 오후 2시 53분"
+            ],
+            "09:41 that day": [
+                "그날 오전 9시 41분"
+            ],
+            "08:04 that day": [
+                "그날 오전 8시 4분"
+            ],
+            "07:46 that day": [
+                "그날 오전 7시 46분"
+            ],
+            "15:17 that day": [
+                "그날 오후 3시 17분"
+            ],
+            "14:23 that day": [
+                "그날 오후 2시 23분"
+            ],
+            "08:18 that day": [
+                "그날 오전 8시 18분"
+            ]
         },
         "arrival time": {
             "23:18 the same day": "같은 날 오후 11시 18분",
@@ -1321,7 +2269,214 @@
             "15:35 that day": "같은 날 15시 35분",
             "23:08 that day": "같은 날 23시 8분",
             "19:58 that day": "같은 날 19시 58분",
-            "14:28 that day": "같은 날 14시 28분"
+            "14:28 that day": "같은 날 14시 28분",
+            "10:13 that day": [
+                "그날 오전 10시 13분"
+            ],
+            "15:41 that day": [
+                "그날 오후 3시 41분"
+            ],
+            "10:41 that day": [
+                "그날 오전 10시 41분"
+            ],
+            "10:37 that day": [
+                "그날 오전 10시 37분"
+            ],
+            "17:40 that day": [
+                "그날 오후 5시 40분"
+            ],
+            "13:28 that day": [
+                "그날 오후 1시 28분"
+            ],
+            "09:22 the next day": [
+                "다음 날 오전 9시 22분"
+            ],
+            "19:17 that day": [
+                "그날 오후 7시 17분"
+            ],
+            "09:46 the next day": [
+                "다음 날 오전 9시 46분"
+            ],
+            "14:51 that day": [
+                "그날 오후 2시 51분"
+            ],
+            "21:51 that day": [
+                "그날 오후 9시 51분"
+            ],
+            "07:00 the next day": [
+                "다음 날 오전 7시"
+            ],
+            "18:25 that day": [
+                "그날 오후 6시 25분"
+            ],
+            "18:27 that day": [
+                "그날 오후 6시 27분"
+            ],
+            "21:36 that day": [
+                "그날 오후 9시 36분"
+            ],
+            "19:18 that day": [
+                "그날 오후 7시 18분"
+            ],
+            "10:18 that day": [
+                "그날 오전 10시 18분"
+            ],
+            "16:16 that day": [
+                "그날 오후 4시 16분"
+            ],
+            "11:06 that day": [
+                "그날 오전 11시 6분"
+            ],
+            "11:41 that day": [
+                "그날 오전 11시 41분"
+            ],
+            "06:48 the next day": [
+                "다음 날 오전 6시 48분"
+            ],
+            "11:24 that day": [
+                "그날 오전 11시 24분"
+            ],
+            "17:30 that day": [
+                "그날 오후 5시 30분"
+            ],
+            "14:39 that day": [
+                "그날 오후 2시 39분"
+            ],
+            "23:10 that day": [
+                "그날 오후 11시 10분"
+            ],
+            "20:34 that day": [
+                "그날 오후 8시 34분"
+            ],
+            "17:54 that day": [
+                "그날 오후 5시 54분"
+            ],
+            "20:55 that day": [
+                "그날 오후 8시 55분"
+            ],
+            "20:00 that day": [
+                "그날 오후 8시"
+            ],
+            "09:32 that day": [
+                "그날 오전 9시 32분"
+            ],
+            "08:56 that day": [
+                "그날 오전 8시 56분"
+            ],
+            "11:40 that day": [
+                "그날 오전 11시 40분"
+            ],
+            "14:43 that day": [
+                "그날 오후 2시 43분"
+            ],
+            "18:46 that day": [
+                "그날 오후 6시 46분"
+            ],
+            "16:39 that day": [
+                "그날 오후 4시 39분"
+            ],
+            "17:21 that day": [
+                "그날 오후 5시 21분"
+            ],
+            "06:28 the next day": [
+                "다음 날 오전 6시 28분"
+            ],
+            "18:00 that day": [
+                "그날 오후 6시"
+            ],
+            "22:28 that day": [
+                "그날 오후 10시 28분"
+            ],
+            "06:40 the next day": [
+                "다음 날 오전 6시 40분"
+            ],
+            "07:11 the next day": [
+                "다음 날 오전 7시 11분"
+            ],
+            "06:56 the next day": [
+                "다음 날 오전 6시 56분"
+            ],
+            "18:54 that day": [
+                "그날 오후 6시 54분"
+            ],
+            "10:56 the next day": [
+                "다음 날 오전 10시 56분"
+            ],
+            "17:39 that day": [
+                "그날 오후 5시 39분"
+            ],
+            "09:36 the next day": [
+                "다음 날 오전 9시 36분"
+            ],
+            "09:56 the next day": [
+                "다음 날 오전 9시 56분"
+            ],
+            "11:12 the next day": [
+                "다음 날 오전 11시 12분"
+            ],
+            "08:38 that day": [
+                "그날 오전 8시 38분"
+            ],
+            "13:58 that day": [
+                "그날 오후 1시 58분"
+            ],
+            "14:20 that day": [
+                "그날 오후 2시 20분"
+            ],
+            "10:31 that day": [
+                "그날 오전 10시 31분"
+            ],
+            "14:23 that day": [
+                "그날 오후 2시 23분"
+            ],
+            "17:31 that day": [
+                "그날 오후 5시 31분"
+            ],
+            "23:45 that day": [
+                "그날 오후 11시 45분"
+            ],
+            "05:54 the next day": [
+                "다음 날 오전 5시 54분"
+            ],
+            "21:33 that day": [
+                "그날 오후 9시 33분"
+            ],
+            "19:21 that day": [
+                "그날 오후 7시 21분"
+            ],
+            "17:42 that day": [
+                "그날 오후 5시 42분"
+            ],
+            "18:36 that day": [
+                "그날 오후 6시 36분"
+            ],
+            "12:35 that day": [
+                "그날 오전 12시 35분"
+            ],
+            "18:16 that day": [
+                "그날 오후 6시 16분"
+            ],
+            "11:27 that day": [
+                "그날 오전 11시 27분"
+            ],
+            "21:56 that day": [
+                "그날 오후 9시 56분"
+            ],
+            "23:18 that day": [
+                "그날 오후 11시 18분"
+            ],
+            "21:59 that day": [
+                "그날 오후 9시 59분"
+            ],
+            "22:21 that day": [
+                "그날 오후 10시 21분"
+            ],
+            "13:41 that day": [
+                "그날 오후 1시 41분"
+            ],
+            "15:33 that day": [
+                "그날 오후 3시 33분"
+            ]
         },
         "duration": {
             "8 hours and 37 minutes": "8시간 37분",
@@ -1365,7 +2520,274 @@
             "4 hours and 38 minutes": "4시간 38분",
             "2 hours and 42 minutes": "2시간 42분",
             "1 hour and 50 minutes": "1시간 50분",
-            "5 hours and 48 minutes": "5시간 48분"
+            "5 hours and 48 minutes": "5시간 48분",
+            "1 hour and 27 minutes": [
+                "1시간 27분"
+            ],
+            "1 hour and 41 minutes": [
+                "1시간 41분"
+            ],
+            "1 hour and 9 minutes": [
+                "1시간 9분"
+            ],
+            "2 hours and 28 minutes": [
+                "2시간 28분"
+            ],
+            "1 hour and 40 minutes": [
+                "1시간 40분"
+            ],
+            "1 hour and 47 minutes": [
+                "1시간 47분"
+            ],
+            "4 hours and 36 minutes": [
+                "4시간 36분"
+            ],
+            "12 hours": [
+                "12시간"
+            ],
+            "6 hours and 51 minutes": [
+                "6시간 51분"
+            ],
+            "11 hours and 8 minutes": [
+                "11시간 8분"
+            ],
+            "6 hours and 48 minutes": [
+                "6시간 48분"
+            ],
+            "11 hours and 21 minutes": [
+                "11시간 21분"
+            ],
+            "11 hours and 23 minutes": [
+                "11시간 23분"
+            ],
+            "10 hours and 36 minutes": [
+                "10시간 36분"
+            ],
+            "14 hours and 38 minutes": [
+                "14시간 38분"
+            ],
+            "13 hours and 5 minutes": [
+                "13시간 5분"
+            ],
+            "12 hours and 40 minutes": [
+                "12시간 40분"
+            ],
+            "47 minutes": [
+                "47분"
+            ],
+            "1 hour and 13 minutes": [
+                "1시간 13분"
+            ],
+            "1 hour and 31 minutes": [
+                "1시간 31분"
+            ],
+            "5 hours and 16 minutes": [
+                "5시간 16분"
+            ],
+            "7 hours and 40 minutes": [
+                "7시간 40분"
+            ],
+            "5 hours and 32 minutes": [
+                "5시간 32분"
+            ],
+            "6 hours and 28 minutes": [
+                "6시간 28분"
+            ],
+            "9 hours and 19 minutes": [
+                "9시간 19분"
+            ],
+            "3 hours and 24 minutes": [
+                "3시간 24분"
+            ],
+            "9 hours and 29 minutes": [
+                "9시간 29분"
+            ],
+            "7 hours and 17 minutes": [
+                "7시간 17분"
+            ],
+            "7 hours and 18 minutes": [
+                "7시간 18분"
+            ],
+            "7 hours and 21 minutes": [
+                "7시간 21분"
+            ],
+            "13 hours and 57 minutes": [
+                "13시간 57분"
+            ],
+            "12 hours and 31 minutes": [
+                "12시간 31분"
+            ],
+            "9 hours and 47 minutes": [
+                "9시간 47분"
+            ],
+            "9 hours and 58 minutes": [
+                "9시간 58분"
+            ],
+            "12 hours and 55 minutes": [
+                "12시간 55분"
+            ],
+            "2 hours and 32 minutes": [
+                "2시간 32분"
+            ],
+            "1 hour and 51 minutes": [
+                "1시간 51분"
+            ],
+            "1 hour and 8 minutes": [
+                "1시간 8분"
+            ],
+            "8 hours and 54 minutes": [
+                "8시간 54분"
+            ],
+            "7 hours and 35 minutes": [
+                "7시간 35분"
+            ],
+            "8 hours and 56 minutes": [
+                "8시간 56분"
+            ],
+            "10 hours and 1 minute": [
+                "10시간 1분"
+            ],
+            "9 hours and 55 minutes": [
+                "9시간 55분"
+            ],
+            "9 hours and 24 minutes": [
+                "9시간 24분"
+            ],
+            "10 hours and 18 minutes": [
+                "10시간 18분"
+            ],
+            "10 hours and 35 minutes": [
+                "10시간 35분"
+            ],
+            "10 hours and 56 minutes": [
+                "10시간 56분"
+            ],
+            "11 hours and 20 minutes": [
+                "11시간 20분"
+            ],
+            "9 hours and 32 minutes": [
+                "9시간 32분"
+            ],
+            "7 hours and 50 minutes": [
+                "7시간 50분"
+            ],
+            "13 hours and 41 minutes": [
+                "13시간 41분"
+            ],
+            "4 hours and 32 minutes": [
+                "4시간 32분"
+            ],
+            "13 hours and 31 minutes": [
+                "13시간 31분"
+            ],
+            "11 hours and 18 minutes": [
+                "11시간 18분"
+            ],
+            "17 hours and 39 minutes": [
+                "17시간 39분"
+            ],
+            "11 hours and 42 minutes": [
+                "11시간 42분"
+            ],
+            "17 hours and 24 minutes": [
+                "17시간 24분"
+            ],
+            "38 minutes": [
+                "38분"
+            ],
+            "1 hour and 22 minutes": [
+                "1시간 22분"
+            ],
+            "36 minutes": [
+                "36분"
+            ],
+            "1 hour and 21 minutes": [
+                "1시간 21분"
+            ],
+            "7 hours and 42 minutes": [
+                "7시간 42분"
+            ],
+            "9 hours and 3 minutes": [
+                "9시간 3분"
+            ],
+            "6 hours": [
+                "6시간"
+            ],
+            "7 hours and 25 minutes": [
+                "7시간 25분"
+            ],
+            "10 hours and 30 minutes": [
+                "10시간 30분"
+            ],
+            "6 hours and 4 minutes": [
+                "6시간 4분"
+            ],
+            "6 hours and 32 minutes": [
+                "6시간 32분"
+            ],
+            "10 hours and 9 minutes": [
+                "10시간 9분"
+            ],
+            "5 hours and 4 minutes": [
+                "5시간 4분"
+            ],
+            "10 hours and 34 minutes": [
+                "10시간 34분"
+            ],
+            "9 hours and 30 minutes": [
+                "9시간 30분"
+            ],
+            "9 hours and 33 minutes": [
+                "9시간 33분"
+            ],
+            "3 hours and 41 minutes": [
+                "3시간 41분"
+            ],
+            "3 hours and 50 minutes": [
+                "3시간 50분"
+            ],
+            "3 hours and 52 minutes": [
+                "3시간 52분"
+            ],
+            "3 hours and 49 minutes": [
+                "3시간 49분"
+            ],
+            "12 hours and 15 minutes": [
+                "12시간 15분"
+            ],
+            "13 hours and 27 minutes": [
+                "13시간 27분"
+            ],
+            "14 hours and 34 minutes": [
+                "14시간 34분"
+            ],
+            "13 hours and 55 minutes": [
+                "13시간 55분"
+            ],
+            "14 hours and 35 minutes": [
+                "14시간 35분"
+            ],
+            "6 hours and 41 minutes": [
+                "6시간 41분"
+            ],
+            "5 hours and 53 minutes": [
+                "5시간 53분"
+            ],
+            "5 hours and 52 minutes": [
+                "5시간 52분"
+            ],
+            "4 hours and 41 minutes": [
+                "4시간 41분"
+            ],
+            "7 hours and 15 minutes": [
+                "7시간 15분"
+            ],
+            "5 hours and 30 minutes": [
+                "5시간 30분"
+            ],
+            "6 hours and 47 minutes": [
+                "6시간 47분"
+            ]
         }
     },
     "flight": {
@@ -1591,7 +3013,142 @@
             "1,400 yuan": "1,400위안",
             "440 yuan": "440위안",
             "890 yuan": "890위안",
-            "1,700 yuan": "1,700위안"
+            "1,700 yuan": "1,700위안",
+            "2360 yuan": [
+                "2360위안"
+            ],
+            "6810 yuan": [
+                "6810위안"
+            ],
+            "1610 yuan": [
+                "1610위안"
+            ],
+            "4510 yuan": [
+                "4510위안"
+            ],
+            "1140 yuan": [
+                "1140위안"
+            ],
+            "1500 yuan": [
+                "1500위안"
+            ],
+            "1570 yuan": [
+                "1570위안"
+            ],
+            "2480 yuan": [
+                "2480위안"
+            ],
+            "1540 yuan": [
+                "1540위안"
+            ],
+            "860 yuan": [
+                "860위안"
+            ],
+            "1730 yuan": [
+                "1730위안"
+            ],
+            "2270 yuan": [
+                "2270위안"
+            ],
+            "4980 yuan": [
+                "4980위안"
+            ],
+            "1180 yuan": [
+                "1180위안"
+            ],
+            "6620 yuan": [
+                "6620위안"
+            ],
+            "1100 yuan": [
+                "1100위안"
+            ],
+            "1700 yuan": [
+                "1700위안"
+            ],
+            "530 yuan": [
+                "530위안"
+            ],
+            "1680 yuan": [
+                "1680위안"
+            ],
+            "1770 yuan": [
+                "1770위안"
+            ],
+            "1170 yuan": [
+                "1170위안"
+            ],
+            "1060 yuan": [
+                "1060위안"
+            ],
+            "1800 yuan": [
+                "1800위안"
+            ],
+            "2640 yuan": [
+                "2640위안"
+            ],
+            "1185 yuan": [
+                "1185위안"
+            ],
+            "1985 yuan": [
+                "1985위안"
+            ],
+            "2600 yuan": [
+                "2600위안"
+            ],
+            "1870 yuan": [
+                "1870위안"
+            ],
+            "1590 yuan": [
+                "1590위안"
+            ],
+            "1260 yuan": [
+                "1260위안"
+            ],
+            "8800 yuan": [
+                "8800위안"
+            ],
+            "9800 yuan": [
+                "9800위안"
+            ],
+            "1890 yuan": [
+                "1890위안"
+            ],
+            "1720 yuan": [
+                "1720위안"
+            ],
+            "1460 yuan": [
+                "1460위안"
+            ],
+            "1400 yuan": [
+                "1400위안"
+            ],
+            "2590 yuan": [
+                "2590위안"
+            ],
+            "3480 yuan": [
+                "3480위안"
+            ],
+            "470 yuan": [
+                "470위안"
+            ],
+            "4690 yuan": [
+                "4690위안"
+            ],
+            "1950 yuan": [
+                "1950위안"
+            ],
+            "3300 yuan": [
+                "3300위안"
+            ],
+            "1020 yuan": [
+                "1020위안"
+            ],
+            "1450 yuan": [
+                "1450위안"
+            ],
+            "2450 yuan": [
+                "2450위안"
+            ]
         },
         "departure time": {
             "11:00 that day": "그날 11시",
@@ -1641,7 +3198,31 @@
             "13:40": "13시 40분",
             "16:00": "16시",
             "13:40 that day": "그날 13시 40분",
-            "11:50 that day": "그날 11시 50분"
+            "11:50 that day": "그날 11시 50분",
+            "9:15 that day": [
+                "그날 오전 9시 15분"
+            ],
+            "12:40 that day": [
+                "그날 12시 40분"
+            ],
+            "12:30 that day": [
+                "그날 12시 30분"
+            ],
+            "08:25 that day": [
+                "그날 오전 08시 25분"
+            ],
+            "09:00 that day": [
+                "그날 오전 09시 00분"
+            ],
+            "13:45 that day": [
+                "그날 오후 1시 45분"
+            ],
+            "14:50 that day": [
+                "그날 오후 2시 50분"
+            ],
+            "16:00 that day": [
+                "그날 오후 4시 00분"
+            ]
         },
         "arrival time": {
             "13:10 that day": "그날 오후 1시 10분",
@@ -1686,7 +3267,31 @@
             "13:15 that day": "같은 날 13시 15분",
             "18:05 that day": "같은 날 18시 5분",
             "15:25 that day": "그날 15시 25분",
-            "14:10 that day": "그날 14시 10분"
+            "14:10 that day": "그날 14시 10분",
+            "15:05 that day": [
+                "그날 오후 3시 05분"
+            ],
+            "15:20 that day": [
+                "그날 오후 3시 20분"
+            ],
+            "12:50 that day": [
+                "그날 12시 50분"
+            ],
+            "12:25 that day": [
+                "그날 12시 25분"
+            ],
+            "14:20 that day": [
+                "그날 오후 2시 20분"
+            ],
+            "16:20 that day": [
+                "그날 오후 4시 20분"
+            ],
+            "11:45 that day": [
+                "그날 오전 11시 45분"
+            ],
+            "20:00 that day": [
+                "그날 오후 8시 00분"
+            ]
         },
         "punctuality rate": {
             "100%": "100%",
@@ -1700,7 +3305,10 @@
             "97%": "97%",
             "one hundred percent": "백 퍼센트",
             "93%": "93%",
-            "80%": "80%"
+            "80%": "80%",
+            "93.10%": [
+                "93.10%"
+            ]
         }
     },
     "weather": {
@@ -2118,7 +3726,73 @@
             "130 minutes": "130분",
             "92 minutes": "92분",
             "97 minutes": "97분",
-            "96 minutes": "96분"
+            "96 minutes": "96분",
+            "99 minutes": [
+                "99분"
+            ],
+            "110 minutes": [
+                "110분"
+            ],
+            "82 minutes": [
+                "82분"
+            ],
+            "91 minutes": [
+                "91분"
+            ],
+            "105 minutes": [
+                "105분"
+            ],
+            "125 minutes": [
+                "125분"
+            ],
+            "88 minutes": [
+                "88분"
+            ],
+            "102 minutes": [
+                "102분"
+            ],
+            "145 minutes": [
+                "145분"
+            ],
+            "86 minutes": [
+                "86분"
+            ],
+            "181 minutes": [
+                "181분"
+            ],
+            "148 minutes": [
+                "148분"
+            ],
+            "121 minutes": [
+                "121분"
+            ],
+            "166 minutes": [
+                "166분"
+            ],
+            "139 minutes": [
+                "139분"
+            ],
+            "141 minutes": [
+                "141분"
+            ],
+            "183 minutes": [
+                "183분"
+            ],
+            "164 minutes": [
+                "164분"
+            ],
+            "165 minutes": [
+                "165분"
+            ],
+            "182 minutes": [
+                "182분"
+            ],
+            "155 minutes": [
+                "155분"
+            ],
+            "124 minutes": [
+                "124분"
+            ]
         },
         "production country or area": {
             "American": "미국",
@@ -2169,7 +3843,25 @@
             "8.1": "8.1점",
             "9.2": "9.2점",
             "9.6": "9.6점",
-            "4.8": "4.8점"
+            "4.8": "4.8점",
+            "5.4": [
+                "5.4"
+            ],
+            "7.7": [
+                "7.7"
+            ],
+            "6.1": [
+                "6.1"
+            ],
+            "7.3": [
+                "7.3"
+            ],
+            "6.8": [
+                "6.8"
+            ],
+            "6.5": [
+                "6.5"
+            ]
         },
         "star": {
             "Cha Tae-hyun": "차태현",
@@ -2319,7 +4011,10 @@
             "the 2000s": "2000년대",
             "1990s": "1990년대",
             "2010": "2010년",
-            "2000s": "2000년대"
+            "2000s": "2000년대",
+            "1980s": [
+                "1980년대"
+            ]
         },
         "title": {
             "Lives of Omission": "잠행저격",
@@ -2426,7 +4121,37 @@
             "21 minutes": "21분",
             "54 minutes": "54분",
             "49 minutes": "49분",
-            "45": "45"
+            "45": "45",
+            "40 minutes": [
+                "40분"
+            ],
+            "42 minutes": [
+                "42분"
+            ],
+            "48 minutes": [
+                "48분"
+            ],
+            "43 minutes": [
+                "43분"
+            ],
+            "68 minutes": [
+                "68분"
+            ],
+            "58 minutes": [
+                "58분"
+            ],
+            "25 minutes": [
+                "25분"
+            ],
+            "24 minutes": [
+                "24분"
+            ],
+            "36 minutes": [
+                "36분"
+            ],
+            "64 minutes": [
+                "64분"
+            ]
         },
         "episodes": {
             "30 episodes": "30편",
@@ -2454,7 +4179,37 @@
             "32 episodes": "32편",
             "46 episodes": "46부작",
             "54 episodes": "54부작",
-            "10": "10"
+            "10": "10",
+            "84 episodes": [
+                "84편"
+            ],
+            "116 episodes": [
+                "116편"
+            ],
+            "64 episodes": [
+                "64편"
+            ],
+            "45 episodes": [
+                "45편"
+            ],
+            "31 episodes": [
+                "31편"
+            ],
+            "42 episodes": [
+                "42편"
+            ],
+            "8 episodes": [
+                "8편"
+            ],
+            "23 episodes": [
+                "23편"
+            ],
+            "7 episodes": [
+                "7편"
+            ],
+            "21 episodes": [
+                "21편"
+            ]
         },
         "director": {
             "Chong Wai-kin": "장위건",
@@ -2744,15 +4499,33 @@
             "Suzhou Municipal Hospital (headquarters)": "쑤저우 시립 병원(본사)"
         },
         "3.0t mri": {
-            "No": "아니요"
+            "No": "아니요",
+            "TRUE": [
+                "TRUE"
+            ],
+            "N/A": [
+                "N/A"
+            ]
         },
         "ct": {
             "No": "아니오",
-            "no": "없습니다"
+            "no": "없습니다",
+            "TRUE": [
+                "TRUE"
+            ],
+            "N/A": [
+                "N/A"
+            ]
         },
         "dsa": {
             "can't": "안됩니다",
-            "No": "아니요"
+            "No": "아니요",
+            "TRUE": [
+                "TRUE"
+            ],
+            "N/A": [
+                "N/A"
+            ]
         },
         "address": {
             "No. 10, Guangqian Road": "광치안로 10호",
@@ -2813,7 +4586,16 @@
             "87806050": "87806050",
             "66612006": "66612006",
             "33333600": "33333600",
-            "69009090": "69009090"
+            "69009090": "69009090",
+            "65222220": [
+                "65222220"
+            ],
+            "69571800": [
+                "69571800"
+            ],
+            "69290908": [
+                "69290908"
+            ]
         },
         "bus routes": {
             "No. 801 and No. 807": "801번과 807번",
@@ -2852,7 +4634,14 @@
             "tertiary": "3차",
             "secondary": "2차"
         },
-        "metro station": {}
+        "metro station": {
+            "TRUE": [
+                "TRUE"
+            ],
+            "N/A": [
+                "N/A"
+            ]
+        }
     },
     "pc": {
         "pricerange": {
@@ -2963,7 +4752,79 @@
             "4,088.0": "4,088",
             "4,299 yuan": "4,299위안",
             "8,278": "8,278",
-            "6,088 yuan": "6,088위안"
+            "6,088 yuan": "6,088위안",
+            "6,449 yuan": [
+                "6,449위안"
+            ],
+            "8,699 yuan": [
+                "8,699위안"
+            ],
+            "26,999 yuan": [
+                "26,999위안"
+            ],
+            "6,999 yuan": [
+                "6,999위안"
+            ],
+            "5,499 yuan": [
+                "5,499위안"
+            ],
+            "2,899 yuan": [
+                "2,899위안"
+            ],
+            "4,899 yuan": [
+                "4,899위안"
+            ],
+            "18,099 yuan": [
+                "18,099위안"
+            ],
+            "4,599 yuan": [
+                "4,599위안"
+            ],
+            "6,199 yuan": [
+                "6,199위안"
+            ],
+            "3,599 yuan": [
+                "3,599위안"
+            ],
+            "3,499 yuan": [
+                "3,499위안"
+            ],
+            "19,999 yuan": [
+                "19,999위안"
+            ],
+            "4,088 yuan": [
+                "4,088위안"
+            ],
+            "5,949 yuan": [
+                "5,949위안"
+            ],
+            "4,499 yuan": [
+                "4,499위안"
+            ],
+            "3,899 yuan": [
+                "3,899위안"
+            ],
+            "10,688 yuan": [
+                "10,688위안"
+            ],
+            "8,278 yuan": [
+                "8,278위안"
+            ],
+            "20,688 yuan": [
+                "20,688위안"
+            ],
+            "10,288 yuan": [
+                "10,288위안"
+            ],
+            "13,688 yuan": [
+                "13,688위안"
+            ],
+            "5,129 yuan": [
+                "5,129위안"
+            ],
+            "10,299 yuan": [
+                "10,299위안"
+            ]
         },
         "series": {
             "Dell Inspiron": "델 인스피론",
@@ -2996,7 +4857,13 @@
         },
         "memory capacity": {
             "16GB": "16GB",
-            "8GB": "8GB"
+            "8GB": "8GB",
+            "64GB": [
+                "64GB"
+            ],
+            "4GB": [
+                "4GB"
+            ]
         },
         "gpu model": {
             "GTX1660ti MQ6G": "GTX1660ti MQ6G",
@@ -3039,7 +4906,22 @@
             "5-8 hours": "5-8시간",
             "over 9 hours": "9시간 이상",
             "more than 8 hours": "8시간 이상",
-            "5-7 hours": "5-7시간"
+            "5-7 hours": "5-7시간",
+            ">9 hours": [
+                "9시간 이상"
+            ],
+            "<5 hours": [
+                "5시간 미만"
+            ],
+            "N/A": [
+                "N/A"
+            ],
+            ">8 hours": [
+                "8시간 이상"
+            ],
+            "2-5 hours": [
+                "2-5시간"
+            ]
         },
         "computer type": {
             "laptop": "노트북",
@@ -3052,7 +4934,31 @@
             "15.6 inches": "15.6인치",
             "15.6-inch": "15.6인치",
             "14.0 inches": "14인치",
-            "14-inch": "14인치"
+            "14-inch": "14인치",
+            "23-25 inches": [
+                "23-25인치"
+            ],
+            "21.5 inches": [
+                "21.5인치"
+            ],
+            "N/A": [
+                "N/A"
+            ],
+            "20-21.5 inches": [
+                "20-21.5인치"
+            ],
+            "23.6 inches": [
+                "23.6인치"
+            ],
+            "13.3 inches": [
+                "13.3인치"
+            ],
+            "16 inches": [
+                "16인치"
+            ],
+            "27 inches": [
+                "27인치"
+            ]
         },
         "game performance": {
             "entry-level": "보급형",
@@ -3066,7 +4972,22 @@
             "512GB SSD + 1TB HDD": "512GB SSD + 1TB HDD",
             "256GB SSD + 1TB HDD": "256GB SSD + 1TB HDD",
             "256GB SSD + 1TB HD": "256GB SSD + 1TB HD",
-            "512GB SSD + 2TB HDD": "512GB SSD + 2TB HDD"
+            "512GB SSD + 2TB HDD": "512GB SSD + 2TB HDD",
+            "1T SSD": [
+                "1T SSD"
+            ],
+            "128GB SSD + 1TB HDD": [
+                "128GB SSD + 1TB HDD"
+            ],
+            "128GB SSD": [
+                "128GB SSD"
+            ],
+            "1TB SSD": [
+                "1TB SSD"
+            ],
+            "2TB SSD": [
+                "2TB SSD"
+            ]
         },
         "features": {
             "512GB SSD + 2TB HDD": "구체적인 내용은 나와 있지 않습니다",
@@ -3111,7 +5032,64 @@
             "1-1.5 kg": "1에서 1.5kg",
             "7.14kg": "7.14kg",
             "7.5kg": "7.5kg",
-            "5.84kg": "5.84kg"
+            "5.84kg": "5.84kg",
+            "9.27kg": [
+                "9.27kg"
+            ],
+            "12.0kg": [
+                "12.0kg"
+            ],
+            "6.85kg": [
+                "6.85kg"
+            ],
+            "5.875kg": [
+                "5.875kg"
+            ],
+            "12.17kg": [
+                "12.17kg"
+            ],
+            "7.92kg": [
+                "7.92kg"
+            ],
+            "7.51kg": [
+                "7.51kg"
+            ],
+            "7.38kg": [
+                "7.38kg"
+            ],
+            "6.06kg": [
+                "6.06kg"
+            ],
+            "13.67kg": [
+                "13.67kg"
+            ],
+            "6.62kg": [
+                "6.62kg"
+            ],
+            "7.98kg": [
+                "7.98kg"
+            ],
+            "27.2kg": [
+                "27.2kg"
+            ],
+            "6.74kg": [
+                "6.74kg"
+            ],
+            "6.56kg": [
+                "6.56kg"
+            ],
+            "2kg": [
+                "2kg"
+            ],
+            "6.5kg": [
+                "6.5kg"
+            ],
+            "9.44kg": [
+                "9.44kg"
+            ],
+            "3.5kg": [
+                "3.5kg"
+            ]
         }
     },
     "car": {
@@ -3208,9 +5186,30 @@
             "200,000-300,000": "200,000에서 300,000",
             "less than 300,000": "300,000위안 이하"
         },
-        "ventilated seats": {},
-        "parking assist system": {},
-        "heated seats": {},
+        "ventilated seats": {
+            "FALSE": [
+                "FALSE"
+            ],
+            "TRUE": [
+                "TRUE"
+            ]
+        },
+        "parking assist system": {
+            "FALSE": [
+                "FALSE"
+            ],
+            "TRUE": [
+                "TRUE"
+            ]
+        },
+        "heated seats": {
+            "FALSE": [
+                "FALSE"
+            ],
+            "TRUE": [
+                "TRUE"
+            ]
+        },
         "hybrid": {
             "less than 300,000": "가솔린 엔진",
             "gas": "가솔린",
@@ -3257,7 +5256,94 @@
             "175,900 yuan": "175,900위안",
             "149,000 yuan": "149,000위안",
             "180,900": "180,900",
-            "182,800 yuan": "182,800위안"
+            "182,800 yuan": "182,800위안",
+            "109,900": [
+                "109,900"
+            ],
+            "111,800": [
+                "111,800"
+            ],
+            "127,900": [
+                "127,900"
+            ],
+            "135,700": [
+                "135,700"
+            ],
+            "147,200": [
+                "147,200"
+            ],
+            "149,000": [
+                "149,000"
+            ],
+            "149,900": [
+                "149,900"
+            ],
+            "165,200": [
+                "165,200"
+            ],
+            "175,900": [
+                "175,900"
+            ],
+            "177,800": [
+                "177,800"
+            ],
+            "178,800": [
+                "178,800"
+            ],
+            "182,800": [
+                "182,800"
+            ],
+            "186,900": [
+                "186,900"
+            ],
+            "208,800": [
+                "208,800"
+            ],
+            "209,800": [
+                "209,800"
+            ],
+            "221,800": [
+                "221,800"
+            ],
+            "233,900": [
+                "233,900"
+            ],
+            "237,900": [
+                "237,900"
+            ],
+            "243,800": [
+                "243,800"
+            ],
+            "253,800": [
+                "253,800"
+            ],
+            "262,800": [
+                "262,800"
+            ],
+            "274,800": [
+                "274,800"
+            ],
+            "300,900": [
+                "300,900"
+            ],
+            "359,900": [
+                "359,900"
+            ],
+            "392,800": [
+                "392,800"
+            ],
+            "399,000": [
+                "399,000"
+            ],
+            "428,000": [
+                "428,000"
+            ],
+            "428,900": [
+                "428,900"
+            ],
+            "709,800": [
+                "709,800"
+            ]
         },
         "brand": {
             "SAIC Volkswagen": "상하이 폭스바겐",
@@ -3265,7 +5351,14 @@
             "FAW-Volkswagen": "FAW-폭스바겐",
             "Volkswagen Import": "수입 폭스바겐"
         },
-        "cruise control system": {},
+        "cruise control system": {
+            "TRUE": [
+                "TRUE"
+            ],
+            "FALSE": [
+                "FALSE"
+            ]
+        },
         "4wd": {
             "Volkswagen Import": "사륜",
             "all-wheel": "사륜",
@@ -3286,7 +5379,13 @@
             "four": "4",
             "3": "3",
             "1": "1",
-            "6": "6"
+            "6": "6",
+            "5": [
+                "5"
+            ],
+            "7": [
+                "7"
+            ]
         }
     },
     "class": {
@@ -3369,7 +5468,115 @@
             "PE4P01074A": "PE4P01074A",
             "PM4P24022A": "PM4P24022A",
             "PM5T05030": "PM5T05030",
-            "PM6P48012A": "PM6P48012A"
+            "PM6P48012A": "PM6P48012A",
+            "PC4J44010A": [
+                "PC4J44010A"
+            ],
+            "PC4P01046": [
+                "PC4P01046"
+            ],
+            "PC4P44041A": [
+                "PC4P44041A"
+            ],
+            "PE4J44004A": [
+                "PE4J44004A"
+            ],
+            "PE4P05066A": [
+                "PE4P05066A"
+            ],
+            "PE4P44082A": [
+                "PE4P44082A"
+            ],
+            "PE4T15020": [
+                "PE4T15020"
+            ],
+            "PE4T44042": [
+                "PE4T44042"
+            ],
+            "PM4J44007": [
+                "PM4J44007"
+            ],
+            "PM4P05048A": [
+                "PM4P05048A"
+            ],
+            "PM4T28029A": [
+                "PM4T28029A"
+            ],
+            "PM4T31014": [
+                "PM4T31014"
+            ],
+            "PC5J05009A": [
+                "PC5J05009A"
+            ],
+            "PC5P01047": [
+                "PC5P01047"
+            ],
+            "PE5J48003": [
+                "PE5J48003"
+            ],
+            "PE5P05116A": [
+                "PE5P05116A"
+            ],
+            "PE5T01041": [
+                "PE5T01041"
+            ],
+            "PE5T28041A": [
+                "PE5T28041A"
+            ],
+            "PM5P44032": [
+                "PM5P44032"
+            ],
+            "PM5T24013": [
+                "PM5T24013"
+            ],
+            "PM5T44026": [
+                "PM5T44026"
+            ],
+            "ZMCPM5J36004A": [
+                "ZMCPM5J36004A"
+            ],
+            "PC6J32011A": [
+                "PC6J32011A"
+            ],
+            "PC6J44012A": [
+                "PC6J44012A"
+            ],
+            "PC6P15036": [
+                "PC6P15036"
+            ],
+            "PC6P44061": [
+                "PC6P44061"
+            ],
+            "PE6P24044A": [
+                "PE6P24044A"
+            ],
+            "PE6P48018A": [
+                "PE6P48018A"
+            ],
+            "PE6T01052": [
+                "PE6T01052"
+            ],
+            "PE6T38019": [
+                "PE6T38019"
+            ],
+            "PM6T44035": [
+                "PM6T44035"
+            ],
+            "ZMCPC6J01012A": [
+                "ZMCPC6J01012A"
+            ],
+            "ZMCPE6J0519A": [
+                "ZMCPE6J0519A"
+            ],
+            "ZMCPE6J15007A": [
+                "ZMCPE6J15007A"
+            ],
+            "ZMCPE6J39007A": [
+                "ZMCPE6J39007A"
+            ],
+            "ZMCPM6J05015A": [
+                "ZMCPM6J05015A"
+            ]
         },
         "teacher": {
             "Li Yunjie": "리 윤지에",
@@ -3464,7 +5671,10 @@
         "times": {
             "10": "10",
             "9": "9번",
-            "18": "18회"
+            "18": "18회",
+            "6": [
+                "6"
+            ]
         },
         "start time": {
             "10:10": "10시 10분",
@@ -3507,7 +5717,22 @@
             "960": "960",
             "1,600": "1,600",
             "1,620": "1,620",
-            "1,080": "1,080"
+            "1,080": "1,080",
+            "1600": [
+                "1600"
+            ],
+            "1140": [
+                "1140"
+            ],
+            "1900": [
+                "1900"
+            ],
+            "1620": [
+                "1620"
+            ],
+            "1080": [
+                "1080"
+            ]
         },
         "hours": {
             "12": "12",
