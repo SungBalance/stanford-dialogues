@@ -1,1 +1,182 @@
-[]
+[
+    {
+        "class_number": "PE4T01024",
+        "level": "초급반",
+        "subject": "영어",
+        "grade": "4학년",
+        "area": "구수구",
+        "campus": "구수구 러치아오 학습 센터",
+        "type": "대면",
+        "start_date": "2020년 3월 7일",
+        "end_date": "2020년 4월 11일",
+        "day": "토요일",
+        "start_time": "오전 8시",
+        "end_time": "10시",
+        "time": "아침",
+        "times": [
+            "6"
+        ],
+        "hours": "12",
+        "classroom": "러치아오 학습 센터 303호",
+        "teacher": "마 샤오칭",
+        "price": "960"
+    },
+    {
+        "class_number": [
+            "PM4T28029A"
+        ],
+        "level": "초급반",
+        "subject": "수학",
+        "grade": "4학년",
+        "area": "쑤저우 공업단지",
+        "campus": "쑤저우 공업원구 팡저우 인근 센터",
+        "type": "대면",
+        "start_date": "2020년 4월 18일",
+        "end_date": "2020년 6월 20일",
+        "day": "토요일",
+        "start_time": "오후 3시 50분",
+        "end_time": "오후 5시 50분",
+        "time": "오후",
+        "times": "10",
+        "hours": "20",
+        "classroom": "팡저우 학습 센터 314호",
+        "teacher": "장 샤",
+        "price": [
+            "1600"
+        ]
+    },
+    {
+        "class_number": "PC5P28056",
+        "level": "보충 수업",
+        "subject": "중국어",
+        "grade": "5학년",
+        "area": "쑤저우 공업단지",
+        "campus": "쑤저우 공업원구 팡저우 인근 센터",
+        "type": "대면",
+        "start_date": "2020년 3월 7일",
+        "end_date": "2020년 4월 11일",
+        "day": "토요일",
+        "start_time": "오후 1시 20분",
+        "end_time": "오후 3시 20분",
+        "time": "오후",
+        "times": [
+            "6"
+        ],
+        "hours": "12",
+        "classroom": "팡저우 학습 센터 307호",
+        "teacher": "야오 유에",
+        "price": "960"
+    },
+    {
+        "class_number": "PM5P15017A",
+        "level": "보충 수업",
+        "subject": "수학",
+        "grade": "5학년",
+        "area": "쑤저우 공업단지",
+        "campus": "쑤저우 공업원구 로하스 마을",
+        "type": "대면",
+        "start_date": "2020년 4월 18일",
+        "end_date": "2020년 6월 20일",
+        "day": "토요일",
+        "start_time": "오전 10시 20분",
+        "end_time": "12시 20분",
+        "time": "아침",
+        "times": "10",
+        "hours": "20",
+        "classroom": "로하스 마을 학습 센터 311호",
+        "teacher": "저우 신",
+        "price": [
+            "1600"
+        ]
+    },
+    {
+        "class_number": "PM5P24018A",
+        "level": "보충 수업",
+        "subject": "수학",
+        "grade": "5학년",
+        "area": "구수구",
+        "campus": "구수구 핑장 뉴타운 학습 센터",
+        "type": "대면",
+        "start_date": "2020년 4월 19일",
+        "end_date": "2020년 6월 21일",
+        "day": "일요일",
+        "start_time": "오후 1시",
+        "end_time": "오후 3시",
+        "time": "오후",
+        "times": "10",
+        "hours": "20",
+        "classroom": "핑장 뉴타운 학습 센터 307호",
+        "teacher": "펭 슈에얀",
+        "price": [
+            "1600"
+        ]
+    },
+    {
+        "class_number": "PM5T15022A",
+        "level": "초급반",
+        "subject": "수학",
+        "grade": "5학년",
+        "area": "쑤저우 공업단지",
+        "campus": "쑤저우 공업원구 로하스 마을",
+        "type": "대면",
+        "start_date": "2020년 4월 19일",
+        "end_date": "2020년 6월 21일",
+        "day": "일요일",
+        "start_time": "오후 1시 20분",
+        "end_time": "오후 3시 20분",
+        "time": "오후",
+        "times": "10",
+        "hours": "20",
+        "classroom": "로하스 마을 학습 센터 311호",
+        "teacher": "저우 신",
+        "price": [
+            "1600"
+        ]
+    },
+    {
+        "class_number": "ZMCPM5J05004",
+        "level": "심화반",
+        "subject": "수학",
+        "grade": "5학년",
+        "area": "우중구",
+        "campus": "우중 맨션",
+        "type": "대면",
+        "start_date": "2020년 3월 7일",
+        "end_date": "2020년 4월 11일",
+        "day": "토요일",
+        "start_time": "오전 10시 20분",
+        "end_time": "12시 20분",
+        "time": "아침",
+        "times": [
+            "6"
+        ],
+        "hours": "12",
+        "classroom": "우중 맨션 학습 센터 316호",
+        "teacher": "구 얀",
+        "price": [
+            "1080"
+        ]
+    },
+    {
+        "class_number": "PE6T28046",
+        "level": "초급반",
+        "subject": "영어",
+        "grade": "6학년",
+        "area": "쑤저우 공업단지",
+        "campus": "쑤저우 공업원구 팡저우 인근 센터",
+        "type": "대면",
+        "start_date": "2020년 3월 8일",
+        "end_date": "2020년 4월 12일",
+        "day": "일요일",
+        "start_time": "오후 3시 50분",
+        "end_time": "오후 5시 50분",
+        "time": "오후",
+        "times": [
+            "6"
+        ],
+        "hours": "12",
+        "classroom": "팡저우 학습 센터 307호",
+        "teacher": "저우 양롱",
+        "price": "960"
+    }
+]

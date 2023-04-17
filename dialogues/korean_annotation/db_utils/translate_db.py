@@ -76,8 +76,10 @@ ERR_DIC = {
 }
 
 COUNT_LIST = []
+ERR_ALIGN = {}
 
-for domain in domain_list:
+# for domain in domain_list:
+for domain in ['pc']:
     tgt_db = []
     # Read the source language db
     with open(f"{args.src_db_path}/{domain}_{args.src_lang}.json", "r") as f:
@@ -87,6 +89,7 @@ for domain in domain_list:
     # Map the corresponding slot and value to the target language
     for src_db_item in src_db:
         tgt_db_item = {}
+        print("... in for src_db_item")
         for src_slot, src_value in src_db_item.items():
             tgt_slot = get_tgt_slot(src_slot)
             # print(f"\nsrc: {src_slot} - {src_value} | tgt: {tgt_slot}")
@@ -117,6 +120,7 @@ for domain in domain_list:
                             'src_value': error_value,
                             'target_values': list(value_alignment[domain][tgt_slot].keys())
                         })
+                    input()
             else:
                 src_value = str(src_value)
                 try:
@@ -135,6 +139,8 @@ for domain in domain_list:
                             'src_value': src_value,
                             'target_values': list(value_alignment[domain][tgt_slot].keys())
                         })
+
+                        input()
                 except KeyError as e:
                     error_value = e.args[0]
                     if error_value in domain_list:
@@ -156,12 +162,12 @@ for domain in domain_list:
                             'src_value': error_value,
                             'target_values': list(value_alignment[domain][tgt_slot].keys())
                         })
-
         # Check integrity of translated db item
         if len(src_db_item) == len(tgt_db_item):
             tgt_db.append({k.replace(" ", "_"): v for k, v in tgt_db_item.items()})
     print(f"Finished translation from {args.src_lang} to {args.tgt_lang} in {domain} domain!")
     print(f"successful: {len(tgt_db)}, failed: {len(src_db) - len(tgt_db)}\n\n\n")
+    
     COUNT_LIST.append({
         'domain': domain,
         "successful": len(tgt_db),
@@ -169,13 +175,17 @@ for domain in domain_list:
         "original_count_from_src_db": len(src_db)
     })
     
-
     # Write the target language db
     tgt_db_path = Path(f"{args.tgt_db_path}")
     tgt_db_path.mkdir(exist_ok=True)
     with open(f"{args.tgt_db_path}/{domain}_{args.tgt_lang}.json", "w") as f:
         json.dump(tgt_db, f, ensure_ascii=False, indent=4)
+    
 
+    pprint(src_db)
+    pprint(tgt_db)
+    print(domain)
+    input()
 
 count_pd = pd.DataFrame(COUNT_LIST)
 err_domain_pd = pd.DataFrame(ERR_DIC['domain'])
