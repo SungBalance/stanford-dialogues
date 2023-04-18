@@ -78,8 +78,8 @@ ERR_DIC = {
 COUNT_LIST = []
 ERR_ALIGN = {}
 
-# for domain in domain_list:
-for domain in ['pc']:
+for domain in domain_list:
+# for domain in ['pc']:
     tgt_db = []
     # Read the source language db
     with open(f"{args.src_db_path}/{domain}_{args.src_lang}.json", "r") as f:
@@ -120,7 +120,6 @@ for domain in ['pc']:
                             'src_value': error_value,
                             'target_values': list(value_alignment[domain][tgt_slot].keys())
                         })
-                    input()
             else:
                 src_value = str(src_value)
                 try:
@@ -139,8 +138,6 @@ for domain in ['pc']:
                             'src_value': src_value,
                             'target_values': list(value_alignment[domain][tgt_slot].keys())
                         })
-
-                        input()
                 except KeyError as e:
                     error_value = e.args[0]
                     if error_value in domain_list:
@@ -167,7 +164,7 @@ for domain in ['pc']:
             tgt_db.append({k.replace(" ", "_"): v for k, v in tgt_db_item.items()})
     print(f"Finished translation from {args.src_lang} to {args.tgt_lang} in {domain} domain!")
     print(f"successful: {len(tgt_db)}, failed: {len(src_db) - len(tgt_db)}\n\n\n")
-    
+
     COUNT_LIST.append({
         'domain': domain,
         "successful": len(tgt_db),
@@ -182,10 +179,9 @@ for domain in ['pc']:
         json.dump(tgt_db, f, ensure_ascii=False, indent=4)
     
 
-    pprint(src_db)
-    pprint(tgt_db)
+    # pprint(src_db)
+    # pprint(tgt_db)
     print(domain)
-    input()
 
 count_pd = pd.DataFrame(COUNT_LIST)
 err_domain_pd = pd.DataFrame(ERR_DIC['domain'])
@@ -200,6 +196,17 @@ pprint(count_pd)
 print("")
 pprint(err_slot_pd.head())
 print("")
+pprint(err_value_pd.head())
+
+import jellyfish
+
+def similar(source, target_list):
+    score_list = [jellyfish.levenshtein_distance(source, target) for target in target_list]
+    best_idx =  score_list.index(min(score_list))
+    return target_list[best_idx]
+
+err_value_pd['Recomm'] = err_value_pd.apply(lambda x: similar(x.src_value, x.target_values), axis=1)
+err_value_pd = err_value_pd[['domain', 'src_slot', 'tgt_slot', 'src_value', 'Recomm', 'target_values']]
 pprint(err_value_pd.head())
 pprint("")
 
