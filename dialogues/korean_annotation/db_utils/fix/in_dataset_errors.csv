@@ -1,0 +1,130 @@
+,domain,slot,source_value
+0,attraction,address,"Guanqian Street, Gusu District, Suzhou City."
+1,attraction,address,"Near Moli Road, Wuzhong District, Suzhou City"
+2,attraction,address,"the east of Yanghan East Road and the west of Shanshenwan Road, Suzhou New District, Suzhou City"
+3,attraction,address,"No. 1699 Modern Avenue, Suzhou Industrial Park, Suzhou City, Jiangsu Province."
+4,attraction,address,"No. 333, Youxin Road, Wuzhong District, Suzhou City."
+5,attraction,area,Wujiang District
+6,attraction,consumption,moderate
+7,attraction,features,a UNESCO World Heritage Site and one of China's Four Famous Gardens.
+8,attraction,features,The new and exquisitely elegant museum building of the Suzhou Museum designed by Ieoh Ming Pei is worth visiting and you can also enjoy the treasured Olive Green Lotus-Shaped Bowl.
+9,attraction,features,"It's famous for its many small bridges and winding waterways, the Twin Bridges, and the traditional Chinese riverboats. You can also walk in the footsteps of Shen Wansan."
+10,attraction,features,"You can enjoy the beautiful scenery of mountains and Jiangnan gardens, learn more about the Spring and Autumn Period and visit the leaning Huqiu Pagoda."
+11,attraction,features,"one of Suzhou's Four Famous Gardens, best known for its rock garden. When you're there you can count the stone lions and walk through the rock maze. There are loads of things to do."
+12,attraction,features,"You can enjoy the scenery of old Suzhou, visit the old guild hall and other historical sites, take a cruise on the river and take photos of the beautiful night scenery."
+13,attraction,features,"It's the burial place of the ancestors of Fan Zhongyan and it's great fun climbing on the rocky roads in the area. Besides, in mid-to-late November, you can view the beautiful enjoy red maple trees there."
+14,attraction,features,"get a good view of tall buildings like the Gate of the Orient, ride the Ferris wheel, take a night cruise, and feel the modern side of Suzhou."
+15,attraction,features,"You can try food from time-honored Suzhou brands, such as Songhelou Restaurant, Huang Tianyuan, and visit Xuanmiao Temple, the place that gave the street its name."
+16,attraction,features,"a water town featuring gardens. You can visit classical gardens such as Yanjia Garden, go on a boat ride and enjoy the flowing water."
+17,attraction,features,"the birthplace of the revolutionary Peking opera ""Shajiabang"". There you can visit the scene from the opera and take a boat amid reed marshes."
+18,attraction,features,It is a famous fine garden with traditional opera performances at night.
+19,attraction,features,"Xishan Mountain is the biggest island in Taihu Lake. From the island, you can get a great view of the misty lake."
+20,attraction,features,one of the oldest gardens in Suzhou. It's very quiet and the lattice windows on the walls of the two-way corridor are very beautiful.
+21,attraction,features,"Luzhi Ancient Town has a history of over 2,500 years. The crossing waterways and the many bridges have earned it the titles of the ""Pearl of the Five Lakes"" and the ""Thoroughfare of the Six Ponds""."
+22,attraction,features,Qiandeng Town has a history of more than 2500 years. You can enjoy its traditional buildings with white walls and black-tiled roofs and splendid scenery.
+23,attraction,features,"What is special about Eslite Bookstore is that it integrates stationery, drink and food, and entertainment all in one building."
+24,attraction,features,"The wetland park integrates tourism, entertainment, leisure, and education all in one. You could say it's a ""paradise on earth""."
+25,attraction,features,"Soochow University is located in the old town of Suzhou and is part of the national ""211 Project"". Its predecessor was the original Soochow University founded in 1900."
+26,attraction,features,It is a university jointly established by Xi'an Jiaotong University and the University of Liverpool.
+27,attraction,features,It is the biggest shopping mall in Suzhou. It is located just beside Jinji Lake and quite near the Gate of the Orient.
+28,attraction,features,forest-themed. It is like being in a vast forest close to the ocean.
+29,attraction,features,"Based on the seven movies of the Huayi Brothers, the amusement park has invited famous movie artists to make groundbreaking designs to reproduce scenes from movies for visitors."
+30,attraction,features,Jinxi Ancient Town is in the southern suburbs of Kunshan by Dianshanhu Lake. It's a Jiangnan water town with a history of more than a thousand years.
+31,attraction,features,"The Stone Road was built during the Westernization Movement in the late Qing. The road is paved with stones, thereof the name ""Stone Road"". Here you'll find many famous stores with a long history."
+32,attraction,features,"Impression City Shopping Center is a great place to shop, eat, or watch a movie. You can also various brands in the mall."
+33,attraction,features,It's famous for Stone Lake's wonderful scenery and the endless rows of mountains and ridges. It's a great place to appreciate the mountain and water culture of Suzhou.
+34,attraction,features,"The Gate of the Orient, also commonly known as ""long johns"" because of its shape, has become a popular new landmark in Suzhou. It is located at the east end of the CBD axis of Suzhou Industrial Park."
+35,attraction,features,"Dushu Lake Church is located by the beautiful Dushu Lake in Suzhou Industrial Park and that's where the spot gets its name. Plus, the church was built in the Gothic architectural style."
+36,attraction,metro station,true
+37,flight,flight information,3U8911 of Sichuan Airlines from Terminal 1 of Shuangliu International Airport to Terminal 3 of Xiaoshan International Airport
+38,hotel,address,"Zhongyin World Trade Plaza, No. 287, Zhongshan Road, Kunshan."
+39,hotel,parking,paid
+40,hotel,pricerange,slightly expensive
+41,hotel,pricerange,moderate
+42,movie,director,Bruce Lee
+43,movie,director,Wu Jing
+44,movie,director,Rakesh Roshan
+45,movie,director,Kwak Jae-yong.
+46,movie,star,Chen Bolin
+47,movie,star,Chang Chen
+48,movie,star,Mark Chao
+49,movie,star,Yo Yang
+50,movie,star,Tony leung
+51,movie,star,Angelica Lee
+52,movie,star,Jet Li
+53,movie,star,Robert Downey Jr.
+54,movie,star,Cate Blanchett
+55,movie,star,Neve Campbell
+56,movie,star,Salman Khan
+57,movie,star,Shatrughan Sinha
+58,movie,star,Priyanka Chopra
+59,movie,title,Secret
+60,movie,title,Exorcist Master
+61,movie,title,"The Legend of the Six Dynasty,"
+62,movie,title,a Comédie humaine
+63,movie,title,Chasing the Dragon
+64,movie,title,Fist of Fury
+65,movie,title,Better Days
+66,movie,title,The Truman Show.
+67,movie,title,Devdas
+68,restaurant,address,"It is on 4F of Saige Digital Plaza, No. 318, Suya Road."
+69,restaurant,area,Wujiang District
+70,restaurant,area,Changshu
+71,restaurant,cuisine,Korean
+72,restaurant,cuisine,Jiangsu-Zhejiang
+73,restaurant,cuisine,Cantonese
+74,restaurant,cuisine,Japanese
+75,restaurant,pricerange,moderate
+76,tv,director,Liu Chang
+77,tv,director,Benny Chan
+78,tv,name list,"Je-hoon Lee, Cho Jin-woong, Hye-soo Kim, and Hyeong-seong Jang,"
+79,tv,production country or area,Korea
+80,tv,star,Hu Jun
+81,tv,star,Dicky Cheung
+82,tv,star,Angie Chiu
+83,tv,star,George Hu
+84,tv,star,Kuo Shu-Yao
+85,tv,star,Bobby Au-yeung
+86,tv,star,Chow Yun-fat
+87,tv,star,Benny Chan
+88,tv,star,Nick Cheung
+89,tv,star,Damien Lewis
+90,tv,star,Jim Parsons
+91,tv,star,Jennifer Aniston
+92,tv,star,Wagner Moura
+93,tv,star,Wentworth Miller
+94,tv,star,Kento Kaku
+95,tv,star,Takuji Kawakubo
+96,tv,star,Tomohisa Yamashita
+97,tv,star,Honami Suzuki
+98,tv,star,Kim Sun-a
+99,tv,star,Kim Soo Hyun
+100,tv,star,Im Si-wan
+101,tv,title,With You
+102,tv,title,Romance in the Rain
+103,tv,title,"From Today, It's My Turn!!"
+104,tv,type,feature
+105,tv,type,sci-fi
+106,weather,tamperature,"The maximum temperature will be 8 degrees Celsius, and the minimum temperature will be -6 degrees Celsius."
+107,weather,tamperature,"The maximum temperature will be 8 degrees Celsius, and the minimum temperature will be −5 degrees Celsius."
+108,weather,tamperature,The maximum temperature will be 9 degrees Celsius and the minimum temperature will be −3 degrees Celsius.
+109,weather,tamperature,"The maximum temperature will be 11 degrees Celsius, and the minimum temperature will be 5 degrees Celsius."
+110,weather,tamperature,"The maximum temperature will be 15 degrees Celsius, and the minimum temperature will be 8 degrees Celsius."
+111,weather,tamperature,"The maximum temperature will be 16 degrees Celsius, and the minimum temperature will be 9 degrees Celsius."
+112,weather,tamperature,"The maximum temperature will be 18 degrees Celsius, and the minimum temperature will be 5 degrees Celsius."
+113,weather,tamperature,"The maximum temperature will be 17 degrees Celsius, and the minimum temperature will be 7 degrees Celsius."
+114,weather,tamperature,"The maximum temperature will be 20 degrees Celsius, and the minimum temperature will be 14 degrees Celsius."
+115,weather,tamperature,"The maximum temperature will be 23 degrees Celsius, and the minimum temperature will be 16 degrees Celsius."
+116,weather,tamperature,"The maximum temperature will be 22 degrees Celsius, and the minimum temperature will be 16 degrees Celsius."
+117,weather,tamperature,"The maximum temperature will be 11 degrees Celsius, and the minimum temperature will be 0 degrees Celsius."
+118,weather,tamperature,"The maximum temperature will be 16 degrees Celsius, and the minimum temperature will be 5 degrees Celsius."
+119,weather,tamperature,"The maximum temperature will be 18 degrees Celsius, and the minimum temperature will be 7 degrees Celsius."
+120,weather,tamperature,"The maximum temperature will be 21 degrees Celsius, and the minimum temperature will be 13 degrees Celsius."
+121,weather,tamperature,The maximum temperature will be 11 degrees Celsius and the minimum temperature will be 4 degrees Celsius.
+122,weather,tamperature,"The maximum temperature will be 13 degrees Celsius, and the minimum temperature will be 4 degrees Celsius."
+123,weather,tamperature,"The maximum temperature will be 11 degrees Celsius, and the minimum temperature will be 7 degrees Celsius."
+124,weather,tamperature,"The maximum temperature will be 15 degrees Celsius, and the minimum temperature will be 7 degrees Celsius."
+125,weather,tamperature,"The maximum temperature will be 15 degrees Celsius, and the minimum temperature will be 1 degree Celsius."
+126,weather,tamperature,"The maximum temperature will be 19 degrees Celsius, and the minimum temperature will be 8 degrees Celsius."
+127,weather,tamperature,"The maximum temperature will be 9 degrees Celsius, and the minimum temperature will be -1 degree Celsius."
+128,weather,wind,southwest force 3-4.

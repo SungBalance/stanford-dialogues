@@ -201,9 +201,9 @@ pprint(err_value_pd.head())
 import jellyfish
 
 def similar(source, target_list):
-    score_list = [jellyfish.levenshtein_distance(source, target) for target in target_list]
-    best_idx =  score_list.index(min(score_list))
-    return target_list[best_idx]
+    score_list = [jellyfish.jaro_distance(source, target) for target in target_list]
+    score, sentence = zip(*sorted(zip(score_list, target_list)))
+    return sentence[-2:]
 
 err_value_pd['Recomm'] = err_value_pd.apply(lambda x: similar(x.src_value, x.target_values), axis=1)
 err_value_pd = err_value_pd[['domain', 'src_slot', 'tgt_slot', 'src_value', 'Recomm', 'target_values']]

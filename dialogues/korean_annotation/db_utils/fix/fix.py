@@ -11,16 +11,18 @@ dataset_pd = [pd.read_csv(f"./datasets/english_{dataset}_out_final_output.csv", 
 dataset_pd = pd.concat(dataset_pd).drop('Unnamed: 0', axis=1)
 print("dataset loaded")
 
-def check_exist_dataset(string):
+def check_exist_dataset(domain, string):
     try:
-        filter_mask = dataset_pd['source'].str.contains(re.escape(string))
+        # 'attraction_goal_1-13_v2###8382'
+        domain_dataset_pd = dataset_pd[dataset_pd['dialogue_id'].str.split('_').str[0] == domain.lower()]
+        filter_mask = domain_dataset_pd['source'].str.contains(re.escape(string))
     except Exception as e:
-        print(e)
         print(string)
+        print(str(e))
     if filter_mask.sum() == 0:
         return None
     else:
-        return dataset_pd.loc[filter_mask, ['source', 'target']].reset_index(drop=True).loc[0].to_dict()
+        return domain_dataset_pd.loc[filter_mask, ['source', 'target']].reset_index(drop=True).loc[0].to_dict()
     
 
 # load alignmnet file and error data
@@ -36,7 +38,7 @@ def save():
         json.dump(canonical, f, ensure_ascii=False, indent=4)
 
 error_pd = pd.read_csv("./value_err.csv", index_col=False).dropna()
-error_pd = error_pd[["domain", "src_slot", "src_value"]]
+error_pd = error_pd[["domain", "src_slot", "src_value", "Recomm"]]
 error_count = len(error_pd)
 error_dic = {k: g.pivot_table(index='src_slot', values='src_value',aggfunc=list).to_dict()['src_value'] for k, g in error_pd.groupby('domain')}
 
@@ -46,27 +48,59 @@ missing_count = 0
 already_count = 0
 print(f"value_domains: {value_alignment.keys()}")
 print(f"error_domains: {error_dic.keys()}")
+
+NOT_IN_DATASET_VALUES = []
+IN_DATASET_VALUES = []
+
 for domain, error_slots in error_dic.items():
     print(f"\n--------- DOMAIN {domain} ---------")
     for slot, error_values in error_slots.items():
         print(f"\n:: DOMAIN {domain} SLOT {slot}")
         slot = slot.replace("_", " ")
         for error_value in error_values:
+            
             if error_value in value_alignment[domain][slot]:
                 already_count += 1
                 continue
-            example = check_exist_dataset(error_value)
-            if example is not None:
-                print('\033[93m'+f"\n:::: example\t:: {example['source']}"+'\033[0m')
-                print('\033[93m'+f":::: example\t:: {example['target']}"+'\033[0m')
-            else:
-                print('\033[96m'+f"\n:::: noti\t:: the value '{error_value}' is not in dataset."+'\033[0m')
+            
+            example = check_exist_dataset(domain, error_value)
+            
+            if example is not None: # errors in dataset
+                print('\033[93m'+f"\n:::: dataset\t:: {example['source']}"+'\033[0m')
+                print('\033[93m'+f":::: dataset\t:: {example['target']}"+'\033[0m')
+
+                IN_DATASET_VALUES.append({
+                    'domain': domain,
+                    'slot': slot,
+                    'source_value': error_value
+                    })
+
+            else: # errors not in dataset
+                NOT_IN_DATASET_VALUES.append({
+                    'domain': domain,
+                    'slot': slot,
+                    'source_value': error_value
+                    })
                 missing_count += 1
+                continue # remove this to fix
+
+                similar_set = eval(error_pd.loc[error_pd['src_value']==error_value, 'Recomm'].to_numpy()[0])
+                if similar_set[0] in value_alignment[domain][slot]:
+                    print('\033[96m'+f"\n:::: similar\t:: first similar:: '{similar_set[0]}'"+'\033[0m')
+                    print('\033[96m'+f":::: similar\t:: first similar:: '{value_alignment[domain][slot][similar_set[0]]}'"+'\033[0m')
+                if similar_set[1] in value_alignment[domain][slot]:
+                    print('\033[96m'+f"\n:::: similar\t:: second similar:: '{similar_set[1]}'"+'\033[0m')
+                    print('\033[96m'+f":::: similar\t:: second similar:: '{value_alignment[domain][slot][similar_set[1]]}'"+'\033[0m')
+                
 
             if FIX_MODE:
                 not_pass = True
                 while not_pass:
-                    tgt_value = input(f":::: type\t:: '{error_value}' :: if type nothing, skip this. s for save:")
+                    if example['source'] == error_value:
+                        tgt_value = example['target']
+                    else:
+                        tgt_value = input(f":::: type fix\t:: '{error_value}' :: if type nothing, skip this. s for save:")
+                    
                     if not tgt_value:
                         not_pass = False
                         continue
@@ -75,12 +109,15 @@ for domain, error_slots in error_dic.items():
                         save()
                     else:
                         value_alignment[domain][slot][error_value] = tgt_value
-                        if tgt_value in canonical[domain][slot]:
-                            canonical[domain][slot][tgt_value] = [canonical[domain][slot][tgt_value], tgt_value]
-                        else:
+                        if tgt_value not in canonical[domain][slot]:
                             canonical[domain][slot][tgt_value] = tgt_value
                         
                         not_pass = False
+                
+                print("\n------------------")
 
 print(f"{missing_count} in {error_count} is not in dataset already.")
 print(already_count)
+
+pd.DataFrame(IN_DATASET_VALUES).to_csv("./in_dataset_errors.csv")
+pd.DataFrame(NOT_IN_DATASET_VALUES).to_csv("./not_in_dataset_errors.csv")
