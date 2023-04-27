@@ -90,8 +90,7 @@
             "not that expensive": "그렇게 비싸지 않은",
             "affordable": "적당한",
             "moderately priced": "적당한 가격의",
-            "moderate": "적당한",
-            "slightly expensive": "조금 비싼"
+            "moderate": "적당한"
         },
         "phone number": {
             "0512-65314467": "0512-65314467",
@@ -220,15 +219,7 @@
             "Impression City Shopping Center is a great place to shop, eat, or watch a movie. You can also various brands in the mall.": "임프레션 시티 쇼핑센터는 쇼핑하거나 외식하고 영화를 보기에 좋은 곳입니다. 쇼핑몰 안에 다양한 브랜드가 입점해 있어요.",
             "It's famous for Stone Lake's wonderful scenery and the endless rows of mountains and ridges. It's a great place to appreciate the mountain and water culture of Suzhou.": "석호의 멋진 경치와 끝없이 이어진 산과 능선으로 유명합니다. 산과 물에 대한 쑤저우의 문화를 감상할 수 있는 좋은 장소에요.",
             "The Gate of the Orient, also commonly known as \"long johns\" because of its shape, has become a popular new landmark in Suzhou. It is located at the east end of the CBD axis of Suzhou Industrial Park.": "모양 때문에 \"내복\"이라고 잘 알려져 있는 동방지문은 쑤저우에서 인기 있는 새로운 랜드 마크가 되었습니다. 쑤저우 공업원구 중앙상업구 동쪽 끝에 위치해 있습니다.",
-            "Dushu Lake Church is located by the beautiful Dushu Lake in Suzhou Industrial Park and that's where the spot gets its name. Plus, the church was built in the Gothic architectural style.": "두슈호 성당은 쑤저우 공업원구에 있는 아름다운 두슈호 옆에 위치해 있어서 그 이름을 가지게 되었습니다. 게다가 그 성당은 고딕 건축양식으로 지어졌습니다.",
-            "This famous thousand-year temple is also the one in the poem \"Beyond the Gusu District, from the Hanshan Temple\". Tourists often strike the bell in the temple and pray for blessings.": "구수지구 너머, 한산사에서 관광객들은 종종 사원의 종을 치고 축복을 기원합니다.",
-            "In the Suzhou-styled garden with humbleness, there are three treasures: Guanyun Peak, Nanmu Hall, and fish fossils.": "수수한 쑤저우식 정원에는 관륜봉, 난무관, 물고기 화석 등 세 가지 보물이 있습니다.",
-            "Walk around the well-preserved ancient blocks, watch the bridges and flowing water, visit the literary and artistic shops, and eat delicious food.": "잘 보존된 고대 블록들을 걷고, 다리와 흐르는 물을 보고, 문예 상점을 방문하고, 맛있는 음식을 먹습니다.",
-            "Climb or take a boat to visit the only water and land city gate in China — Pan Gate. Walk across the Wumen Bridge and visit the Ruiguang Tower.": "ㄴ",
-            "It is a good place to climb the mountain. At the top, we can overlook the scenery of Suzhou City, worship Buddha, and pray for blessings in Lingyan Mountain Temple.": "그곳은 산을 오르기에 좋은 장소입니다. 정상에서 우리는 쑤저우 시의 풍경을 내려다보고, 부처님을 모시고, 링옌 산사에서 축복을 기원할 수 있습니다.",
-            "The Huanshan Road, like a jade belt, enables the visitors to enjoy  Taihu Lake and exquisite ancient buildings along the road and they can taste the white fish, silverfish, and white shrimp of Taihu Lake.": "옥띠처럼 생긴 환산길은 방문객들로 하여금 태후호와 길을 따라 있는 정교한 고대 건물들을 즐길 수 있게 해주며, 그들은 태후호의 흰 물고기, 은어, 흰 새우를 맛볼 수 있습니다.",
-            "Yuanrong Times Square is a large-scale, comprehensive, modern, and high-quality commercial complex integrating shopping, catering, leisure, entertainment, business, culture, tourism, and other functions.": "위안롱 타임스퀘어는 쇼핑, 케이터링, 레저, 엔터테인먼트, 비즈니스, 문화, 관광 및 기타 기능을 통합한 대규모의 종합적이고 현대적이며 고품질의 상업 단지입니다.",
-            "It was once an imperial path passed by Emperor Qianlong when he visited the south of the Yangtze River for the sixth time and there was a palace site. It was once a place where King Goujian of Yue endured hardships for nine years and raised horses for King Wu.": "건륭제가 여섯 번째로 양쯔강 남쪽을 방문했을 때 지나쳤던 황실 길로, 궁궐터가 있었습니다. 이곳은 한때 월나라의 구천왕이 9년 동안 고난을 견디고 우왕을 위해 말을 길렀던 곳입니다."
+            "Dushu Lake Church is located by the beautiful Dushu Lake in Suzhou Industrial Park and that's where the spot gets its name. Plus, the church was built in the Gothic architectural style.": "두슈호 성당은 쑤저우 공업원구에 있는 아름다운 두슈호 옆에 위치해 있어서 그 이름을 가지게 되었습니다. 게다가 그 성당은 고딕 건축양식으로 지어졌습니다."
         },
         "metro station": {
             "no": "아니요",
@@ -381,10 +372,7 @@
             "the east of Yanghan East Road and the west of Shanshenwan Road, Suzhou New District, Suzhou City": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
             "No. 1699 Modern Avenue, Suzhou Industrial Park, Suzhou City, Jiangsu Province.": "장쑤성 쑤저우시 쑤저우 공업원구 모던대로 1699호입니다.",
             "No. 333, Youxin Road, Wuzhong District, Suzhou City.": "쑤저우시 우중구 유씬로 333호",
-            "No. 49, Dongda Street, Gusu District, Suzhou City, Jiangsu Province": "쑤저우시 구수구 동베이가 49호",
-            "No. 338, Liuyuan Road, Changmenwai, Gusu District, Suzhou City": "쑤저우시 구수구 창먼 유안린로 338호",
-            "150 meters west of the intersection of Xingzhou Street and Xinggang Street, Suzhou Industrial Park": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
-            "No. 268, Wangdun Road, Suzhou Industrial Park": "쑤저우 공업원구 왕둔로 268호"
+            "No. 49, Dongda Street, Gusu District, Suzhou City, Jiangsu Province": "쑤저우시 구수구 동베이가 49호"
         }
     },
     "other": {
@@ -959,8 +947,7 @@
             "Changshu OYO Interesting Chain Hotel": "창수 오요 인터레스팅 체인 호텔",
             "South Lake Retreat Holiday Courtyard": "사우스 레이크 리트리트 홀리데이 코트야드",
             "Yundu Business Hotel": "윈두 비즈니스 호텔",
-            "Suzhou Tule Hotel Apartment": "쑤저우 툴레 호텔 아파트먼트",
-            "Suzhou Jinji Lake Shilla Hotel": "쑤저우 진지 레이크 신라 호텔"
+            "Suzhou Tule Hotel Apartment": "쑤저우 툴레 호텔 아파트먼트"
         },
         "parking": {
             "free": "무료",
@@ -1010,11 +997,7 @@
             "No. 12, Hongqi North Road, Changshu": "창수시 홍치북로 12호",
             "Building 1, Jiahe Garden, Kunshan": "쿤산시 지아허 정원 1번 빌딩",
             "No. 75, Dongbin village, Zhouzhuang Town, Kunshan": "쿤산시 저우좡 마을 동빈 마을 75호",
-            "Zhongyin World Trade Plaza, No. 287, Zhongshan Road, Kunshan.": "쿤산시 중산로 287호 중인 월드 트레이드 플라자입니다.",
-            "No. 338, Tayuan Road, Suzhou High-tech Zone": "쑤저우 첨단기술 구역 타위안로 338호",
-            "No. 1, Fugui Jingyuan, Kunshan": "쿤산시 푸기 징위안 1호",
-            "No. 6, Kaiyuan Avenue, Changshu": "창수시 카이위안로 6호",
-            "No. 8, Jingang Road, Bixi Town, Changshu": "창수시 비씨시 징강 8호"
+            "Zhongyin World Trade Plaza, No. 287, Zhongshan Road, Kunshan.": "쿤산시 중산로 287호 중인 월드 트레이드 플라자입니다."
         },
         "room charge": {
             "131 yuan": "131위안",
@@ -1113,8 +1096,7 @@
             "4.2": "4.2점",
             "5": [
                 "5"
-            ],
-            "5.0": "5.0"
+            ]
         },
         "phone number": {
             "0512-52018188": "0512-52018188",
@@ -3064,9 +3046,7 @@
             "MU2879 of China Eastern Airlines, from Terminal 2 of Lukou International Airport to Terminal 4 of Gaoqi International Airport": "루커우 국제공항 제2터미널에서 가오치 국제공항 제4터미널로 가는 중국동방항공 MU2879",
             "from Terminal 1 of Hangzhou International Airport to Terminal 1 of Baiyun International Airport": "항저우 국제공항 제1터미널에서 바이윈 국제공항 제1터미널로",
             "CZ3827 of China Southern Airlines, from Terminal 3 of Bao'an International Airport to Terminal 2 of Lukou International Airport": "바오안 국제공항 제3터미널에서 루커우 국제공항 제2터미널로 가는 중국남방항공 CZ3827",
-            "3U8911 of Sichuan Airlines from Terminal 1 of Shuangliu International Airport to Terminal 3 of Xiaoshan International Airport": "솽류 국제공항 제1터미널에서 샤오산 국제공항 제3터미널로 가는 쓰촨항공 3U8911",
-            "MU5391 of China Eastern Airlines, from Terminal 1 of Beijing Capital International Airport to Terminal 3 of Bao'an International Airport": "중국동방항공 MU5391, 베이징 수도 국제공항 제1터미널에서 바오안 국제공항 제3터미널까지",
-            "CA4325 of Air China, from Terminal 2 of Shuangliu International Airport to Terminal 3 of Bao'an International Airport": "중국국제항공 CA4325, 솽류 국제공항 제2터미널에서 바오안 국제공항 제3터미널까지"
+            "3U8911 of Sichuan Airlines from Terminal 1 of Shuangliu International Airport to Terminal 3 of Xiaoshan International Airport": "솽류 국제공항 제1터미널에서 샤오산 국제공항 제3터미널로 가는 쓰촨항공 3U8911"
         },
         "ticket price": {
             "710 yuan": "710위안",
@@ -3426,8 +3406,7 @@
             "80%": "80%",
             "93.10%": [
                 "93.10%"
-            ],
-            "93.1%": "93.1%"
+            ]
         }
     },
     "weather": {
@@ -3797,40 +3776,7 @@
             "Bruce Lee": "이소룡",
             "Wu Jing": "오경",
             "Rakesh Roshan": "라케쉬 로샨",
-            "Kwak Jae-yong.": "곽재용",
-            "Liu Lili": "류 릴리",
-            "Chu Yin-ping": "츄 인-핑",
-            "Lingo Hsieh": "링고 셰",
-            "Wang Chu-chin": "왕 추-친",
-            "Kaige Chen": "카이거 첸",
-            "Chan Hing-ka": "찬 힝-카",
-            "Law Chi-leung": "뤄 즈-량",
-            "Andrew Lau": "앤드루 라우",
-            "Ricky Lau": "리키 라우",
-            "Sung Tsu-shou": "성 쭈-수",
-            "Gordon Chan": "고든 챈",
-            "Luo Wei": "라오 웨이",
-            "Jeffrey Lau": "제프리 라우",
-            "Yip Wai-man": "엽 위-만",
-            "Derek Tsang": "데릭 트생",
-            "Ang Lee": "앙 리",
-            "Ning Hao": "닝 하오",
-            "Tsui Hark": "추이 하크",
-            "Yip Wai-shun": "엽 위-순",
-            "Chang Hsin-yen": "장 신-옌",
-            "Rob Reiner": "롭 라이너",
-            "Quentin Jerome Tarantino": "쿠엔틴 제롬 타란티노",
-            "Brian De Palma": "브라이언 드 팔마",
-            "Christopher Nolan": "크리스토퍼 놀란",
-            "David Fincher": "데이비드 핀처",
-            "Tony Scott": "토니 스콧",
-            "John G. Avildsen": "존 G. 아빌드센",
-            "Sanjay Leela Bhansali": "산제이 릴라 반살리",
-            "S. Shankar": "S. 샹카르",
-            "Jo Sung-hee": "조 성-희",
-            "Yeon Sang-ho": "연 상-호",
-            "Park Chan-wook": "박 찬-욱",
-            "Karan Johar": "카란 조하르"
+            "Kwak Jae-yong.": "곽재용"
         },
         "release date": {
             "July 5, 2018": "2018년 7월 5일",
@@ -3905,98 +3851,17 @@
             "in India on April 7th, 1997": "인도에서 1997년 4월 7일에",
             "in America on November 16, 2018, and in the Chinese mainland on March 1, 2019": "미국에서 2018년 11월 16일에 그리고 중국에서 2019년 3월 1일에",
             "in the Chinese mainland on November 22, 2013": "중국에서 2013년 11월 22일에",
-            "2011-08-19 in Taiwan, China / 2012-01-06 in the Chinese mainland": "대만에서 2011년 8월 19일 / 중국에서 2012년 1월 6일",
-            "2007-07-27 in Taiwan, China / 2007-07-31 in the Chinese mainland": "대만에서 2007년 7월 27일 / 2 중국에서 2007년 7월 31일",
-            "1980-03-29 in Taiwan, China": "대만 1980년 3월 29일",
-            "1979-01-28 in Taiwan, China": "대만에서 1979년 1월 28일",
-            "2013-07-11 in the Chinese mainland / Taiwan, China": "중국에서 2013년 7월 11일",
-            "2008-02-07 in Hong Kong, China / Taiwan, China": "홍콩/대만에서 2008년 2월 7일",
-            "1996-12-28 in Taiwan, China": "대만에서 1996년 12월 28일",
-            "1986-03-28 in Taiwan, China": "대만에서 1986년 3월 28일",
-            "1971-06-05 in Hong Kong, China": "홍콩에서 1971년 6월 5일",
-            "2015-08-20 in Taiwan, China": "대만에서 2015년 8월 20일",
-            "2002-10-25 in Taiwan, China": "대만에서 2002년 10월 25일",
-            "1993 in Taiwan, China": "대만에서 1993년",
             "2003-11-21 in South Korea": "한국에서 2003년 11월 21일",
             "2016-07-20 in South Korea": "한국에서 2016년 7월 20일",
             "2001-07-27 in South Korea": "한국에서 2001년 7월 27일",
             "2013-12-19 in the Chinese mainland / 2012-10-31 in South Korea": "중국에서 2013년 12월 19일 / 한국에서 2012년 10월 31일",
             "2006-06-23 in India": "인도에서 2006년 6월 23일",
             "2010-10-01 in America": "미국에서 2010년 10월 1일",
-            "1980-01-09 in Taiwan, China": "중국에서 1980년 1월 9일",
-            "1974-09-12 in Taiwan, China": "대만에서 1974년 9월 12일",
-            "2012-08-17 in Taiwan, China / 2013-03-14 in the Chinese mainland": "대만에서 2012년 8월 17일",
-            "2006-09-29 in Taiwan, China": "대만에서 2006년 9월 29일",
-            "2010-2-5 in Taiwan, China": "대만에서 2010년 2월 5일",
-            "2006/3/24 in Taiwan, China": "대만에서 2006년 3월 24일",
-            "1991-08-01 in Taiwan, China": "대만에서 1991년 8월 1일",
-            "1984-03-02 in Taiwan, China": "대만에서 1984년 3월 2일",
-            "1970-10-09 in Taiwan, China": "대만에서 1970년 10월 9일",
-            "2010-03-25 in Hong Kong, China / 2010-06-18 in the Chinese mainland": "홍콩에서 2010년 3월 25일 / 중국에서 2010년 6월 18일",
-            "2000-09-29 in Hong Kong, China": "홍콩에서 2000년 9월 29일",
-            "1993-01-01 in Hong Kong, China / 1993-07-26 in the Chinese mainland": "홍콩에서 1993년 1월 1일 / 중국에서 1993년 7월 26일",
-            "1987-07-18 in Hong Kong, China / 2011-04-30 in the Chinese mainland": "홍콩에서 1987년 7월 18일 / 중국에서 2011년 4월 30일",
-            "1977-10-26 in Hong Kong, China": "홍콩에서 1977년 10월 26일",
-            "2010-7-8 in Hong Kong, China": "홍콩에서 2010년 7월 8일",
-            "2004-12-23 in the Chinese mainland / Hong Kong, China": "중국/홍콩에서 2004년 12월 23일",
-            "1999-02-13 in Hong Kong, China": "홍콩에서 199년 2월 13일",
-            "1989-12-14 in Hong Kong, China": "홍콩에서 1989년 12월 14일",
-            "1972-12-30 in Hong Kong, China": "홍콩에서 1972년 12월 30일",
-            "2013-10-24 in Hong Kong, China": "홍콩에서 2013년 10월 24일",
-            "2002-03-28 in Hong Kong, China / 2005-03-25 in the Chinese mainland": "홍콩에서 2002년 3월 28일 / 중국에서 2005년 3월 25일",
-            "1991-01-01 in Hong Kong, China": "홍콩에서 1991년 1월 1일",
-            "1988-12-22 in Hong Kong, China": "홍콩에서 1988년 12월 22일",
-            "1974-10-05 in Hong Kong, China": "홍콩에서 1974년 10월 5일",
-            "2017-09-30 in the Chinese mainland": "중국에서 2017년 9월 30일",
-            "2001-07-12 in Hong Kong, China": "홍콩에서 2001년 7월 12일",
-            "1992-12-17 in Hong Kong, China": "홍콩에서 1992년 12월 17일",
-            "1986-08-02 in Hong Kong, China / 2017-11-17 in the Chinese mainland": "홍콩에서 1986년 8월 2일 / 중국에서 2017년 11월 17일",
-            "1972-03-22 in Hong Kong, China": "홍콩에서 1972년 3월 22일",
-            "2002-01-11 in Hong Kong, China": "홍콩에서 2002년 1월 11일",
-            "1995-08-19 in Hong Kong, China": "홍콩에서 1995년 8월 19일",
-            "2007-11-01 in the Chinese mainland": "중국에서 2007년 11월 1일",
-            "1988-10-10 in the Chinese mainland": "중국에서 1988년 10월 10일",
-            "2006-06-30 in the Chinese mainland / 2006-08-10 in Hong Kong, China": "중국에서 2006년 6월 30일 / 홍콩에서 2006년 8월 10일",
-            "1997-12-24 in the Chinese mainland": "중국에서 1997년 12월 24일",
-            "1988 in the Chinese mainland": "중국에서 1988년",
-            "2014-07-18 in the Chinese mainland": "중국에서 2014년 7월 18일",
-            "2008-06-12 in the Chinese mainland": "중국에서 2008년 6월 12일",
-            "2017-07-27 in the Chinese mainland": "중국에서 2017년 7월 27일",
-            "2008-12-12 in the Chinese mainland / 2008-12-19 in Hong Kong, China": "중국에서 2008년 12월 12일 / 홍콩에서 2008년 12월 19일",
-            "1993-02-11 in Hong Kong, China": "홍콩에서 1993년 2월 11일",
-            "1982-02-01 in the Chinese mainland": "중국에서 1982년 2월 1일",
-            "2019-02-05 in the Chinese mainland": "중국에서 2019년 2월 5일",
-            "2008-01-30 in the Chinese mainland": "중국에서 2008년 1월 30일",
-            "2008-01-11 in America": "미국에서 2008년 1월 11일",
-            "1994-10-14 in America": "미국에서 1994년 10월 14일",
-            "1985-07-03 in America": "미국에서 1985년 7월 3일",
-            "2019-04-24 in the Chinese mainland / 2019-04-26 in America": "중국에서 2019년 4월 24일 / 미국에서 2019년 4월 26일",
-            "2003-11-21 in the Chinese mainland / 2003-07-09 in America": "중국에서 2003년 11월 21일 / 미국에서 2003년 7월 9일",
-            "1996-05-22 in America": "미국에서 2996년 5월 22일",
-            "1992-06 in the Chinese mainland / 1984-10-26 in America": "중국에서 1992년 6월 / 미국에서 1984년 10월 26일",
-            "2010-09-01 in the Chinese mainland / 2010-07-16 in America": "중국에서 2010년 9월 1일 / 미국에서 2010년 7월 16일",
-            "2010-01-04 in the Chinese mainland / 2009-12-18 in America": "중국에서 2010년 1월 4일 / 미국에서 2009년 12월 18일",
-            "1998-06-05 in America": "미국에서 1998년 6월 5일",
-            "1982-06-25 in America": "미국에서 1982년 6월 25일",
-            "1977-05-25 in America": "미국에서 1977년 5월 25일",
-            "2010-07-26 premiered in Hollywood / 2010-09-10 in America": "할리우드에서 2010년 7월 26일 / 미국에서 2010년 9월 10일",
-            "2008-12-25 in America": "미국에서 2008년 12월 25일",
-            "1998-04-03 in the Chinese mainland / 1997-12-19 in America": "중국에서 1998년 4월 3일 / 미국에서 1997년 12월 1일",
-            "1986-05-16 in America": "미국에서 1986년 5월 16일",
-            "1976-12-03 in America": "미국에서 1976년 12월 3일",
-            "2013-07-19 in America": "미국에서 2013년 7월 19일",
-            "2004-10-29 in America": "미국에서 2004년 10월 29일",
-            "1996-12-20 in America": "미국에서 1996년 12월 20일",
-            "1980-05-23 in America": "미국에서 1980년 5월 23일",
-            "1979-05-25 in America": "미국에서 1979년 5월 25일",
-            "2015-05-22 in the Chinese mainland / 2014-12-19 in India": "중국에서 2015년 5월 22일 / 인도에서 2014년 12월 19일",
-            "2011-12-08 in the Chinese mainland / 2009-12-25 in India": "중국에서 2011년 12월 8일 / 인도에서 2009년 12월 25일",
-            "1987-05-25 in India": "인도에서 1987년 5월 25일",
-            "2018-03-02 in the Chinese mainland / 2015-07-17 in India": "중국에서 2018년 3월 2일 / 인도에서 2015년 7월 17일",
-            "2008-12-25 in India": "인도에서 2008년 12월 25일",
+            "2002-07-11 in India": "인도에서 2002년 7월 11일",
+            "2010-11-30 in the Chinese mainland / 2010-02-12 in India": "중국에서 2010년 11월 30일",
             "1988-08-12 in India": "인도에서 1988년 8월 12일",
-            "2010-11-30 in the Chinese mainland / 2010-02-12 in India": "중국에서 2010년 11월 30일 / 인도에서 2010년 2월 12일",
-            "2002-07-11 in India": "인도에서 2002년 7월 11일"
+            "2008-12-25 in India": "인도에서 2008년 12월 25일",
+            "2018-03-02 in the Chinese mainland / 2015-07-17 in India": "중국에서 2018년 3월 2일"
         },
         "film length": {
             "117 minutes": "117분",
@@ -4306,78 +4171,7 @@
             "Stephen Chow, Zhao Wei, Ng Man-tat, and Patrick Tse": "주성치, 자오웨이, 오맹달, 사현",
             "John Travolta, Uma Thurman, and Amanda Plummer": "존 트라볼타, 우마 서먼, 아만다 플러머",
             "Harrison Ford, Mark Hamill, and Carrie Fisher": "해리슨 포드, 마크 해밀, 캐리 피셔",
-            "Stephen Chow, Josie Xu, Zhang Yuqi, and Lam Tze Chung": "주성치, 서교, 장우기, 임자총",
-            "Jay Chou/Gwei Lun-mei/Anthony Wong/Su Ming-ming": "저우제이/규룬메이/앤서니 웡/쑤밍밍",
-            "Leslie Cheung/Brigitte Lin/Tony Leung/Jacky Cheung": "장국영/임청하/양조위/장학우",
-            "Brigitte Lin/Alan Chin/Ma Yonglin": "임청하/아란 친/ 마영린",
-            "Jay Chou/Chen Bolin/River Chen/Charlene Choi": "제이 주/첸 볼린/리버 첸/샬린 최",
-            "Jacky Wu/Yvonne Yung/Nicky Wu/Steven Hao": "재키 우/이본 융/니키 우/스티븐 하오",
-            "Yan Ching-kuo/Joh Haau-foo/Chen Chung-Jung/Chen Wai-lau": "옌칭궈/조하우푸/천충정/천웨이루",
-            "Chen Chen/Patrick Tse/Hu Jin": "첸첸/패트릭 쩌/후진",
-            "Wu Kang-Ren/Hsieh Hsin-Ying/Tanaka Chie/Yen Cheng-Lan": "우강렌/쉐신잉/타나카 치에/옌청란",
-            "Lam Ching-ying/Wu Ma/Collin Chou/Chen Chia-chun": "람칭잉/우마/콜린 저우/첸차오춘",
-            "Terry Hu/Paco Guan/Han Chiang": "테리 후/파코 관/한치앙",
-            "Chin Meng/Yueh Yang/Jin Lingzi/Gao Xingzhi": "진멍/웨양/진링지/가오싱지",
-            "Mark Chao/Ethan Juan/Rhydian Vaughan/Huang Teng-hui": "마크 차오/이단 후안/리디안 본/황텅후이",
-            "Yo Yang/Tien Hsin/King Chin/Abe Tsuyoshi": "요양/천신/친왕/아베 쓰요시",
-            "Jackie Chan/Andy Lau/Sammo Hung/Leung Ka-fai": "성룡/류앤디/홍삼모/량가휘",
-            "Tommy Tam/David Chiang/Bryan Leung/Jimmy Wang": "타미탐/데이비드 치앙/브라이언 렁/왕지미",
-            "Miriam Yeung/Shawn Yue/Kenny Wong/Chan Yat-ling": "미리암 양/숀 유/케니 웡/찬야틀링",
-            "Tony Leung/Maggie Cheung/Rebecca Pan/Siu Ping-lam": "토니 렁/매기 쳉/레베카 판/샤오핑람",
-            "Leslie Cheung/Zhang Fengyi/Gong Li/Ge You": "장국영/장펑이/공리/거유",
-            "Brigitte Lin/Sylvia Chang/Deborah Lee/Michelle Yim": "임청하/실비아 장/데보라 리/미셸 림",
-            "Chapman To/Wong Cho-lam/Fiona Sit/Kama Luo": "채프먼 토/왕초람/피오나시트/카마뤄",
-            "Stephen Chow/Yuen Qiu/Yuan Wah/Huang Shengyi": "스티븐 차우/위안추/위안화/황성이",
-            "Stephen Chow/Cecilia Cheung/Karen Mok/Ng Man-tat": "주성치/장백지/막문위/오맹달",
-            "Chow Yun-fat/Andy Lau/Joey Wong/Sharla Cheung": "주윤발/유덕화/왕조현/장민",
-            "Bruce Lee/Nora Miao/Chuck Norris": "브루스 리/노라 미아오/척 노리스",
-            "Chin Siu-ho/Wai Ying-hung/Paw Hee-ching/Anthony Chan": "진소호/와이잉훙/파우희칭/앤서니 챈",
-            "Leslie Cheung/Karena Lam/Waise Lee/Valerie Chow": "장국영/카레나 람/와이즈 리/발레리 차우",
-            "Lam Ching-ying/Chin Siu-ho/Carrie Ng/Lau Shun": "람칭잉/친샤오호/캐리어응/라우순",
-            "Wu Ma/Chin Ka-lok/Loretta Lee/Anthony Chan": "우마/친카록/로레타 리/앤서니 찬",
-            "Brigitte Lin/Shih Chun/Tou Chunghua/Gu Wenzong": "브리짓 린/시춘/투충화/구원종",
-            "Donnie Yen/Andy Lau/Philip Patrick Keung Ho-men/Kent Cheng": "견자단/유덕화/강호문/정칙사",
-            "Stephen Chow/Vicki Zhao/Ng Man-tat/Patrick Tse": "주성치/자오웨이/오맹달/패트릭체",
-            "Chow Yun-fat/Tommy Tam/Leslie Cheung/Emily Chu": "주윤발/적룡/장국영/주보의",
-            "Bruce Lee/Nora Miao/Tian Jun/Tian Feng": "이소룡/노라 먀오/톈쥔/톈펑",
-            "Daniel Wu/Yao Chen/Simon Yam/Leon Dai": "다니엘 우/야오 첸/사이먼 얌/레온 다이",
-            "Ekin Cheng/Cecilia Cheung/Jonathan Ke Quan/Annamarie Wood": "에킨 청/세실리아 청/조나단 커취안/아나마리 우드",
-            "Stephen Chow/Ng Man-tat/Gigi Leung/Alien Sun": "주성치/오맹달/양영기/에일리언 선",
-            "Tony Leung/Tang Wei/Joan Chen/Wang Leehom": "토니 렁/탕웨이/장첸/왕리홈",
-            "Jiang Wen/Gong Li/Teng Rujun/Qian Ming": "장원/공리/텅루쥔/첸밍",
-            "Xu Zheng/Wang Chuanjun/Zhou Yiwei/Tan Zhuo": "서쟁/왕전군/주일위/탁탄",
-            "Ge You/Liu Bei/He Bing/Feng Xiaogang": "갈우/류배/하빙/펑 샤오강",
-            "Zhang Guoli/Ge You/Liang Tian/Pan Hong": "장궈리/게유/량톈/판홍",
-            "Francis Ng/Ruby Lin/Yo Yang/Amanda Qin": "프랜시스 응/루비 린/요양/아만다 진",
-            "Wu Jing/Frank Grillo/Wu Gang/Hans Zhang": "우징/프랭크 그릴로/우강/한스장",
-            "Huang Bo/Shen Teng/Tom Pelphrey/Xu Zheng": "황보/선텅/톰 펠프리/쉬정",
-            "Jack Nicholson/Morgan Freeman/Sean Hayes": "잭 니콜슨/모건 프리먼/신 헤이스",
-            "John Travolta/Uma Thurman/Amanda Plummer": "존 트라볼타/우마 서먼/아만다 플러머",
-            "Michael J. Fox/Christopher Lloyd/Lea Thompson": "마이클 J. 폭스/크리스토퍼 로이드/리아 톰슨",
-            "Ted Elliott/Terry Rossio/Stuart Beattie": "테드 엘리엇/테리 로시오/스튜어트 비티",
-            "Tom Cruise/Jon Voight/Jean Reno/Emmanuelle Beart": "톰 크루즈/존 보이트/장 리노/엠마누엘 베어트",
-            "Sam Worthington/Zoe Saldana/Sigourney Weaver": "샘 워싱턴/조 살다나/시고니 위버",
-            "Jim Carrey/Laura Linney/Ed Harris": "짐 캐리/로라 리니/에드 해리스",
-            "Harrison Ford/Rutger Hauer/Sean Young": "해리슨 포드/루터 하우어/선영",
-            "Madeline Carroll/Callan McAuliffe/Rebecca De Mornay": "매들린 캐럴/칼런 맥컬리프/레베카 드 모르네",
-            "Cate Blanchett/Brad Pitt/Julia Ormond": "케이트 블란쳇/브래드 피트/줄리아 오몬드",
-            "Tom Cruise/Kelly McGillis/Val Kilmer": "톰 크루즈/켈리 맥길리스/발 킬머",
-            "Sylvester Stallone/Talia Shire/Burt Young": "실베스터 스탤론/탈리아 샤이어/버트 영",
-            "Vera Farmiga/Patrick Wilson/Lili Taylor": "베라 파미가/패트릭 윌슨/릴리 테일러",
-            "Jack Nicholson/Shelley Duvall/Danny Lloyd": "잭 니콜슨/셸리 듀발/대니 로이드",
-            "Aamir Khan/Anushka Sharma/Sanjay Dutt": "아미르 칸/아누슈카 샤르마/산제이 더트",
-            "Aamir Khan/Kareena Kapoor/R.Madhavan": "아미르 칸/카리나 카푸어/R.마드하반",
-            "Shahrukh Khan/Madhuri Dixit/Amrish Puri": "샤루크 칸/마두리 딕시트/암리쉬 푸리",
-            "Anil Kapoor/Sridevi/Amrish Puri": "아닐 카푸어/스리데비/암리쉬 퓨리",
-            "Aamir Khan/Tinnu Anand/Asin": "아미르 칸/틴누 아난드/아신",
-            "Shahrukh Khan/Juhi Chawla/Sonali Bendre": "샤루크 칸/주히 차울라/소날리 벤드레",
-            "Shatrughan Sinha/Rakesh Roshan/Kabir Bedi": "샤트루한 신하/라케시 로샨/카비르 베디",
-            "Shahrukh Khan/Kajol Devgan/Shane Harper": "샤루크 칸/카졸 데브간/셰인 하퍼",
-            "Prakash Kapadia/Sanjay Leela Bhansali/Saratchandra Chatterjee": "프라카시 카파디아/산제이 릴라 반살리/사라찬드라 채터지",
-            "Aishwarya Rai/Rajinikanth/Danny Denzongpa": "아이슈와랴 라이/라지니칸스/대니 덴종파",
-            "Song Joong-ki/Park Bo-young/Yoo Yeon-seok/Jang Young-nam": "송중기/박보영/유연석/장영남",
-            "Gong Yoo/Jung Yu-mi/Ma Tong-seok/Kim Soo-an": "공유/정유미/마동석/김수아",
-            "Choi Min-sik/Kang Hye-jung/Yoo Ji-tae/Ji Dae-han": "조민식/강혜정/유지태/지대한"
+            "Stephen Chow, Josie Xu, Zhang Yuqi, and Lam Tze Chung": "주성치, 서교, 장우기, 임자총"
         }
     },
     "tv": {
@@ -5192,22 +4986,7 @@
             "pediatric": "소아",
             "Gastroenterology Department": "소화기내과",
             "Gynecology Department": "산부인과",
-            "stomatology department": "구강내과",
-            "cardiovascular": "심혈관",
-            "nephrology": "신장학",
-            "neurology": "신경학",
-            "burn": "화상",
-            "urology": "비뇨기학",
-            "psychology": "심리학",
-            "dermatology": "피부과",
-            "gynecology": "부인과의학",
-            "neurosurgery": "신경외과",
-            "ophthalmology": "안과학",
-            "stomatology": "구강의학",
-            "blood": "혈액",
-            "endocrinology": "내분비",
-            "gastroenterology": "소화기",
-            "oncology": "종양"
+            "stomatology department": "구강내과"
         },
         "general or specialized": {
             "specialized hospital": "전문병원",
@@ -5230,8 +5009,7 @@
             "the First Affiliated Hospital of Soochow University": "쑤저우대학교 제1 부속병원",
             "Suzhou Dental Hospital": "쑤저우 치과 병원",
             "Suzhou Wuzhong People's Hospital": "쑤저우 우중 인민병원",
-            "Suzhou Municipal Hospital (headquarters)": "쑤저우 시립 병원(본사)",
-            "Suzhou Municipal Hospital (North Branch)": "쑤저우 (북부)시립병원"
+            "Suzhou Municipal Hospital (headquarters)": "쑤저우 시립 병원(본사)"
         },
         "3.0t mri": {
             "No": "아니요",
@@ -5240,8 +5018,7 @@
             ],
             "N/A": [
                 "N/A"
-            ],
-            "true": " True"
+            ]
         },
         "ct": {
             "No": "아니오",
@@ -5251,8 +5028,7 @@
             ],
             "N/A": [
                 "N/A"
-            ],
-            "true": "True"
+            ]
         },
         "dsa": {
             "can't": "안됩니다",
@@ -5262,8 +5038,7 @@
             ],
             "N/A": [
                 "N/A"
-            ],
-            "true": "True"
+            ]
         },
         "address": {
             "No. 10, Guangqian Road": "광치안로 10호",
@@ -5282,9 +5057,7 @@
             "No. 16, Baita West Road": "바이타서로 16호",
             "No. 1366, Suzhan Road": "수잔로 1336호",
             "No. 61, Dongwu North Road": "동우북로 61호",
-            "Wuzhong West Road": "우중서로",
-            "No. 26, Daoqian Street": "다오첸 거리 26호",
-            "No. 242, Guangji Road": "광지로 242호"
+            "Wuzhong West Road": "우중서로"
         },
         "registration time": {
             "from 7:00 to 11:00 and from 12:00 to 16:30": "오전 7시부터 11시 그리고 오후 12시부터 4시 반까지",
@@ -5297,21 +5070,7 @@
             "7:45-11:45 and 13:30-16:45": "7시 45분에서 11시 45분 그리고 오후 1시 반에서 4시 45분",
             "7:30-11:30 in the morning and 1:00-4:30 in the afternoon": "오전 7시 반부터 11시 반까지 그리고 오후 1시부터 4시 반까지",
             "7:15 am to 4:00 pm": "오전 7시 15분부터 오후 4시까지",
-            "7:45-11:45 and 12:30-16:45": "오전 7시 45분부터 11시 45분까지 그리고 오후 12시 30분부터 4시 45분까지",
-            "7:15-11:00, 11:15-16:00": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
-            "7:00-11:30,12:00-16:30": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
-            "7:15-16:00": "오전 7시 15분부터 오후 4시",
-            "7:30-11:30, 12:30-16:30": "오전 7시 30분부터 11시 30분 그리고 오후 12시 30분부터 4시 30분까지",
-            "7:15-16:45": "오전 7시 15분부터 오후 4시 45분까지",
-            "7:00-11:00,12:00-16:30": "오전 7시부터 11시 그리고  12시부터 4시 30분까지",
-            "7:00-16:50": "오전 7시부터 오후 4시 50분까지",
-            "7:45-11:45, 13:30-16:45": "오전 7시 45분부터 11시 45분까지 그리고 오전 1시 30분부터 4시 45분까지",
-            "7:30-11:30, 13:00-16:30": "오전 7시 30분부터 11시 30분까지 그리고 오후 1시부터 4시 301분까지",
-            "7:15-11:20, 13:00-16:45": "오전 7시 15분부터 11시 20분까지 그리고 오후 1시부터 4시 45분까지",
-            "7:45-11:45, 12:30-16:45": "오전 7시 45분부터 11시 45분까지 그리고 오후 12시 30분부터 4시 45분까지",
-            "7:45-11:00,13:00-16:30": "ㄴ",
-            "7:30-17:30": "오전 7시 30분부터 오후 5시 30분까지",
-            "7:30-12:00,13:00-17:30": "오전 7시 30분부터 12시까지 그리고 오후 1시부터 5시 30분까지"
+            "7:45-11:45 and 12:30-16:45": "오전 7시 45분부터 11시 45분까지 그리고 오후 12시 30분부터 4시 45분까지"
         },
         "service time": {
             "from 8:00 to 17:00": "오전 8시부터 오후 5시까지",
@@ -5324,17 +5083,7 @@
             "8:00-12:00, and then 13:30-16:45": "8시에서 12시 그리고 오후 1시 반부터 4시 45분까지",
             "8 am-11 am and 1 p.m.-4:30 pm": "오전 8시부터 11시까지 그리고 오후 1시부터 4시 반까지",
             "7:45-11:30 and 13:00-16:30": "오전 7시 45분부터 11시 30분 그리고 오후 1시부터 4시 30분",
-            "8:00-11:30 and 13:30-17:00": "8시부터 11시 반까지 그리고 오후 1시 반부터 5시까지",
-            "7:45-11:00, 13:00-16:00": "오전 7시 45분부터 11시까지 그리고 오후 1시부터 5시까지",
-            "8:00-12:00, 13:00-17:00": "오전 8시부터 12 오후 12시까지 그리고 오후 1시부터 5시까지",
-            "7:45-11:00, 13:00-17:00": "오전 7시45분부터 11시까지 그리고 오후 1시부터 5시까지",
-            "8:00-17:00": "오전 8시부터 오후 5시까지",
-            "8:00-12:00,13:30-16:45": "오전 8시부터 오후 12시까지 그리고 오후 1시 30분부터 4시 45분까지",
-            "8:00-11:30,13:00-16:30": "오전 8시부터 11시 30분까지 그리고 오후 1시부터 4시 30분까지",
-            "7:45-11:30, 13:30-17:00": "오전 7시 45분부터 11시 30분까지 그리고 오후 1시 30분부터 5시까지",
-            "7:45-11:00,13:00-16:30": "오전 7시 45분부터 11시까지 그리고 오후 1시부터 4시 30분까지",
-            "7:45-17:45": "오전 7시 45분부터  5시 45분까지",
-            "8:00-12:00,13:30-17:30": "오전 8시부터 오후 12시까지 그리고 오후 1시 30분부터 5시 30분까지"
+            "8:00-11:30 and 13:30-17:00": "8시부터 11시 반까지 그리고 오후 1시 반부터 5시까지"
         },
         "phone": {
             "65331356": "65331356",
@@ -5380,16 +5129,7 @@
             "No. 111, No. 209, No. 219, No. 528, No. 27, No. 100, No. 116, and No. 168": "111번, 209번, 219번, 528번, 27번, 100번, 116번, 그리고 168번",
             "No. 2 (Tour), No. 40, No. 50, No. 204, No. 309, and No. 501": "2번(순환), 40번, 50번, 204번, 309번, 그리고 501번",
             "No. 37, No. 47, No. 331, No. 900, and No. 921": "37번, 47번, 331번, 900번, 그리고 921번",
-            "No. 38, No. 40, No. 200, No. 308, No. 501, No. 511 and No. 931": "38번, 40번, 200번, 308번, 501번, 511번, 그리고 931번",
-            "No. 2 (Tour), No. 40, No. 50, No. 202, No. 529, No. 200, No. 811, No. 89, No. 8, No. 55, No. 204, No. 309, or No. 501": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-            "No. 2, No. 35, No. 38, No. 39, No. 40, No. 51, No. 60, No. 68, No. 69, No. 89, No. 303, No. 304, No. 308, No. 317, No. 321, No. 502, or No. 931": "2번, 35번, 38번, 39번, 40번, 51번, 60번, 68번, 69번, 89번, 303번, 304번, 308번, 317번, 321번,  502번 그리고 931번",
-            "No. 111, No. 209, No. 219, No. 528, No. 27, No. 100, No. 116, or No. 168": "111번, 209번, 219번, 528번, 27번, 100번, 116번 그리고 168번",
-            "No. 38, No. 40, No. 200, No. 308, No. 501, No. 511, or No. 931": "38번, 40번, 200번, 308번, 501번, 511번, 그리고 931번",
-            "No. 301 or No. 305": "301번과 305번",
-            "No. 7, No. 34, No. 44, No. 64, No. 85, No. 304, No. 315, No. 317, No. 318, No. 406, No. 415, No. 442, No. 522, No. 816, No. 921, or No. 949": "7번, 34번, 44번, 64번, 85번, 304번, 315번, 317번, 318번, 406번, 415번, 442번, 522번, 816번, 921번 그리고 949번",
-            "No. 2, No. 43, No. 63, No. 64, No. 65, No. 312, No. 315, No. 326, No. 505, No. 506, No. 508, No. 511, No. 512, No. 621, No. 663, No. 691, or No. 692": "2번, 43번, 63번, 64번, 65번, 312번, 315번, 326번, 505번, 506번, 508번, 511번, 512번, 621번, 663번, 691번 그리고 692번",
-            "No. 1, No. 3, No. 5, No. 55, No. 58, No. 62, No. 309, No. 318, No. 503, No. 513, No. 522, No. 553, or No. 932": "1번, 3번, 5번, 55번, 58번, 62번, 309번, 318번, 503번, 513번, 522번, 553번 그리고 932번",
-            "No. 5, No. 33, No. 88, No. 101, No. 811, No. 812, No. 872, or No. 876": "5번, 33번, 88번, 101번, 811번, 812번, 872번  그리고 876번"
+            "No. 38, No. 40, No. 200, No. 308, No. 501, No. 511 and No. 931": "38번, 40번, 200번, 308번, 501번, 511번, 그리고 931번"
         },
         "area": {
             "Suzhou New District": "쑤저우 신구",
@@ -5401,8 +5141,7 @@
         },
         "public or private": {
             "public hospital": "공립 병원",
-            "public": "공립",
-            "private": "사립"
+            "public": "공립"
         },
         "level": {
             "tertiary": "3차",
@@ -5414,8 +5153,7 @@
             ],
             "N/A": [
                 "N/A"
-            ],
-            "true": "True"
+            ]
         }
     },
     "pc": {
@@ -5983,12 +5721,7 @@
             "Magotan": "마고탄",
             "Sagitar": "사지타",
             "Santana": "산타나",
-            "Tharu": "타루",
-            "POLO": "폴로",
-            "Volkswagen Beetle": "폭스바겐 비틀",
-            "Sharan": "샤란",
-            "Caravelle": "카라벨라",
-            "Touareg": "투아렉"
+            "Tharu": "타루"
         },
         "name": {
             "Lamando 280TSI DSG Comfort Edition": "라만도 280TSI DSG 컴포트 에디션",
@@ -6042,18 +5775,7 @@
             "Tharu 280TSI Comfort Edition with two-wheel drive": "타루 280TSI 컴포트 에디션 이륜구동",
             "Magotan GTE Luxury Edition with a hybrid system": "하이브리드 시스템을 갖춘 마고탄 GTE 럭셔리 에디션",
             "SAIC Volkswagen Passat Hybrid Luxury Version": "상하이 폭스바겐 파사트 하이브리드 럭셔리 버전",
-            "Golf 200TSI DSG Comfortable Version": "골프 200TSI DSG 컴포터블 버전",
-            "Volkswagen Beetle 180TSI Version": "폭스바겐 비틀 180TSI 버전",
-            "Tharu 330TSI All-wheel Luxury Version": "타루 330TSI 사륜 럭셔리 버전",
-            "Golf 1.8TSI Travel Version": "골프 1.8TSI 트래블 버전",
-            "Volkswagen Beetle 280TSI Version": "폭스바겐 비틀 280TSI 버전",
-            "Tiguan-L 280TSI Automatic Two-wheel Panoramic Comfortable Version": "티구안-L 280ㅆTSI 자동 이륜 파라노믹 컴포터블 버전",
-            "FAW-Volkswagen Magotan 330TSI DSG Luxury Version": "FAW-복스바겐 마고탄 330TSI DSG 럭셔리 버전",
-            "SAIC Volkswagen Passat 330TSI Luxury Version": "SAIC 폭스바겐 파사트 330TSI 럭셔리 버전",
-            "Tiguan-L 330TSI Automatic Two-wheel Intelligent Luxury Version": "티구안-L 330 TSI 자동 이륜 인텔리전트 럭셔리 버전",
-            "Volkswagen Golf Variant GTE": "폭스바겐 골프 바리안트 GTE",
-            "Volkswagen Golf Variant 380TSI All-wheel Version": "폭스바겐 골프 파리안트 380TSI 사륜 버전",
-            "Teramont X 530 V6 All-wheel Deluxe Version": "테라몬트 X 530 V6 사륜 디럭스 버전"
+            "Golf 200TSI DSG Comfortable Version": "골프 200TSI DSG 컴포터블 버전"
         },
         "pricerange": {
             "SAIC Volkswagen Passat Hybrid Luxury Version": "180,900",
@@ -6067,9 +5789,7 @@
             "more than 300,000": "300,000위안 이상",
             "150,000-200,000": "150,000에서 200,000",
             "200,000-300,000": "200,000에서 300,000",
-            "less than 300,000": "300,000위안 이하",
-            "<150,000": "150,000미만",
-            ">300,000": "300,000초과"
+            "less than 300,000": "300,000위안 이하"
         },
         "ventilated seats": {
             "FALSE": [
@@ -6077,9 +5797,7 @@
             ],
             "TRUE": [
                 "TRUE"
-            ],
-            "false": "False",
-            "true": "True"
+            ]
         },
         "parking assist system": {
             "FALSE": [
@@ -6087,9 +5805,7 @@
             ],
             "TRUE": [
                 "TRUE"
-            ],
-            "false": "False",
-            "true": "True"
+            ]
         },
         "heated seats": {
             "FALSE": [
@@ -6264,8 +5980,7 @@
             "small-size": "소형"
         },
         "power level": {
-            "relatively strong": "비교적 강한",
-            "normal": "평범한"
+            "relatively strong": "비교적 강한"
         },
         "number of seats": {
             "relatively strong": "430PHEV",
@@ -6497,56 +6212,11 @@
             "Chen Jing": "천 징",
             "Li Wanli": "리 완리",
             "Chen Panting": "천 판팅",
-            "Wang Zijuan": "왕 지주안",
-            "Dong Xinjie": "동 신지에",
-            "Xie Jiahui": "시에 징지아후이",
-            "Xia Qin": "시아 진",
-            "He Chunrong": "허 춘룽",
-            "Li Jianjie": "리 젠지",
-            "Ru Mengsha": "루 멍샤",
-            "Yang Rujia": "양 루지아",
-            "Zhang Liping": "장 리핑",
-            "Yang Liu": "양 리우",
-            "Pan Xiuxiu": "판 쉬슈",
-            "Yuan Xi": "원 시",
-            "Yan Pengfei": "얀 펑페이",
-            "Wu Jin": "우 진",
-            "Ma Luyao": "마 루야오",
-            "He Yaolin": "허 야오린",
-            "Cui Xiaohan": "추이 샤오한",
-            "Lu Yifang": "루 이팡",
-            "Xi Jing": "시 징",
-            "Guan Yujia": "관 유지아",
-            "Pan Yun": "판 윤",
-            "Yan Peilin": "옌 페이린",
-            "Xue Rubing": "쉬 에루빙",
-            "Liu Fangfang": "류 팡팡",
-            "Zhang Yiqi": "장 이치",
-            "Xu Qingqing": "쉬 칭칭",
-            "Shi Lidan": "쉬 리단",
-            "Zhou Wenhui": "저우 원후이",
-            "Huang Zhenhua": "황 젠화",
-            "Geng Fan": "징 팬",
-            "Zhang Ying": "장 잉",
-            "Xu Qihao": "쉬 치하오",
-            "Chen Qian": "천 첸",
-            "Chen Jinhua": "천 진화",
-            "Guo Lingge": "궈 링게",
-            "Wang Xiaoyu": "왕 샤오위",
-            "Zheng Jiamin": "정 지민",
-            "Liu Xiang": "루 샹",
-            "Wang Haixia": "왕 하이샤",
-            "Xia Zhengdong": "샤 정둥",
-            "Jiang Binshuai": "장 빈쑤아이",
-            "Min Li": "민 리",
-            "Wang Panpan": "왕 판판",
-            "Jin Chunfang": "진 춘팡",
-            "Shi Yijing": "시 이징"
+            "Wang Zijuan": "왕 지주안"
         },
         "type": {
             "face-to-face": "대면",
-            "It's taught face-to-face": "대면으로 진행됩니다",
-            "face-to-face & livestreaming": "대면 & 라이브스트리밍"
+            "It's taught face-to-face": "대면으로 진행됩니다"
         },
         "classroom": {
             "Room 202 of Xinghai Square Leaning Center": "싱하이 광장 학습 센터 202호",
@@ -6576,63 +6246,7 @@
             "Room 218 of Xinghai Square Leaning Center": "싱하이 광장 학습 센터 218호",
             "Room 103 of Xinghai Square Leaning Center": "싱하이 광장 학습 센터 103호",
             "Room 318 of Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 318호",
-            "Room 305, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 305호",
-            "Room 317, Wuzhong Mansion Learning Center": "우중 맨션 학습센터 317호",
-            "Room 202, Xinghai Square Leaning Center": "싱하이 학습 광장 센터 202호",
-            "Room 202, Jinhe International Building": "진허 국제 빌딩 202호",
-            "Room 417, Leqiao Learning Center": "러치아오 학습센터 417호",
-            "Room 317, Lohas Town Learning Center": "로하스 마을 학습 센터 317호",
-            "Room 309, Double Lake Plaza Learning Center": "더블 레이크 플라자 학습 센터 309호",
-            "Room 203, Jinhe International Building": "진허 국제 빌딩 203호",
-            "Room 302, Wuzhong Mansion Learning Center": "우중 멘션 학습 센터 302호",
-            "Room 231, Jinhe International Building": "진허 국제 빌딩 231호",
-            "Room 310, Leqiao Learning Center": "러치아오 학습 센터 310호",
-            "Room 323, Wuzhong Mansion Learning Center": "우중 ㅐ맨션 학습 센터 323호",
-            "Central Scenery City - Harvard": "하버드 중앙 풍경 도시",
-            "Room 214, Jinhe International Building": "진허 국제 빌딩 214호",
-            "Room 301, Lohas Town Learning Center": "로하스 마을 학습  센터 301호",
-            "Room 207, Jinhe International Building": "진허 국제 빌딩 207호",
-            "Room 402, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 402호",
-            "Room 313, Fangzhou Learning Center": "팡저우 학습 센터 313호",
-            "Room 308, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 308호",
-            "Room 310, Pingjiang New Town Learning Center": "핑장 뉴타운 학습 센터 310호",
-            "Room 321, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 321호",
-            "Room 227, Jinhe International Building": "진허 국제 빌딩 227호",
-            "Room 304, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 304호",
-            "Room 318, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 318호",
-            "Room 212, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 212호",
-            "Room 105, Xijin Commercial Square Learning Center": "시진 상업 광장 학습 센터 105호",
-            "Room 314, Leqiao Learning Center": "러치아오 학습 센ㄴ터 314호",
-            "Room 322, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 322호",
-            "Room 221, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 221호",
-            "Room 205, Jinhe International Building": "진허 국제 빌딩 205호",
-            "Room 316, Fangzhou Learning Center": "팡저우 학습 센터 316호",
-            "Room 220, Jinhe International Building": "진허 국제 빌딩 220호",
-            "Room 206, Jinhe International Building": "진허 국제빌딩 206호",
-            "Room 217, Jinhe International Building": "진허 국제 빌딩 217호",
-            "Room 305, Pingjiang New Town Learning Center": "핑장 뉴타운 학습 센터 305호",
-            "Room 222, Jinhe International Building": " 국제 빌딩 222호",
-            "Room 220, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 220호",
-            "Room 304, Shimao Plaza": "시마오 플라자 304호",
-            "Room 209, Jinhe International Building": "진허 국제 빌딩 209호",
-            "Room 304, Lohas Town Learning Center": "로하스 마을 학습 센터 304호",
-            "Room 301, Pingjiang New Town Learning Center": "핑장 뉴타운 학습 센터 301호",
-            "Room 236, Jinhe International Building": "진허 국제 빌딩 237호",
-            "Room 309, Pingjiang New Town Learning Center": "핑장 뉴타운 학습 센터 309호",
-            "Room 103, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 103호",
-            "Room 307, Leqiao Learning Center": "러치아오 학습 센터 307호",
-            "Room 201, Yuexi": "웨시 201호",
-            "Room 103, Xijin Commercial Square Learning Center": "시진 상업 광장 학습 센터 103호",
-            "Room 204, Jinhe International Building": "진허 국제 빌딩 204호",
-            "Room 401, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 401호",
-            "Room 201, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 201호",
-            "Room 118, Xijin Commercial Square Learning Center": "시진 상업 광장 학습 센터 118호",
-            "Room 302, Pingjiang New Town Learning Center": "핑장 뉴타운 학습센터 302호",
-            "Room 208, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 208호",
-            "Room 307, Sun Square Learning Center": "선 광장 학습 센터 307호",
-            "Room 319, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 319호",
-            "Room 308, Sun Square Learning Center": "선 광장 학습 센터 308호",
-            "Room 218, Xinghai Square Leaning Center": "싱하이 광장 학습 센터 218호"
+            "Room 305, Wuzhong Mansion Learning Center": "우중 맨션 학습 센터 305호"
         },
         "level": {
             "advanced class": "심화반",
@@ -6654,21 +6268,14 @@
             "Pingjiang New Town Learning Center, Gusu District": "구수구 핑장 뉴타운 학습 센터",
             "Double Lake Plaza Learning Center, Wuzhong District": "우중구 더블 레이크 플라자 학습 센터",
             "Fangzhou Neighborhood Center, Suzhou Industrial Park": "쑤저우 공업원구 팡저우 인근 센터",
-            "Xijin Commercial Square": "시진 상업 광장",
-            "Central Scenery City, Suzhou Industrial Park": "쑤저우 공업원구 중앙 풍경 도시",
-            "Xijin Commercial Square, Suzhou New District": "쑤저우 신구 시진 상업 광장",
-            "Shimao Plaza, Wuzhong District": "우장구 시마오 플라자",
-            "Yuexi, Wuzhong District": "우장구 웨시"
+            "Xijin Commercial Square": "시진 상업 광장"
         },
         "start date": {
             "April 18, 2020": "2020년 4월 18일",
             "March 7, 2020": "2020년 3월 7일",
             "April 19, 2020": "2020년 4월 19일",
             "March 8, 2020": "2020년 3월 8일",
-            "April 15, 2020": "2020년 4월 15일",
-            "March 6, 2020": "2020년 3월 6일",
-            "April 17, 2020": "2020년 4월 17일",
-            "March 4, 2020": "2020년 3월 4일"
+            "April 15, 2020": "2020년 4월 15일"
         },
         "times": {
             "10": "10",
@@ -6690,13 +6297,7 @@
             "18:00": "오후 6시",
             "10:20": "오전 10시 20분",
             "18:30": "오후 6시 30분",
-            "13:00": "오후 1시",
-            "18:15": "오후 6시 15분",
-            "15:30": "오후 3시 30분",
-            "16:00": "오후 4시",
-            "15:20": " 3시 20분",
-            "17:30": "오후 5시 30분",
-            "16:45": "오후 4시 45분"
+            "13:00": "오후 1시"
         },
         "end time": {
             "12:10": "12시 10분",
@@ -6712,12 +6313,7 @@
             "20:30": "오후 8시 30분",
             "18:45": "오후 6시 45분",
             "15:00": "오후 3시",
-            "17:40": "오후 5시 40분",
-            "18:25": "오후 6시 25분",
-            "20:15": "오후 8시 15분",
-            "18:00": "오후 6시",
-            "17:20": "오후 5시 20분",
-            "19:30": "오후 7시 30분"
+            "17:40": "오후 5시 40분"
         },
         "time": {
             "mornings": "아침",
@@ -6759,13 +6355,7 @@
             "April 11, 2020": "2020년 4월 11일",
             "June 17, 2020": "2020년 6월 17일",
             "June 20, 2020": "2020년 6월 20일",
-            "April, 12, 2020": "2020년 4월 12일",
-            "April 10, 2020": "2020년 4월 10일",
-            "June 26, 2020": "2020년 6월 26일",
-            "April 8, 2020": "2020년 4월 8일",
-            "June 13, 2020": "2020년 6월 13일",
-            "June 14, 2020": "2020년 6월 14일",
-            "June 19, 2020": "2020년 6월 19일"
+            "April, 12, 2020": "2020년 4월 12일"
         }
     }
 }
