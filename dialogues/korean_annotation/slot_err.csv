@@ -1,2 +1,1 @@
-,domain,src_slot,target_slots
-0,car,fuel_consumption,"['series', 'name', 'pricerange', 'ventilated_seats', 'parking_assist_system', 'heated_seats', 'hybrid', 'classification', 'price', 'brand', 'cruise_control_system', '4wd', 'size', 'power_level', 'number_of_seats']"
+""

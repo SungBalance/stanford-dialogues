@@ -532,6 +532,32 @@
         "score": "4.1점"
     },
     {
+        "name": "쳉이 리안하오 호텔",
+        "area": "우중구",
+        "star": "2성급",
+        "pricerange": "저렴한",
+        "hotel_type": "비즈니스",
+        "room_type": "킹사이즈 객실",
+        "parking": "해당사항 없음",
+        "room_charge": "148위안",
+        "address": "쑤저우시 우중구 광지안로 67호 버스 정류장",
+        "phone_number": "0512-67079995",
+        "score": "4.6"
+    },
+    {
+        "name": "쳉이 리안하오 호텔",
+        "area": "우중구",
+        "star": "2성급",
+        "pricerange": "저렴한",
+        "hotel_type": "비즈니스",
+        "room_type": "일반 객실",
+        "parking": "해당사항 없음",
+        "room_charge": "168위안",
+        "address": "쑤저우시 우중구 광지안로 67호 버스 정류장",
+        "phone_number": "0512-67079995",
+        "score": "4.6"
+    },
+    {
         "name": "쑤저우 쉬안 한슈 부티크 호텔",
         "area": "우장구",
         "star": [
@@ -792,6 +818,32 @@
         "address": "쿤산시 저우좡 마을 인즈방 6호",
         "phone_number": "180-6809-6635",
         "score": "4.9점"
+    },
+    {
+        "name": "쿤산 윈두 비즈니스 호텔",
+        "area": "쿤산",
+        "star": "1성급",
+        "pricerange": "저렴한",
+        "hotel_type": "비즈니스",
+        "room_type": "킹사이즈 객실",
+        "parking": "해당사항 없음",
+        "room_charge": "126위안",
+        "address": "쿤산시 지아허 정원 1번 빌딩",
+        "phone_number": "0512-57868877",
+        "score": "4.4점"
+    },
+    {
+        "name": "쿤산 윈두 비즈니스 호텔",
+        "area": "쿤산",
+        "star": "1성급",
+        "pricerange": "저렴한",
+        "hotel_type": "비즈니스",
+        "room_type": "일반 객실",
+        "parking": "해당사항 없음",
+        "room_charge": "116위안",
+        "address": "쿤산시 지아허 정원 1번 빌딩",
+        "phone_number": "0512-57868877",
+        "score": "4.4점"
     },
     {
         "name": "크라운 플라자 창수 호텔",

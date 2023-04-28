@@ -88,10 +88,17 @@ for domain in domain_list:
     
     # Map the corresponding slot and value to the target language
     for src_db_item in src_db:
+        if 'fuel_consumption' in src_db_item:
+            del src_db_item['fuel_consumption']
         tgt_db_item = {}
-        print("... in for src_db_item")
+        print("src_db_item")
+        pprint(src_db_item)
         for src_slot, src_value in src_db_item.items():
+            if src_slot == 'fuel_consumption':
+                input()
+                continue
             tgt_slot = get_tgt_slot(src_slot)
+            print(f"tgt_slot: {tgt_slot}")
             # print(f"\nsrc: {src_slot} - {src_value} | tgt: {tgt_slot}")
             if isinstance(src_value, list):
                 try:
@@ -140,6 +147,9 @@ for domain in domain_list:
                         })
                 except KeyError as e:
                     error_value = e.args[0]
+                    print(
+                            f"Warning: missing value '{src_value}' of slot '{src_slot}' in source language {args.src_lang} not found in the bilingual value alignment file! Please add the corresponding translation to the alignment file and try again."
+                        )
                     if error_value in domain_list:
                         ERR_DIC['domain'].append({
                             'src_domain': error_value,

@@ -570,6 +570,19 @@
         "dishes": "해물죽"
     },
     {
+        "name": "팔색 한국 바비큐",
+        "area": "쑤저우 신구",
+        "cuisine": "한국",
+        "pricerange": "적당한",
+        "metro_station": "True",
+        "per_capita_consumption": "103위안",
+        "address": "창지앙로 에메랄드 시티 에메랄드 보행로 두 번째 구역 7번 빌딩 1층 113",
+        "phone_number": "0512-62919949",
+        "score": "4.2점",
+        "business_hours": "월요일부터 일요일까지 오전 10시부터 오후 10시까지",
+        "dishes": "매운 라면"
+    },
+    {
         "name": "양이네 만두",
         "area": "쑤저우 신구",
         "cuisine": "패스트푸드",
