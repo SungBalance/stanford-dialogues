@@ -4,6 +4,8 @@ import json
 import pprint
 from pathlib import Path
 
+import pandas as pd
+
 from tqdm import trange
 
 
@@ -130,16 +132,19 @@ if __name__ == "__main__":
                                         break
                             if not match_flag:
                                 # not match
-                                if args.debug:
-                                    print(src_db_result)
+                                # if args.debug:
+                                    # print(src_db_result)
                                 not_match_set.add(str(src_db_result))
-                if len(tgt_db_results) != len(turn["db_results"]):
-                    print("not match")
+                # if len(tgt_db_results) != len(turn["db_results"]):
+                #     print("not match")
                 tgt_data[split_idx][dialog_idx]["dialogue"][turn_idx]["db_results"] = tgt_db_results
     print(len(not_match_set), len(match_set), len(total_set))
     if args.debug:
         pprint.pprint(not_match_set)
+        # not_match_pd = pd.DataFrame(not_match_set)
+        # not_match_pd.to_csv("./not_match_set.csv")
 
+    print(len(not_match_set), len(match_set), len(total_set))
     output_path = Path(f"{args.output_path}")
     output_path.mkdir(exist_ok=True)
     for split_idx in range(len(tgt_data)):
