@@ -144,7 +144,7 @@ if __name__ == "__main__":
         # not_match_pd = pd.DataFrame(not_match_set)
         # not_match_pd.to_csv("./not_match_set.csv")
 
-    print(len(not_match_set), len(match_set), len(total_set))
+    print(f"not match set: {len(not_match_set)}, match set: {len(match_set)}, total set: {len(total_set)}")
     output_path = Path(f"{args.output_path}")
     output_path.mkdir(exist_ok=True)
     for split_idx in range(len(tgt_data)):
