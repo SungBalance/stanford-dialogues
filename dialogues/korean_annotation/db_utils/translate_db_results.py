@@ -1,7 +1,7 @@
 # translate db_results
 import argparse
 import json
-import pprint
+from pprint import pprint
 from pathlib import Path
 
 import pandas as pd
@@ -26,6 +26,23 @@ def normalize_dict(d):
             d[k] = v.lower()
     return d
 
+def is_equal_dict(first, second):
+    print("===========")
+    print(first.keys())
+    print(second.keys())
+    print(first.keys() == second.keys())
+    if first.keys() != second.keys():
+        return False
+
+    for key in first.keys():
+        if first[key] != second[key]:
+
+            print(key)
+            print(first[key])
+            print(second[key])
+            print("===========")
+            return False
+    return True
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -85,6 +102,7 @@ if __name__ == "__main__":
                 {k: (str(v) if str(v).lower() not in ["true", "false"] else str(v).lower()) for k, v in item.items()}
                 for item in json.load(f)
             ]
+            src_db = eval(str(src_db).replace("true", "True").replace("false", "False").replace("tamperature", "temperature"))
             print(f"Load {len(src_db[domain])} items in {domain} domain from {args.src_lang} database")
         with open(f"{args.tgt_db_path}/{domain}_{args.tgt_lang}.json", "r") as f:
             tgt_db[domain] = json.load(f)
@@ -97,23 +115,31 @@ if __name__ == "__main__":
     match_set = set()
     not_match_set = set()
 
+    turn_domains = set()
+
     # match each result in db_results with Chinese databases
     for split_idx in trange(len(src_data)):
         split = src_data[split_idx]
+        print(f"| split idx: {split_idx} / {len(src_data)}")
         for dialog_idx in trange(len(split)):
             dialog = split[dialog_idx]
-            for turn_idx in range(len(dialog["dialogue"])):
+            # pprint(f"  | dialog idx: {dialog_idx} / {len(split)}")
+            for turn_idx in range(len(dialog['dialogue'])):
                 turn = dialog["dialogue"][turn_idx]
                 tgt_db_results = []
+
                 if "db_results" in turn.keys():
                     for src_db_result in turn["db_results"]:
+
                         if db_result_prefix[0] in src_db_result:
                             # translate the prefix of db_result
                             tgt_db_results.append(src_db_result.replace(db_result_prefix[0], db_result_prefix[1]))
                         else:
                             # turn dict string into dict
                             total_set.add(str(src_db_result))
-                            src_db_result = eval(str(src_db_result).replace("true", "True").replace("false", "False"))
+                            src_db_result = eval(str(src_db_result).replace("true", "True").replace("false", "False").replace("tamperature", "temperature"))
+                            src_db_result = {k.replace(" ", "_"): v for k, v in src_db_result.items()}
+                            
                             # convert True/False to 'true'/'false'
                             for k, v in src_db_result.items():
                                 if isinstance(v, (bool, float, int, list)):
@@ -121,29 +147,36 @@ if __name__ == "__main__":
 
                             # locate result in the src databases
                             match_flag = False
+                            domain_key = turn['turn_domain'][0].lower()
+                            turn_domains.add(domain_key)
                             for d in src_db.keys():
                                 for item_idx in range(len(src_db[d])):
                                     src_db_item = src_db[d][item_idx]
-                                    if src_db_item.items() == src_db_result.items():
+                                    if src_db_item == src_db_result:
                                         # match
                                         match_flag = True
                                         tgt_db_results.append({k.replace(" ", "_"): v for k, v in tgt_db[d][item_idx].items()})
                                         match_set.add(str(src_db_result))
                                         break
+                            
                             if not match_flag:
                                 # not match
-                                # if args.debug:
-                                    # print(src_db_result)
+                                if args.debug:
+                                    print("not match")
+                                    pprint(src_db_result)
                                 not_match_set.add(str(src_db_result))
-                # if len(tgt_db_results) != len(turn["db_results"]):
-                #     print("not match")
+                        # pprint(f"----------------------------------")
+                        # input()
+                if len(tgt_db_results) != len(turn["db_results"]):
+                    print("not match")
                 tgt_data[split_idx][dialog_idx]["dialogue"][turn_idx]["db_results"] = tgt_db_results
+                
     print(len(not_match_set), len(match_set), len(total_set))
     if args.debug:
-        pprint.pprint(not_match_set)
+        pprint(not_match_set)
         # not_match_pd = pd.DataFrame(not_match_set)
         # not_match_pd.to_csv("./not_match_set.csv")
-
+    print(turn_domains)
     print(f"not match set: {len(not_match_set)}, match set: {len(match_set)}, total set: {len(total_set)}")
     output_path = Path(f"{args.output_path}")
     output_path.mkdir(exist_ok=True)

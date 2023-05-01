@@ -6384,7 +6384,7 @@
                         "dishes": "stone pot rice"
                     },
                     {
-                        "name": "Palsaik Korean +Q",
+                        "name": "Palsaik Korean BBQ",
                         "area": "Suzhou New District",
                         "cuisine": "Korean",
                         "pricerange": "moderate",
@@ -29705,7 +29705,7 @@
                         "pricerange": ">300,000"
                     },
                     {
-                        "name": "Touree 3.0TSI Version",
+                        "name": "Toureg 3.0TSI Version",
                         "classification": "SUV",
                         "size": "mid- or full-size",
                         "number of seats": "5",
@@ -30120,7 +30120,7 @@
                         "pricerange": ">300,000"
                     },
                     {
-                        "name": "Touree 3.0TSI Version",
+                        "name": "Toureg 3.0TSI Version",
                         "classification": "SUV",
                         "size": "mid- or full-size",
                         "number of seats": "5",
@@ -30339,7 +30339,7 @@
                         "pricerange": ">300,000"
                     },
                     {
-                        "name": "Touree 3.0TSI Version",
+                        "name": "Toureg 3.0TSI Version",
                         "classification": "SUV",
                         "size": "mid- or full-size",
                         "number of seats": "5",
@@ -35322,7 +35322,7 @@
                         "product name": "MacBook Pro 13.3 of Apple 2019",
                         "operating system": "Mac OS",
                         "game performance": "entry-level",
-                        "cpu model": "Inter Core i5",
+                        "cpu model": "Intel Core i5",
                         "weight": "1-1.5kg",
                         "gpu category": "integrated graphics card",
                         "gpu model": "other",
@@ -35344,7 +35344,7 @@
                         "product name": "MacBook Air 13.3 of Apple 2019",
                         "operating system": "Mac OS",
                         "game performance": "entry-level",
-                        "cpu model": "Inter Core i5",
+                        "cpu model": "Intel Core i5",
                         "weight": "1-1.5kg",
                         "gpu category": "Intel HD Graphics",
                         "gpu model": "other",
@@ -35366,7 +35366,7 @@
                         "product name": "MacBook Pro 16 of Apple 2019",
                         "operating system": "Mac OS",
                         "game performance": "entry-level",
-                        "cpu model": "Inter Core i9",
+                        "cpu model": "Intel Core i9",
                         "weight": "2kg",
                         "gpu category": "integrated graphics card",
                         "gpu model": "other",
@@ -35817,7 +35817,7 @@
                         "product name": "MacBook Pro 13.3 of Apple 2019",
                         "operating system": "Mac OS",
                         "game performance": "entry-level",
-                        "cpu model": "Inter Core i5",
+                        "cpu model": "Intel Core i5",
                         "weight": "1-1.5kg",
                         "gpu category": "integrated graphics card",
                         "gpu model": "other",
@@ -35839,7 +35839,7 @@
                         "product name": "MacBook Air 13.3 of Apple 2019",
                         "operating system": "Mac OS",
                         "game performance": "entry-level",
-                        "cpu model": "Inter Core i5",
+                        "cpu model": "Intel Core i5",
                         "weight": "1-1.5kg",
                         "gpu category": "Intel HD Graphics",
                         "gpu model": "other",
