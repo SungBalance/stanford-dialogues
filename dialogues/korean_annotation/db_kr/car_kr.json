@@ -14,10 +14,10 @@
         ],
         "series": "폴로",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -35,10 +35,10 @@
         ],
         "series": "산타나",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -56,10 +56,10 @@
         ],
         "series": "폭스바겐 T-크로스",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -75,10 +75,10 @@
         "price": "135,000",
         "series": "보라",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -96,10 +96,10 @@
         ],
         "series": "C-트랙 웨일링",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -115,10 +115,10 @@
         "price": "139,900",
         "series": "FAW-폭스바겐 타쿠아",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -134,10 +134,10 @@
         "price": "146,900",
         "series": "라비다",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "false",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "없음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -155,10 +155,10 @@
         ],
         "series": "폭스바겐 골프",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -174,10 +174,10 @@
         "price": "147,900",
         "series": "폭스바겐 T-크로스",
         "power_level": "비교적 강한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -195,10 +195,10 @@
         ],
         "series": "보라",
         "power_level": "비교적 강한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -216,10 +216,10 @@
         ],
         "series": "사지타",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000미만"
     },
     {
@@ -235,10 +235,10 @@
         "price": "150,900",
         "series": "FAW-폭스바겐 타쿠아",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -254,10 +254,10 @@
         "price": "155,800",
         "series": "티록",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -273,10 +273,10 @@
         "price": "155,900",
         "series": "라만도",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "false",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "없음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -294,10 +294,10 @@
         ],
         "series": "폭스바겐 골프",
         "power_level": "비교적 강한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -315,10 +315,10 @@
         ],
         "series": "사지타",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -336,10 +336,10 @@
         ],
         "series": "폭스바겐 투란 L",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -355,10 +355,10 @@
         ],
         "series": "폭스바겐 비틀",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -374,10 +374,10 @@
         "price": "180,900",
         "series": "라만도",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -395,10 +395,10 @@
         ],
         "series": "타루",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -414,10 +414,10 @@
         "price": "184,900",
         "series": "파사트",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "false",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "없음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -435,10 +435,10 @@
         ],
         "series": "FAW-폭스바겐 마고탄",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "false",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "없음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "150,000에서 200,000"
     },
     {
@@ -454,10 +454,10 @@
         "price": "201,900",
         "series": "테이론",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -473,10 +473,10 @@
         "price": "203,800",
         "series": "티록",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -494,10 +494,10 @@
         ],
         "series": "타루",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -515,10 +515,10 @@
         ],
         "series": "폭스바겐 골프",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -534,14 +534,14 @@
         ],
         "series": "폭스바겐 비틀",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
-        "name": "티구안-L 280ㅆTSI 자동 이륜 파라노믹 컴포터블 버전",
+        "name": "티구안-L 280TSI 자동 이륜 파라노믹 컴포터블 버전",
         "classification": "SUV",
         "size": "중형",
         "number_of_seats": [
@@ -555,10 +555,10 @@
         ],
         "series": "티구안-L",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -576,10 +576,10 @@
         ],
         "series": "FAW-폭스바겐 마고탄",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -597,10 +597,10 @@
         ],
         "series": "파사트",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "True",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "있음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -618,10 +618,10 @@
         ],
         "series": "폭스바겐 골프 바리안트",
         "power_level": "평범한",
-        "parking_assist_system": "False",
-        "cruise_control_system": "false",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "없음",
+        "cruise_control_system": "없음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -637,10 +637,10 @@
         "price": "243,900",
         "series": "파사트",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -658,10 +658,10 @@
         ],
         "series": "티구안-L",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -679,10 +679,10 @@
         ],
         "series": "FAW-폭스바겐 CC",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -698,10 +698,10 @@
         "price": "268,900",
         "series": "FAW-폭스바겐 마고탄",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -717,10 +717,10 @@
         "price": "269,900",
         "series": "FAW-폭스바겐 마고탄",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -738,10 +738,10 @@
         ],
         "series": "샤란",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -757,10 +757,10 @@
         "price": "284,900",
         "series": "테이론",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "200,000에서 300,000"
     },
     {
@@ -778,10 +778,10 @@
         ],
         "series": "테라몬트",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -797,10 +797,10 @@
         "price": "301,800",
         "series": "폭스바겐 골프 바리안트",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -816,10 +816,10 @@
         "price": "301,800",
         "series": "FAW-폭스바겐 CC",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -835,10 +835,10 @@
         "price": "11,800",
         "series": "티구안-L",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "True",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "있음",
         "pricerange": "300,000초과"
     },
     {
@@ -854,10 +854,10 @@
         "price": "315,800",
         "series": "티구안-L",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -873,10 +873,10 @@
         "price": "336,900",
         "series": "테라몬트 X",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -894,10 +894,10 @@
         ],
         "series": "테라몬트",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -913,10 +913,10 @@
         "price": "382,000",
         "series": "카라벨라",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "false",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "없음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -934,10 +934,10 @@
         ],
         "series": "폭스바겐 골프 바리안트",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -955,10 +955,10 @@
         ],
         "series": "피데온",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "True",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "있음",
         "pricerange": "300,000초과"
     },
     {
@@ -976,10 +976,10 @@
         ],
         "series": "폭스바겐 멀티밴",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -997,10 +997,10 @@
         ],
         "series": "테라몬트 X",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "False",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "없음",
         "pricerange": "300,000초과"
     },
     {
@@ -1016,10 +1016,10 @@
         "price": "619,800",
         "series": "투아렉",
         "power_level": "평범한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "True",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "있음",
         "pricerange": "300,000초과"
     },
     {
@@ -1037,10 +1037,10 @@
         ],
         "series": "투아렉",
         "power_level": "비교적 강한",
-        "parking_assist_system": "True",
-        "cruise_control_system": "True",
-        "heated_seats": "true",
-        "ventilated_seats": "True",
+        "parking_assist_system": "있음",
+        "cruise_control_system": "있음",
+        "heated_seats": "있음",
+        "ventilated_seats": "있음",
         "pricerange": "300,000초과"
     }
 ]

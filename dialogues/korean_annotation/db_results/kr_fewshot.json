@@ -1364,7 +1364,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "90위안",
                         "phone_number": "0512-962015",
                         "address": "쑤저우시 구수구 동베이가 178호",
@@ -1378,7 +1378,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "80위안",
                         "phone_number": "0512-65323488",
                         "address": "쑤저우시 후추구 샨먼네이 8호",
@@ -1392,7 +1392,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "55위안",
                         "phone_number": [
                             "0512-65337903"
@@ -1408,7 +1408,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "데이트",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-65314467",
                         "address": "쑤저우시 구수구 구수 구시가지 북서쪽 모퉁이",
@@ -1422,7 +1422,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "데이트",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69163907"
@@ -1438,7 +1438,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "N/A"
@@ -1454,7 +1454,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "40위안",
                         "phone_number": [
                             "0512-65293190"
@@ -1470,7 +1470,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "N/A"
@@ -1558,7 +1558,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "90위안",
                         "phone_number": "0512-962015",
                         "address": "쑤저우시 구수구 동베이가 178호",
@@ -1622,7 +1622,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "90위안",
                         "phone_number": "0512-962015",
                         "address": "쑤저우시 구수구 동베이가 178호",
@@ -1722,7 +1722,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "412위안",
                         "address": "수씨우로 68호 쑤저우 센터 남쪽 3층 B3-19",
                         "phone_number": "0512-69881018",
@@ -1735,7 +1735,7 @@
                         "area": "구수구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "204위안",
                         "address": "핑장로 북쪽 추안팡 골목 3호",
                         "phone_number": "139-6217-0368",
@@ -1748,7 +1748,7 @@
                         "area": "구수구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "150위안",
                         "address": "(현묘관 근처) 타이지안농 72호",
                         "phone_number": "0512-67700688",
@@ -1761,7 +1761,7 @@
                         "area": "구수구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "120위안",
                         "address": "슈에스가 54호",
                         "phone_number": "0512-65816338",
@@ -1774,7 +1774,7 @@
                         "area": "구수구",
                         "cuisine": "광둥",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "135위안",
                         "address": "관첸제 245호 메트로몰 동쪽 빌딩 5층",
                         "phone_number": "0512-69168288",
@@ -1787,7 +1787,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "176위안"
                         ],
@@ -1802,7 +1802,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "일본",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "177위안",
                         "address": "신강가 158호 후빈 신티안디 레이크사이드 빌딩 1층",
                         "phone_number": "0512-67678177",
@@ -1815,7 +1815,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "서양",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "405위안",
                         "address": "동쪽 쑤저우 대로와 후아츠가 교차로에 있는 신콩 플레이스 2층",
                         "phone_number": "0512-62567071",
@@ -1828,7 +1828,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -1843,7 +1843,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "한국",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "154위안"
                         ],
@@ -1860,7 +1860,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "127위안",
                         "address": "시샨로 298호 골든 이글 국제 쇼핑 센터 6층",
                         "phone_number": "0512-68783880",
@@ -1873,7 +1873,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "서양",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "179위안"
                         ],
@@ -1890,7 +1890,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "일본",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "215위안",
                         "address": "화이하이 가 11호",
                         "phone_number": "0512-68618677",
@@ -1903,7 +1903,7 @@
                         "area": "우장구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "130위안",
                         "address": "송링 완바오 플라자 3층 S3015",
                         "phone_number": "0512-88982265",
@@ -2010,7 +2010,7 @@
                         "area": "구수구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "204위안",
                         "address": "핑장로 북쪽 추안팡 골목 3호",
                         "phone_number": "139-6217-0368",
@@ -2053,7 +2053,7 @@
                         "area": "구수구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "204위안",
                         "address": "핑장로 북쪽 추안팡 골목 3호",
                         "phone_number": "139-6217-0368",
@@ -2228,10 +2228,10 @@
                         ],
                         "series": "폭스바겐 T-크로스",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -2247,10 +2247,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -2266,10 +2266,10 @@
                         "price": "147,900",
                         "series": "폭스바겐 T-크로스",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -2343,10 +2343,10 @@
                         ],
                         "series": "폭스바겐 T-크로스",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -2362,10 +2362,10 @@
                         "price": "147,900",
                         "series": "폭스바겐 T-크로스",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -2433,10 +2433,10 @@
                         ],
                         "series": "폭스바겐 T-크로스",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -2452,10 +2452,10 @@
                         "price": "147,900",
                         "series": "폭스바겐 T-크로스",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -2523,10 +2523,10 @@
                         ],
                         "series": "폭스바겐 T-크로스",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -2542,10 +2542,10 @@
                         "price": "147,900",
                         "series": "폭스바겐 T-크로스",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -2701,7 +2701,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "412위안",
                         "address": "수씨우로 68호 쑤저우 센터 남쪽 3층 B3-19",
                         "phone_number": "0512-69881018",
@@ -2714,7 +2714,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "176위안"
                         ],
@@ -2729,7 +2729,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "일본",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "177위안",
                         "address": "신강가 158호 후빈 신티안디 레이크사이드 빌딩 1층",
                         "phone_number": "0512-67678177",
@@ -2742,7 +2742,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "서양",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "405위안",
                         "address": "동쪽 쑤저우 대로와 후아츠가 교차로에 있는 신콩 플레이스 2층",
                         "phone_number": "0512-62567071",
@@ -2755,7 +2755,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -2770,7 +2770,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "한국",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "154위안"
                         ],
@@ -2853,7 +2853,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -2918,7 +2918,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -3846,7 +3846,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "30위안",
                         "phone_number": "0512-66387422",
                         "address": "쑤저우시 우중구 링티안로",
@@ -3860,7 +3860,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "45위안",
                         "phone_number": [
                             "0512-66310058"
@@ -3876,7 +3876,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "80위안",
                         "phone_number": "0512-66892763",
                         "address": "쑤저우시 우중구 장슈 마을에서 남서쪽으로 1km 떨어진 궁륭산 풍경구",
@@ -3890,7 +3890,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-66261310"
@@ -3906,7 +3906,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66399231",
                         "address": "쑤저우시 우중구 몰리로 근처입니다",
@@ -3920,7 +3920,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-65646668",
                         "address": "쑤저우시 우중구 유씬로 333호",
@@ -3990,7 +3990,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "30위안",
                         "phone_number": "0512-66387422",
                         "address": "쑤저우시 우중구 링티안로",
@@ -4045,7 +4045,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "30위안",
                         "phone_number": "0512-66387422",
                         "address": "쑤저우시 우중구 링티안로",
@@ -4139,7 +4139,7 @@
                         "area": "우중구",
                         "cuisine": "훠궈",
                         "pricerange": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "97위안",
                         "address": "쑤저우 우중경제개발구 우중가 1109호 1층",
                         "phone_number": "0512-66171777",
@@ -4298,7 +4298,7 @@
                         "registration_time": "오전 7시 30분부터 11시 30분 그리고 오후 12시 30분부터 4시 30분까지",
                         "service_time": "오전 8시부터 12 오후 12시까지 그리고 오후 1시부터 5시까지",
                         "bus_routes": "38번, 40번, 200번, 308번, 501번, 511번, 그리고 931번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "신경학",
                             "내분비",
@@ -4306,9 +4306,9 @@
                             "구강의학",
                             "소아"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     },
                     {
                         "name": "쑤저우 카오룬 병원",
@@ -4331,9 +4331,9 @@
                             "구강의학",
                             "소아"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     },
                     {
                         "name": "쑤저우 우중 인민병원",
@@ -4346,14 +4346,14 @@
                         "registration_time": "오전 7시 45분부터 11시 45분까지 그리고 오후 12시 30분부터 4시 45분까지",
                         "service_time": "오전 8시부터 12 오후 12시까지 그리고 오후 1시부터 5시까지",
                         "bus_routes": "1번, 3번, 5번, 55번, 58번, 62번, 309번, 318번, 503번, 513번, 522번, 553번 그리고 932번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "부인과의학",
                             "소아",
                             "소화기",
                             "피부과"
                         ],
-                        "ct": "True",
+                        "ct": "있음",
                         "3.0t_mri": [
                             "N/A"
                         ],
@@ -4438,9 +4438,9 @@
                             "구강의학",
                             "소아"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -4513,9 +4513,9 @@
                             "구강의학",
                             "소아"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -4588,9 +4588,9 @@
                             "구강의학",
                             "소아"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -4663,9 +4663,9 @@
                             "구강의학",
                             "소아"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -5039,7 +5039,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -5103,7 +5103,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -5188,7 +5188,7 @@
                         "area": "구수구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "120위안",
                         "address": "슈에스가 54호",
                         "phone_number": "0512-65816338",
@@ -5251,7 +5251,7 @@
                         "area": "구수구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "120위안",
                         "address": "슈에스가 54호",
                         "phone_number": "0512-65816338",
@@ -5883,7 +5883,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "90위안",
                         "phone_number": "0512-962015",
                         "address": "쑤저우시 구수구 동베이가 178호",
@@ -5897,7 +5897,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "55위안",
                         "phone_number": [
                             "0512-65337903"
@@ -5913,7 +5913,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "40위안",
                         "phone_number": [
                             "0512-65293190"
@@ -5985,7 +5985,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "40위안",
                         "phone_number": [
                             "0512-65293190"
@@ -6066,7 +6066,7 @@
                         "type": "쑤저우 양식의 정원",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "40위안",
                         "phone_number": [
                             "0512-65293190"
@@ -6169,7 +6169,7 @@
                         "area": "구수구",
                         "cuisine": "한국",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "88위안",
                         "address": "광지남로 19호 시청 용지에 빌딩 5층 A502",
                         "phone_number": "0512-68659822",
@@ -6182,7 +6182,7 @@
                         "area": "우중구",
                         "cuisine": "한국",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "81위안",
                         "address": "바오다이동로 399호 리펑플라자 1층에",
                         "phone_number": "139-1359-2929",
@@ -6195,7 +6195,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "한국",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "103위안",
                         "address": "창지앙로 에메랄드 시티 에메랄드 보행로 두 번째 구역 7번 빌딩 1층 113",
                         "phone_number": "0512-62919949",
@@ -6276,7 +6276,7 @@
                         "area": "우중구",
                         "cuisine": "한국",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "81위안",
                         "address": "바오다이동로 399호 리펑플라자 1층에",
                         "phone_number": "139-1359-2929",
@@ -6343,7 +6343,7 @@
                         "area": "우중구",
                         "cuisine": "한국",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "81위안",
                         "address": "바오다이동로 399호 리펑플라자 1층에",
                         "phone_number": "139-1359-2929",
@@ -6507,7 +6507,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -6521,7 +6521,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -6535,7 +6535,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "120위안",
                         "phone_number": "0512-69381000",
                         "address": "쑤저우 타이후 국립 관광 휴가 구역 후안 타이후대도 28호",
@@ -6607,7 +6607,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -6621,7 +6621,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -6635,7 +6635,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "120위안",
                         "phone_number": "0512-69381000",
                         "address": "쑤저우 타이후 국립 관광 휴가 구역 후안 타이후대도 28호",
@@ -6692,7 +6692,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -6706,7 +6706,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -6720,7 +6720,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "120위안",
                         "phone_number": "0512-69381000",
                         "address": "쑤저우 타이후 국립 관광 휴가 구역 후안 타이후대도 28호",
@@ -6786,7 +6786,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -6800,7 +6800,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -6814,7 +6814,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "120위안",
                         "phone_number": "0512-69381000",
                         "address": "쑤저우 타이후 국립 관광 휴가 구역 후안 타이후대도 28호",
@@ -6987,7 +6987,7 @@
                         "type": "캠퍼스",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-88161071",
                         "address": "쑤저우시 쑤저우 공업원구 두슈호 고등 교육 단지 런아이로 111호",
@@ -7001,7 +7001,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69566001"
@@ -7073,7 +7073,7 @@
                         "type": "캠퍼스",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-88161071",
                         "address": "쑤저우시 쑤저우 공업원구 두슈호 고등 교육 단지 런아이로 111호",
@@ -7128,7 +7128,7 @@
                         "type": "캠퍼스",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-88161071",
                         "address": "쑤저우시 쑤저우 공업원구 두슈호 고등 교육 단지 런아이로 111호",
@@ -7211,7 +7211,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "92위안",
                         "address": "왕둔로 269호 하모니 시티 4층",
                         "phone_number": "400-8207320",
@@ -7224,7 +7224,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "광둥",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "99위안",
                         "address": "수씨우로 386호 티안시앙가든 133호",
                         "phone_number": "0512-62568777",
@@ -7237,7 +7237,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "사천",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "90위안",
                         "address": "왕둔로 269호 하모니 별자리 플라자 시티",
                         "phone_number": "0512-67634656",
@@ -7306,7 +7306,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "92위안",
                         "address": "왕둔로 269호 하모니 시티 4층",
                         "phone_number": "400-8207320",
@@ -7360,7 +7360,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "92위안",
                         "address": "왕둔로 269호 하모니 시티 4층",
                         "phone_number": "400-8207320",
@@ -7836,7 +7836,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "100 위안",
                         "phone_number": "0512-63325728",
                         "address": "쑤저우시 우장구 통리구전",
@@ -7928,7 +7928,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "100 위안",
                         "phone_number": "0512-63325728",
                         "address": "쑤저우시 우장구 통리구전",
@@ -8019,7 +8019,7 @@
                         "area": "우장구",
                         "cuisine": "일본",
                         "pricerange": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "90위안",
                         "address": "펜후 경제 개발구 루셴가 1066호",
                         "phone_number": [
@@ -8190,7 +8190,7 @@
                         "type": "캠퍼스",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-88161071",
                         "address": "쑤저우시 쑤저우 공업원구 두슈호 고등 교육 단지 런아이로 111호",
@@ -8204,7 +8204,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69566001"
@@ -8294,7 +8294,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69566001"
@@ -8370,7 +8370,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69566001"
@@ -8455,7 +8455,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "92위안",
                         "address": "왕둔로 269호 하모니 시티 4층",
                         "phone_number": "400-8207320",
@@ -8524,7 +8524,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "92위안",
                         "address": "왕둔로 269호 하모니 시티 4층",
                         "phone_number": "400-8207320",
@@ -8587,7 +8587,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "92위안",
                         "address": "왕둔로 269호 하모니 시티 4층",
                         "phone_number": "400-8207320",
@@ -9566,7 +9566,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "한국",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "154위안"
                         ],
@@ -9661,7 +9661,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "한국",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "154위안"
                         ],
@@ -9728,7 +9728,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "한국",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "154위안"
                         ],
@@ -11080,7 +11080,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "45위안",
                         "phone_number": [
                             "0512-66310058"
@@ -11158,7 +11158,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "45위안",
                         "phone_number": [
                             "0512-66310058"
@@ -11257,7 +11257,7 @@
                         "area": "우장구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "130위안",
                         "address": "송링 완바오 플라자 3층 S3015",
                         "phone_number": "0512-88982265",
@@ -11311,7 +11311,7 @@
                         "area": "우장구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "130위안",
                         "address": "송링 완바오 플라자 3층 S3015",
                         "phone_number": "0512-88982265",
@@ -11467,7 +11467,7 @@
                         "area": "우중구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "87위안"
                         ],
@@ -11564,7 +11564,7 @@
                         "area": "우중구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "87위안"
                         ],
@@ -11633,7 +11633,7 @@
                         "area": "우중구",
                         "cuisine": "북서부",
                         "pricerange": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": [
                             "87위안"
                         ],
@@ -11794,7 +11794,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -11808,7 +11808,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-66191668"
@@ -11824,7 +11824,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-57472155",
                         "address": "쑤저우시 쿤산시 천등 마을 샹슈로 1호입니다",
@@ -11894,7 +11894,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -11951,7 +11951,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -12724,7 +12724,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": [
                             "31위안"
                         ],
@@ -12795,7 +12795,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": [
                             "31위안"
                         ],
@@ -12860,7 +12860,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": [
                             "31위안"
                         ],
@@ -13668,7 +13668,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -13739,7 +13739,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -13795,7 +13795,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -13860,7 +13860,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "훠궈",
                         "pricerange": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "127위안",
                         "address": "슈야로 318호 세이지 디지털 플라자 4층에 있습니다.",
                         "phone_number": "0512-67603337",
@@ -14010,7 +14010,7 @@
                         "area": "구수구",
                         "cuisine": "북서부",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "67위안",
                         "address": "동간장로 428호",
                         "phone_number": [
@@ -14066,7 +14066,7 @@
                         "area": "구수구",
                         "cuisine": "북서부",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "67위안",
                         "address": "동간장로 428호",
                         "phone_number": [
@@ -14122,7 +14122,7 @@
                         "area": "구수구",
                         "cuisine": "북서부",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "67위안",
                         "address": "동간장로 428호",
                         "phone_number": [
@@ -15226,7 +15226,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -15240,7 +15240,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-66191668"
@@ -15256,7 +15256,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-57472155",
                         "address": "쑤저우시 쿤산시 천등 마을 샹슈로 1호입니다",
@@ -15319,7 +15319,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -15383,7 +15383,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -15447,7 +15447,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66514042",
                         "address": "쑤저우시 우중구 무두 마을 샨탕가 188호",
@@ -16726,7 +16726,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -16796,7 +16796,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -16851,7 +16851,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -22827,7 +22827,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -22919,7 +22919,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -23002,7 +23002,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "44위안",
                         "address": "싱강가 쑤저우 센터 북쪽 지하 1층",
                         "phone_number": "0512-66363836",
@@ -23015,7 +23015,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "412위안",
                         "address": "수씨우로 68호 쑤저우 센터 남쪽 3층 B3-19",
                         "phone_number": "0512-69881018",
@@ -26687,10 +26687,10 @@
                         ],
                         "series": "산타나",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -26706,10 +26706,10 @@
                         "price": "146,900",
                         "series": "라비다",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -26725,10 +26725,10 @@
                         "price": "155,900",
                         "series": "라만도",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -26744,10 +26744,10 @@
                         "price": "180,900",
                         "series": "라만도",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -26763,10 +26763,10 @@
                         "price": "184,900",
                         "series": "파사트",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -26784,10 +26784,10 @@
                         ],
                         "series": "파사트",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -26803,10 +26803,10 @@
                         "price": "243,900",
                         "series": "파사트",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -26824,10 +26824,10 @@
                         ],
                         "series": "피데온",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     }
                 ]
@@ -26893,10 +26893,10 @@
                         ],
                         "series": "산타나",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -26964,10 +26964,10 @@
                         ],
                         "series": "산타나",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -27035,10 +27035,10 @@
                         ],
                         "series": "산타나",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     }
                 ]
@@ -28378,7 +28378,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "100 위안",
                         "phone_number": "400-8282900",
                         "address": "쑤저우시 쿤산시 저우좡 마을 촨푸로 43호",
@@ -28392,7 +28392,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "100 위안",
                         "phone_number": "0512-63325728",
                         "address": "쑤저우시 우장구 통리구전",
@@ -28406,7 +28406,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -28420,7 +28420,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "110위안",
                         "phone_number": "0512-52500000",
                         "address": "쑤저우시 창수 사자방 마을",
@@ -28434,7 +28434,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62986008"
@@ -28450,7 +28450,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-69888888",
                         "address": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
@@ -28466,7 +28466,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -28480,7 +28480,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -28494,7 +28494,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66966666",
                         "address": "쑤저우 공업원구 왕둔로 268호",
@@ -28572,7 +28572,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -28586,7 +28586,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62986008"
@@ -28602,7 +28602,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-69888888",
                         "address": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
@@ -28618,7 +28618,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -28632,7 +28632,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66966666",
                         "address": "쑤저우 공업원구 왕둔로 268호",
@@ -28702,7 +28702,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -28766,7 +28766,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -29197,10 +29197,10 @@
                         ],
                         "series": "폭스바겐 T-크로스",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -29216,10 +29216,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -29235,10 +29235,10 @@
                         "price": "147,900",
                         "series": "폭스바겐 T-크로스",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -29254,10 +29254,10 @@
                         "price": "150,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -29273,10 +29273,10 @@
                         "price": "155,800",
                         "series": "티록",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -29294,10 +29294,10 @@
                         ],
                         "series": "타루",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -29313,10 +29313,10 @@
                         "price": "201,900",
                         "series": "테이론",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29332,10 +29332,10 @@
                         "price": "203,800",
                         "series": "티록",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29353,14 +29353,14 @@
                         ],
                         "series": "타루",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
-                        "name": "티구안-L 280ㅆTSI 자동 이륜 파라노믹 컴포터블 버전",
+                        "name": "티구안-L 280TSI 자동 이륜 파라노믹 컴포터블 버전",
                         "classification": "SUV",
                         "size": "중형",
                         "number_of_seats": [
@@ -29374,10 +29374,10 @@
                         ],
                         "series": "티구안-L",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29395,10 +29395,10 @@
                         ],
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29414,10 +29414,10 @@
                         "price": "284,900",
                         "series": "테이론",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29435,10 +29435,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29454,10 +29454,10 @@
                         "price": "11,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29473,10 +29473,10 @@
                         "price": "315,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29492,10 +29492,10 @@
                         "price": "336,900",
                         "series": "테라몬트 X",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29513,10 +29513,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29534,10 +29534,10 @@
                         ],
                         "series": "테라몬트 X",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29553,10 +29553,10 @@
                         "price": "619,800",
                         "series": "투아렉",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29574,10 +29574,10 @@
                         ],
                         "series": "투아렉",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     }
                 ]
@@ -29649,10 +29649,10 @@
                         ],
                         "series": "폭스바겐 T-크로스",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -29668,10 +29668,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -29687,10 +29687,10 @@
                         "price": "147,900",
                         "series": "폭스바겐 T-크로스",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -29706,10 +29706,10 @@
                         "price": "150,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -29725,10 +29725,10 @@
                         "price": "155,800",
                         "series": "티록",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -29746,10 +29746,10 @@
                         ],
                         "series": "타루",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -29765,10 +29765,10 @@
                         "price": "201,900",
                         "series": "테이론",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29784,10 +29784,10 @@
                         "price": "203,800",
                         "series": "티록",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29805,14 +29805,14 @@
                         ],
                         "series": "타루",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
-                        "name": "티구안-L 280ㅆTSI 자동 이륜 파라노믹 컴포터블 버전",
+                        "name": "티구안-L 280TSI 자동 이륜 파라노믹 컴포터블 버전",
                         "classification": "SUV",
                         "size": "중형",
                         "number_of_seats": [
@@ -29826,10 +29826,10 @@
                         ],
                         "series": "티구안-L",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29847,10 +29847,10 @@
                         ],
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29866,10 +29866,10 @@
                         "price": "284,900",
                         "series": "테이론",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -29887,10 +29887,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29906,10 +29906,10 @@
                         "price": "11,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29925,10 +29925,10 @@
                         "price": "315,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29944,10 +29944,10 @@
                         "price": "336,900",
                         "series": "테라몬트 X",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29965,10 +29965,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -29986,10 +29986,10 @@
                         ],
                         "series": "테라몬트 X",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30005,10 +30005,10 @@
                         "price": "619,800",
                         "series": "투아렉",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30026,10 +30026,10 @@
                         ],
                         "series": "투아렉",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     }
                 ]
@@ -30120,10 +30120,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30139,10 +30139,10 @@
                         "price": "11,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30158,10 +30158,10 @@
                         "price": "315,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30177,10 +30177,10 @@
                         "price": "336,900",
                         "series": "테라몬트 X",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30198,10 +30198,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30219,10 +30219,10 @@
                         ],
                         "series": "테라몬트 X",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30238,10 +30238,10 @@
                         "price": "619,800",
                         "series": "투아렉",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30259,10 +30259,10 @@
                         ],
                         "series": "투아렉",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     }
                 ]
@@ -30334,10 +30334,10 @@
                         "price": "11,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -30353,10 +30353,10 @@
                         "price": "315,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     }
                 ]
@@ -32962,7 +32962,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-67575666",
                         "address": "쑤저우시 구수구 동베이가 204호",
@@ -32976,7 +32976,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "20위안",
                         "phone_number": "0512-65336634",
                         "address": "쑤저우시 구수구 한산사원로 24호",
@@ -32990,7 +32990,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "40위안",
                         "phone_number": [
                             "0512-65260004"
@@ -33006,7 +33006,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69566001"
@@ -33099,7 +33099,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-67575666",
                         "address": "쑤저우시 구수구 동베이가 204호",
@@ -33191,7 +33191,7 @@
                         "area": "우중구",
                         "cuisine": "일본",
                         "pricerange": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "58위안",
                         "address": "유에씨 쑤젠타오로 188호 이온몰 1층",
                         "phone_number": "0512-65884527",
@@ -33265,7 +33265,7 @@
                         "area": "우중구",
                         "cuisine": "일본",
                         "pricerange": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "58위안",
                         "address": "유에씨 쑤젠타오로 188호 이온몰 1층",
                         "phone_number": "0512-65884527",
@@ -39486,10 +39486,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -39505,10 +39505,10 @@
                         "price": "150,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -39524,10 +39524,10 @@
                         "price": "155,800",
                         "series": "티록",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -39543,10 +39543,10 @@
                         "price": "201,900",
                         "series": "테이론",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -39562,10 +39562,10 @@
                         "price": "203,800",
                         "series": "티록",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     },
                     {
@@ -39581,10 +39581,10 @@
                         "price": "284,900",
                         "series": "테이론",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "200,000에서 300,000"
                     }
                 ]
@@ -39648,10 +39648,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -39667,10 +39667,10 @@
                         "price": "150,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -39736,10 +39736,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -39755,10 +39755,10 @@
                         "price": "150,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -39824,10 +39824,10 @@
                         "price": "139,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000미만"
                     },
                     {
@@ -39843,10 +39843,10 @@
                         "price": "150,900",
                         "series": "FAW-폭스바겐 타쿠아",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -40013,7 +40013,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -40099,7 +40099,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -40169,7 +40169,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -40233,7 +40233,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -40288,7 +40288,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -41623,7 +41623,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62986008"
@@ -41639,7 +41639,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-69888888",
                         "address": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
@@ -41655,7 +41655,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66966666",
                         "address": "쑤저우 공업원구 왕둔로 268호",
@@ -41669,7 +41669,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62802222"
@@ -41685,7 +41685,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-67886788"
@@ -41773,7 +41773,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62986008"
@@ -41789,7 +41789,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-69888888",
                         "address": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
@@ -41805,7 +41805,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66966666",
                         "address": "쑤저우 공업원구 왕둔로 268호",
@@ -41819,7 +41819,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-67886788"
@@ -41916,7 +41916,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-69888888",
                         "address": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
@@ -42059,10 +42059,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -42078,10 +42078,10 @@
                         "price": "11,800",
                         "series": "티구안-L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "True",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "있음",
                         "pricerange": "300,000초과"
                     },
                     {
@@ -42099,10 +42099,10 @@
                         ],
                         "series": "테라몬트",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "300,000초과"
                     }
                 ]
@@ -42215,10 +42215,10 @@
                         ],
                         "series": "폭스바겐 투란 L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -42292,10 +42292,10 @@
                         ],
                         "series": "폭스바겐 투란 L",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -42465,10 +42465,10 @@
                         ],
                         "series": "폭스바겐 골프",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     },
                     {
@@ -42484,10 +42484,10 @@
                         ],
                         "series": "폭스바겐 비틀",
                         "power_level": "평범한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -42561,10 +42561,10 @@
                         ],
                         "series": "폭스바겐 골프",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -42632,10 +42632,10 @@
                         ],
                         "series": "폭스바겐 골프",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -42703,10 +42703,10 @@
                         ],
                         "series": "폭스바겐 골프",
                         "power_level": "비교적 강한",
-                        "parking_assist_system": "False",
-                        "cruise_control_system": "True",
-                        "heated_seats": "true",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "없음",
+                        "cruise_control_system": "있음",
+                        "heated_seats": "있음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -42856,7 +42856,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -42927,7 +42927,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -42983,7 +42983,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -43048,7 +43048,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -44940,7 +44940,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-67575666",
                         "address": "쑤저우시 구수구 동베이가 204호",
@@ -44954,7 +44954,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "20위안",
                         "phone_number": "0512-65336634",
                         "address": "쑤저우시 구수구 한산사원로 24호",
@@ -44968,7 +44968,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "40위안",
                         "phone_number": [
                             "0512-65260004"
@@ -44984,7 +44984,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-69566001"
@@ -45056,7 +45056,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-67575666",
                         "address": "쑤저우시 구수구 동베이가 204호",
@@ -45120,7 +45120,7 @@
                         "type": "구수구에 있는 유적지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": "0512-67575666",
                         "address": "쑤저우시 구수구 동베이가 204호",
@@ -45496,7 +45496,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "412위안",
                         "address": "수씨우로 68호 쑤저우 센터 남쪽 3층 B3-19",
                         "phone_number": "0512-69881018",
@@ -45565,7 +45565,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "412위안",
                         "address": "수씨우로 68호 쑤저우 센터 남쪽 3층 B3-19",
                         "phone_number": "0512-69881018",
@@ -45628,7 +45628,7 @@
                         "area": "쑤저우 공업원구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "조금 비싼",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "412위안",
                         "address": "수씨우로 68호 쑤저우 센터 남쪽 3층 B3-19",
                         "phone_number": "0512-69881018",
@@ -46289,7 +46289,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "26위안",
                         "address": "창장로 211호 이즈미야 백화점 지하 1층",
                         "phone_number": "0512-62396721",
@@ -46302,7 +46302,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "장쑤성-저장성",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": [
                             "31위안"
                         ],
@@ -46317,7 +46317,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "광둥",
                         "pricerange": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "65위안",
                         "address": "시샨로 215호 우공리두 상업가 1층",
                         "phone_number": [
@@ -46332,7 +46332,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "20위안",
                         "address": "쑤저우 신구 창지앙로 211호",
                         "phone_number": "0512-68799751",
@@ -46345,7 +46345,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "북동부 중국요리",
                         "pricerange": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "per_capita_consumption": "58위안",
                         "address": "시외로 19호 이온몰 2층",
                         "phone_number": [
@@ -46416,7 +46416,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "26위안",
                         "address": "창장로 211호 이즈미야 백화점 지하 1층",
                         "phone_number": "0512-62396721",
@@ -46479,7 +46479,7 @@
                         "area": "쑤저우 신구",
                         "cuisine": "빵과 디저트",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "26위안",
                         "address": "창장로 211호 이즈미야 백화점 지하 1층",
                         "phone_number": "0512-62396721",
@@ -50262,7 +50262,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -50276,7 +50276,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -50290,7 +50290,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "120위안",
                         "phone_number": "0512-69381000",
                         "address": "쑤저우 타이후 국립 관광 휴가 구역 후안 타이후대도 28호",
@@ -50386,7 +50386,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -50400,7 +50400,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -50498,7 +50498,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -50575,7 +50575,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -50639,7 +50639,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -50799,7 +50799,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "오전 7시 45분부터 11시 반까지, 오후 1시부터 4시까지",
                         "bus_routes": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -50818,9 +50818,9 @@
                             "안과학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     },
                     {
                         "name": "쑤저우대학교 제2 부속병원",
@@ -50833,7 +50833,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "아침 8시부터 12시까지, 오후 1시부터 4시 45분까지",
                         "bus_routes": "2번, 35번, 38번, 39번, 40번, 51번, 60번, 68번, 69번, 89번, 303번, 304번, 308번, 317번, 321번,  502번 그리고 931번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -50849,9 +50849,9 @@
                             "비뇨기학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -50920,7 +50920,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "오전 7시 45분부터 11시 반까지, 오후 1시부터 4시까지",
                         "bus_routes": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -50939,9 +50939,9 @@
                             "안과학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -51004,7 +51004,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "오전 7시 45분부터 11시 반까지, 오후 1시부터 4시까지",
                         "bus_routes": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -51023,9 +51023,9 @@
                             "안과학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -51088,7 +51088,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "오전 7시 45분부터 11시 반까지, 오후 1시부터 4시까지",
                         "bus_routes": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -51107,9 +51107,9 @@
                             "안과학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -51172,7 +51172,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "오전 7시 45분부터 11시 반까지, 오후 1시부터 4시까지",
                         "bus_routes": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -51191,9 +51191,9 @@
                             "안과학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -51967,7 +51967,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "100 위안",
                         "phone_number": "400-8282900",
                         "address": "쑤저우시 쿤산시 저우좡 마을 촨푸로 43호",
@@ -51981,7 +51981,7 @@
                         "type": "수향마을",
                         "the_most_suitable_people": "친구들",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "100 위안",
                         "phone_number": "0512-63325728",
                         "address": "쑤저우시 우장구 통리구전",
@@ -51995,7 +51995,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "400-7558558",
                         "address": "쑤저우시 쑤저우 공업원구 신강가 158호",
@@ -52009,7 +52009,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "110위안",
                         "phone_number": "0512-52500000",
                         "address": "쑤저우시 창수 사자방 마을",
@@ -52023,7 +52023,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62986008"
@@ -52039,7 +52039,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-69888888",
                         "address": "쑤저우 공업원구 신강가와 싱저우가 교차로 서쪽에 150미터",
@@ -52055,7 +52055,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "198위안",
                         "phone_number": "0512-68717107",
                         "address": "쑤저우시 쑤저우 신구 양한동로 동쪽과 샨션완로 서쪽",
@@ -52069,7 +52069,7 @@
                         "type": "놀이공원",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "299위안",
                         "phone_number": "0512-67990518",
                         "address": "쑤저우시 쑤저우 공업원구 양청후로 188호",
@@ -52083,7 +52083,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "데이트",
                         "consumption": "조금 비싼",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-66966666",
                         "address": "쑤저우 공업원구 왕둔로 268호",
@@ -52185,7 +52185,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "110위안",
                         "phone_number": "0512-52500000",
                         "address": "쑤저우시 창수 사자방 마을",
@@ -52289,7 +52289,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "110위안",
                         "phone_number": "0512-52500000",
                         "address": "쑤저우시 창수 사자방 마을",
@@ -52365,7 +52365,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "조금 비싼",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "110위안",
                         "phone_number": "0512-52500000",
                         "address": "쑤저우시 창수 사자방 마을",
@@ -54065,10 +54065,10 @@
                         ],
                         "series": "FAW-폭스바겐 마고탄",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -54134,10 +54134,10 @@
                         ],
                         "series": "FAW-폭스바겐 마고탄",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -54227,10 +54227,10 @@
                         ],
                         "series": "FAW-폭스바겐 마고탄",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -54313,10 +54313,10 @@
                         ],
                         "series": "FAW-폭스바겐 마고탄",
                         "power_level": "평범한",
-                        "parking_assist_system": "True",
-                        "cruise_control_system": "false",
-                        "heated_seats": "false",
-                        "ventilated_seats": "False",
+                        "parking_assist_system": "있음",
+                        "cruise_control_system": "없음",
+                        "heated_seats": "없음",
+                        "ventilated_seats": "없음",
                         "pricerange": "150,000에서 200,000"
                     }
                 ]
@@ -59216,7 +59216,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-65646668",
                         "address": "쑤저우시 우중구 유씬로 333호",
@@ -59304,7 +59304,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-65646668",
                         "address": "쑤저우시 우중구 유씬로 333호",
@@ -59359,7 +59359,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "친구들",
                         "consumption": "저렴한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": "0512-65646668",
                         "address": "쑤저우시 우중구 유씬로 333호",
@@ -62417,7 +62417,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-62802222"
@@ -62433,7 +62433,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-67886788"
@@ -62546,7 +62546,7 @@
                         "type": "상업 중심지",
                         "the_most_suitable_people": "친구들",
                         "consumption": "적당한",
-                        "metro_station": "그런다",
+                        "metro_station": "있음",
                         "ticket_price": "무료",
                         "phone_number": [
                             "0512-67886788"
@@ -64154,7 +64154,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -64225,7 +64225,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -64290,7 +64290,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -64355,7 +64355,7 @@
                         "area": "우중구",
                         "cuisine": "패스트푸드",
                         "pricerange": "저렴한",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "per_capita_consumption": "42위안",
                         "address": "진산로 47-1호 (무두톈훙몰 B1층 B1001-2호)",
                         "phone_number": [
@@ -64531,7 +64531,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66918088",
                         "address": "쑤저우시 쑤저우 신구 타운 레이크 자수거리 1호",
@@ -64545,7 +64545,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": [
                             "50위안"
                         ],
@@ -64619,7 +64619,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66918088",
                         "address": "쑤저우시 쑤저우 신구 타운 레이크 자수거리 1호",
@@ -64683,7 +64683,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66918088",
                         "address": "쑤저우시 쑤저우 신구 타운 레이크 자수거리 1호",
@@ -67644,7 +67644,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66918088",
                         "address": "쑤저우시 쑤저우 신구 타운 레이크 자수거리 1호",
@@ -67658,7 +67658,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": [
                             "50위안"
                         ],
@@ -67759,7 +67759,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66918088",
                         "address": "쑤저우시 쑤저우 신구 타운 레이크 자수거리 1호",
@@ -67856,7 +67856,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": [
                             "50위안"
                         ],
@@ -67961,7 +67961,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": "60위안",
                         "phone_number": "0512-66918088",
                         "address": "쑤저우시 쑤저우 신구 타운 레이크 자수거리 1호",
@@ -68064,7 +68064,7 @@
                         "type": "풍경이 좋은 곳",
                         "the_most_suitable_people": "가족 친화적인",
                         "consumption": "저렴한",
-                        "metro_station": "false",
+                        "metro_station": "없음",
                         "ticket_price": [
                             "50위안"
                         ],
@@ -69032,7 +69032,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "오전 7시 45분부터 11시 반까지, 오후 1시부터 4시까지",
                         "bus_routes": "2번(순환), 40번, 50번, 202번, 529번, 200번, 811번, 89번, 8번, 55번, 204번, 309 번 그리고 501번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -69051,9 +69051,9 @@
                             "안과학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     },
                     {
                         "name": "쑤저우대학교 제2 부속병원",
@@ -69066,7 +69066,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "아침 8시부터 12시까지, 오후 1시부터 4시 45분까지",
                         "bus_routes": "2번, 35번, 38번, 39번, 40번, 51번, 60번, 68번, 69번, 89번, 303번, 304번, 308번, 317번, 321번,  502번 그리고 931번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -69082,9 +69082,9 @@
                             "비뇨기학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -69153,7 +69153,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "아침 8시부터 12시까지, 오후 1시부터 4시 45분까지",
                         "bus_routes": "2번, 35번, 38번, 39번, 40번, 51번, 60번, 68번, 69번, 89번, 303번, 304번, 308번, 317번, 321번,  502번 그리고 931번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -69169,9 +69169,9 @@
                             "비뇨기학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -69234,7 +69234,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "아침 8시부터 12시까지, 오후 1시부터 4시 45분까지",
                         "bus_routes": "2번, 35번, 38번, 39번, 40번, 51번, 60번, 68번, 69번, 89번, 303번, 304번, 308번, 317번, 321번,  502번 그리고 931번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -69250,9 +69250,9 @@
                             "비뇨기학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },
@@ -69315,7 +69315,7 @@
                         "registration_time": "오전 7시부터 11시 30분 그리고 오후 12시부터 4시 30분",
                         "service_time": "아침 8시부터 12시까지, 오후 1시부터 4시 45분까지",
                         "bus_routes": "2번, 35번, 38번, 39번, 40번, 51번, 60번, 68번, 69번, 89번, 303번, 304번, 308번, 317번, 321번,  502번 그리고 931번",
-                        "metro_station": "True",
+                        "metro_station": "있음",
                         "key_departments": [
                             "심혈관",
                             "신장학",
@@ -69331,9 +69331,9 @@
                             "비뇨기학",
                             "부인과의학"
                         ],
-                        "ct": "True",
-                        "3.0t_mri": " True",
-                        "dsa": "True"
+                        "ct": "있음",
+                        "3.0t_mri": "있음",
+                        "dsa": "있음"
                     }
                 ]
             },

@@ -231,8 +231,8 @@
             "It was once an imperial path passed by Emperor Qianlong when he visited the south of the Yangtze River for the sixth time and there was a palace site. It was once a place where King Goujian of Yue endured hardships for nine years and raised horses for King Wu.": "건륭제가 여섯 번째로 양쯔강 남쪽을 방문했을 때 지나쳤던 황실 길로, 궁궐터가 있었습니다. 이곳은 한때 월나라의 구천왕이 9년 동안 고난을 견디고 우왕을 위해 말을 길렀던 곳입니다."
         },
         "metro station": {
-            "no": "아니요",
-            "No": "아니요",
+            "no": "아니오",
+            "No": "아니오",
             "can": "수 있는",
             "Yes": "네",
             "get to directly by subway": "지하철로 바로 갈",
@@ -243,13 +243,13 @@
             "there is": "있습니다",
             "with a subway station nearby": "근처에 지하철 역이 있는",
             "FALSE": [
-                "FALSE"
+                "없음"
             ],
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
-            "true": "그런다",
-            "false": "false"
+            "true": "있음",
+            "false": "없음"
         },
         "opening hours": {
             "07:30-18:50": "오전 7시 반부터 오후 6시 50분까지",
@@ -428,17 +428,17 @@
             "are": "있습니다",
             "yes": "네",
             "is": "입니다",
-            "No": "아니요",
+            "No": "아니오",
             "with a subway station nearby": "근처에 지하철 역이 있는",
             "could": "수 있는",
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
             "FALSE": [
-                "FALSE"
+                "없음"
             ],
-            "true": "True",
-            "false": "false"
+            "true": "있음",
+            "false": "없음"
         },
         "name": {
             "Nongleyuan Charcoal Fire Barbecue": "농러유안 숯불 바비큐",
@@ -3517,7 +3517,7 @@
             "north force 2": "강도 2의 북풍",
             "south force 1": "강도 1의 남풍"
         },
-        "tamperature": {
+        "temperature": {
             "The maximum temperature will be 14 degrees Celsius, and the minimum temperature will be 7 degrees Celsius": "최고 기온은 섭씨 14도, 최저 기온은 섭씨 7도가 될 것입니다",
             "the maximum temperature will be 21 degrees Celsius, and the minimum temperature will be 9 degrees Celsius": "최고 기온은 섭씨 21도 그리고 최저 기온은 섭씨 9도가 될 거예요",
             "The maximum temperature will be 14 degrees Celsius, and the minimum temperature will be 8 degrees Celsius": "최고 기온은 섭씨 14도 그리고 최저 기온은 섭씨 8도가 될 거예요",
@@ -5237,36 +5237,36 @@
             "Suzhou Municipal Hospital (North Branch)": "쑤저우 (북부)시립병원"
         },
         "3.0t mri": {
-            "No": "아니요",
+            "No": "아니오",
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
             "N/A": [
                 "N/A"
             ],
-            "true": " True"
+            "true": "있음"
         },
         "ct": {
             "No": "아니오",
             "no": "없습니다",
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
             "N/A": [
                 "N/A"
             ],
-            "true": "True"
+            "true": "있음"
         },
         "dsa": {
             "can't": "안됩니다",
-            "No": "아니요",
+            "No": "아니오",
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
             "N/A": [
                 "N/A"
             ],
-            "true": "True"
+            "true": "있음"
         },
         "address": {
             "No. 10, Guangqian Road": "광치안로 10호",
@@ -5413,12 +5413,12 @@
         },
         "metro station": {
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
             "N/A": [
                 "N/A"
             ],
-            "true": "True"
+            "true": "있음"
         }
     },
     "pc": {
@@ -6055,7 +6055,7 @@
             "Tharu 330TSI All-wheel Luxury Version": "타루 330TSI 사륜 럭셔리 버전",
             "Golf 1.8TSI Travel Version": "골프 1.8TSI 트래블 버전",
             "Volkswagen Beetle 280TSI Version": "폭스바겐 비틀 280TSI 버전",
-            "Tiguan-L 280TSI Automatic Two-wheel Panoramic Comfortable Version": "티구안-L 280ㅆTSI 자동 이륜 파라노믹 컴포터블 버전",
+            "Tiguan-L 280TSI Automatic Two-wheel Panoramic Comfortable Version": "티구안-L 280TSI 자동 이륜 파라노믹 컴포터블 버전",
             "FAW-Volkswagen Magotan 330TSI DSG Luxury Version": "FAW-복스바겐 마고탄 330TSI DSG 럭셔리 버전",
             "SAIC Volkswagen Passat 330TSI Luxury Version": "SAIC 폭스바겐 파사트 330TSI 럭셔리 버전",
             "Tiguan-L 330TSI Automatic Two-wheel Intelligent Luxury Version": "티구안-L 330 TSI 자동 이륜 인텔리전트 럭셔리 버전",
@@ -6083,33 +6083,33 @@
         },
         "ventilated seats": {
             "FALSE": [
-                "FALSE"
+                "없음"
             ],
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
-            "false": "False",
-            "true": "True"
+            "false": "없음",
+            "true": "있음"
         },
         "parking assist system": {
             "FALSE": [
-                "FALSE"
+                "없음"
             ],
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
-            "false": "False",
-            "true": "True"
+            "false": "없음",
+            "true": "있음"
         },
         "heated seats": {
             "FALSE": [
-                "FALSE"
+                "없음"
             ],
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
-            "false": "false",
-            "true": "true"
+            "false": "없음",
+            "true": "있음"
         },
         "hybrid": {
             "less than 300,000": "가솔린 엔진",
@@ -6254,13 +6254,13 @@
         },
         "cruise control system": {
             "TRUE": [
-                "TRUE"
+                "있음"
             ],
             "FALSE": [
-                "FALSE"
+                "없음"
             ],
-            "true": "True",
-            "false": "false"
+            "true": "있음",
+            "false": "없음"
         },
         "4wd": {
             "Volkswagen Import": "사륜",
