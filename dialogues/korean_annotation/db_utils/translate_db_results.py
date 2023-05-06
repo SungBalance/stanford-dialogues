@@ -78,7 +78,7 @@ if __name__ == "__main__":
     db_result_prefix = (
         # (source language, target language)
         "Database search results: the number of successful matches is ",
-        "",
+        "데이터베이스 검색 결과: 성공적으로 일치한 항목 수는 ",
     )
 
     # load src and tgt data

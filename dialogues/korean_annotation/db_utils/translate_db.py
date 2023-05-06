@@ -103,6 +103,8 @@ for domain in domain_list:
             if isinstance(src_value, list):
                 try:
                     tgt_db_item[tgt_slot] = [value_alignment[domain][tgt_slot][option] for option in src_value]
+                    if len(tgt_db_item[tgt_slot]) == 1:
+                        tgt_db_item[tgt_slot] = tgt_db_item[tgt_slot][0]
                 except KeyError as e:
                     error_value = e.args[0]
                     print(
@@ -132,6 +134,8 @@ for domain in domain_list:
                 try:
                     if src_value in value_alignment[domain][tgt_slot].keys():
                         tgt_db_item[tgt_slot] = value_alignment[domain][tgt_slot][src_value]
+                        if isinstance(tgt_db_item[tgt_slot], list) and len(tgt_db_item[tgt_slot]) == 1:
+                            tgt_db_item[tgt_slot] = tgt_db_item[tgt_slot][0]
                     elif not src_value:
                         tgt_db_item[tgt_slot] = na_translation[1]
                     else:
