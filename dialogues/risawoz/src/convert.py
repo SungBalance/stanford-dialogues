@@ -98,6 +98,11 @@ def build_user_event(turn, setting, value_mapping):
     # TODO: handle multiple active intents
     event["active_intent"] = [value_mapping.zh2en_DOMAIN_MAP.get(dom, dom).lower() for dom in turn["turn_domain"]]
     event["state"] = defaultdict(dict)
+    
+    # sungkyun: patching the empty values for work-around errors
+    if "inform slot-values" not in turn["belief_state"]:
+        turn["belief_state"]["inform slot-values"] = {}
+
     for ds, v in turn["belief_state"]["inform slot-values"].items():
         d, s = ds.split("-")[0], ds.split("-")[1]
         d = value_mapping.zh2en_DOMAIN_MAP.get(d, d).lower()
@@ -265,12 +270,14 @@ def build_dataset(original_data_path, db, setting, value_mapping, debug=False, m
                     domain, slot, value = act['domain'], act['slot'], act['value']
                     if slot:
                         actions[domain][slot] = value
-                if setting == 'zh':
-                    expected_num_results = int(turn["db_results"][0][len('数据库检索结果：成功匹配个数为') :])
-                else:
-                    expected_num_results = int(
-                        turn["db_results"][0][len('Database search results: the number of successful matches is ') :]
-                    )
+
+                expected_num_results = int(turn["db_results"][0].split(" ")[-1])
+                # if setting == 'zh':
+                #     expected_num_results = int(turn["db_results"][0][len('数据库检索结果：成功匹配个数为') :])
+                # else:
+                #     expected_num_results = int(
+                #         turn["db_results"][0][len('Database search results: the number of successful matches is ') :]
+                #     )
 
                 if debug:
                     kb_event = build_kb_event(
