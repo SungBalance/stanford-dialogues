@@ -2,7 +2,7 @@ import argparse
 import json
 import os
 
-from utils import get_commit
+from dialogues.utils import get_commit
 
 from dialogues.risawoz.main import Risawoz
 
@@ -53,6 +53,11 @@ def main():
         path_fewshot = ["data/fr_fewshot.json"]
         path_dev = ["data/fr_valid.json"]
         path_test = ["data/fr_test.json"]
+    elif args.setting in ["kr"]:
+        path_train = ["data/kr_train.json"]
+        path_fewshot = ["data/kr_fewshot.json"]
+        path_dev = ["data/kr_valid.json"]
+        path_test = ["data/kr_test.json"]
     else:
         path_train = ["data/zh_train.json", "data/en_train.json"]
         path_fewshot = ["data/zh_fewshot.json", "data/en_fewshot.json"]

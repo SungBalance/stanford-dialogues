@@ -68,6 +68,7 @@ if __name__ == "__main__":
 
     for split in args.splits:
         with open(os.path.join(args.directory, f"{split}_entity_check_{args.version}.tsv"), 'w') as f:
+            print(f"load {os.path.join(args.directory, f'{args.setting}_v{args.version}/{split}.json')}")
             for (dial_id, turn_id, input, output, ents) in zip(
                 *get_input_output(
                     ujson.load(open(os.path.join(args.directory, f'{args.setting}_v{args.version}/{split}.json')))

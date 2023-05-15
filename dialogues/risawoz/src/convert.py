@@ -16,6 +16,7 @@ from dialogues.risawoz.src.knowledgebase.api import call_api, process_string
 
 def read_json_files_in_folder(path):
     json_filename = [path + '/' + filename for filename in os.listdir(path) if '.json' in filename]
+    print(f"READ: {json_filename}")
     with ExitStack() as stack:
         files = [stack.enter_context(open(fname)) for fname in json_filename]
         data = {}
@@ -175,10 +176,10 @@ DIALOGUES_WITH_ISSUE = {
     ('Hospital_goal_2-32_v2###9505', '*'),
 }
 
-
 def build_kb_event(
     wizard_query_event, db, actions, expected_num_results, setting, dial_id, turn_id, value_mapping, ground_truth_results=None
 ):
+    global count, all_count
     event = {"Agent": "KnowledgeBase"}
     constraints = wizard_query_event["Constraints"]
     for d in constraints:
@@ -187,10 +188,14 @@ def build_kb_event(
     knowledge = call_api(db, api_names, constraints, lang=setting, value_mapping=value_mapping, actions=actions)
     event["TotalItems"] = sum(item.get("available_options", 0) for api, item in knowledge.items())
     for api, item in knowledge.items():
+        all_count += 1
         if item.get("available_options", 0) < expected_num_results and api_names != ['general']:
             if (dial_id, turn_id) in DIALOGUES_WITH_ISSUE or (dial_id, '*') in DIALOGUES_WITH_ISSUE:
                 continue
+            print("-------------------------------------------")
             print(f'API call likely failed for dial_id: {dial_id}, turn_id: {turn_id}')
+            count += 1
+            
             if ground_truth_results is not None:
                 constraints[api] = {
                     # case insensitive slot name matching for English
@@ -201,7 +206,7 @@ def build_kb_event(
                     if not isinstance(db_item, dict):
                         db_item = json.loads(db_item.replace("'", '"'))
                     db_item = {
-                        (k.lower() if setting in ['en', 'fr'] else value_mapping.zh2en_SLOT_MAP[k]).replace(
+                        (k.lower() if setting in ['en', 'fr', 'kr'] else value_mapping.zh2en_SLOT_MAP[k]).replace(
                             " ", "_"
                         ): process_string(v, setting)
                         for k, v in db_item.items()
@@ -231,13 +236,43 @@ def build_kb_event(
                             print('API call likely failed with canonical constraints: {}'.format(constraints))
                             print('difference: {}'.format(diff))
                             print('original: {}'.format(original))
+                            print(" > api_names:",  api_names)
+                            print(" > constraints:",  constraints)
+                            print(" > lang:",  setting)
+                            print(" > value_mapping:",  value_mapping)
+                            print(" > actions:",  actions)
+                            print(" > api:")
+                            print(api)
+                            print(" > item:")
+                            print(item)
+                            print(" > item.get:", item.get("available_options", 0))
+                            print(" > expected_num_results:", expected_num_results)
+                            print(" > ground_truth_results:", ground_truth_results)
+                            print("-------------------------------------------", count, "/", all_count)
+                            print(knowledge)
+                            if turn_id == 4:
+                                input()
                 print(
                     'constraints: {}, available options: {}, expected: {}'.format(
                         constraints[api], item.get("available_options", 0), expected_num_results
                     )
                 )
-            knowledge = call_api(db, api_names, constraints, lang='zh', value_mapping=value_mapping, actions=actions)
-
+            knowledge = call_api(db, api_names, constraints, lang='kr', value_mapping=value_mapping, actions=actions)
+            print(" > api_names:",  api_names)
+            print(" > constraints:",  constraints)
+            print(" > lang:",  setting)
+            print(" > value_mapping:",  value_mapping)
+            print(" > actions:",  actions)
+            print(" > api:")
+            print(api)
+            print(" > item:")
+            print(item)
+            print(" > item.get:", item.get("available_options", 0))
+            print(" > expected_num_results:", expected_num_results)
+            print(" > ground_truth_results:", ground_truth_results)
+            print("-------------------------------------------", count, "/", all_count)
+            print(knowledge)
+            # input()
     event["Item"] = knowledge
     event["Topic"] = api_names
     return event
@@ -317,6 +352,8 @@ def build_dataset(original_data_path, db, setting, value_mapping, debug=False, m
 
 if __name__ == "__main__":
 
+    count = 0
+    all_count = 0
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--root", type=str, default='dialogues/risawoz/', help='code root directory')
@@ -353,7 +390,7 @@ if __name__ == "__main__":
                 data_url = f"https://huggingface.co/datasets/GEM/RiSAWOZ/resolve/main/{split}.json"
             with open(f"{original_data_path}/{args.setting}_{split}.json", 'wb') as f:
                 f.write(requests.get(data_url).content)
-
+    print(count)
     processed_data_path = os.path.join(*[args.root, args.save_dir])
     for split in args.splits:
         print(f"processing {split} data...")

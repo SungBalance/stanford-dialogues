@@ -1,4 +1,20 @@
-sudo python dialogues/risawoz/src/convert.py --setting kr --splits valid \
-python dialogues/risawoz/src/convert.py --setting kr --splits fewshot \
-python dialogues/risawoz/src/convert.py --setting kr --splits test \
-python dialogues/risawoz/src/convert.py --setting kr --splits valid \
+sudo python dialogues/risawoz/src/convert.py --src en --tgt kr --setting kr --splits valid --debug \
+python dialogues/risawoz/src/convert.py --src en --tgt kr --setting kr --splits fewshot --debug \
+python dialogues/risawoz/src/convert.py --src en --tgt kr --setting kr --splits test --debug
+
+
+python dialogues/risawoz/src/preprocess.py --max_history 2 --last_two_agent_turns --gen_full_state --only_user_rg --sampling balanced --setting kr --fewshot_percent 0 --version 1 --splits valid \
+
+python dialogues/risawoz/src/preprocess.py --max_history 2 --last_two_agent_turns --gen_full_state --only_user_rg --sampling balanced --setting kr --fewshot_percent 0 --version 1 --splits fewshot \
+
+python dialogues/risawoz/src/preprocess.py --max_history 2 --last_two_agent_turns --gen_full_state --only_user_rg --sampling balanced --setting kr --fewshot_percent 0 --version 1 --splits test
+
+
+
+
+
+# run all tests
+
+for split in test valid train fewshot ; do
+    python3 dialogues/risawoz/scripts/check_entity.py --directory dialogues/risawoz/data/preprocessed/ --setting kr --version 1 --splits ${split}
+done
